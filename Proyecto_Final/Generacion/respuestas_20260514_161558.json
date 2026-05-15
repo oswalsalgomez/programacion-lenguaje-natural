@@ -1,0 +1,1027 @@
+{
+  "fecha_ejecucion": "20260514_161558",
+  "total_respuestas": 14,
+  "modelos": [
+    "Llama-3-8B-Instruct",
+    "Mistral-7B-Instruct-v0.3"
+  ],
+  "consultas": [
+    {
+      "id": "q01",
+      "pregunta": "¿Cuál es la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q02",
+      "pregunta": "¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q03",
+      "pregunta": "¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?",
+      "filtros": {
+        "tipo_chunk": "tabla"
+      }
+    },
+    {
+      "id": "q04",
+      "pregunta": "¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q05",
+      "pregunta": "¿Qué medidas preventivas se han adoptado o se contemplan en los autos?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q06",
+      "pregunta": "¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q07",
+      "pregunta": "¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?",
+      "filtros": {
+        "tipo_chunk": "tabla"
+      }
+    }
+  ],
+  "respuestas": [
+    {
+      "query": "¿Cuál es la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) La Autoridad Nacional de Licencias Ambientales (ANLA) tiene competencia para iniciar un procedimiento sancionatorio ambiental.\n\n(b) La competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental se deriva de la Ley 1333 de 2009, en particular, los autos de apertura de investigación mencionados en los fragmentos 1, 3, 4 y 5, en los cuales se establece que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin la necesidad de la etapa de indagación preliminar prevista en el artículo 17 (Fragmento 1, 3, 4 y 5). En el caso de Fragmento 5, la etapa de indagación preliminar prevista en el artículo 171 de la Ley 1333 de 2009 no se menciona, pero se establece que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin la necesidad de la etapa de indagación preliminar.\n\n(c) La competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental no se limita a los casos mencionados en los fragmentos consultados. Sin embargo, la información solicitada no se encuentra en los documentos consultados.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "3db2b760-8123-41f2-bf29-4fc775deb9ac",
+          "similitud": 0.9804,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 10,
+          "pagina_fin": 10,
+          "texto_preview": "Incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambient"
+        },
+        {
+          "chunk_id": "d5f74996-270c-4668-8ccb-eebad0f5308e",
+          "similitud": 0.9803,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Actos Administrativos.. La empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S., será responsable de:"
+        },
+        {
+          "chunk_id": "2482572d-e9e8-42a6-860a-2b15571370f2",
+          "similitud": 0.9802,
+          "tipo_chunk": "texto",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "INCUMPLIMIENTO A LOS ACTOS ADMINISTRATIVOS. De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambien"
+        },
+        {
+          "chunk_id": "067feb09-84e0-42ad-a79e-42635f7e1e21",
+          "similitud": 0.9798,
+          "tipo_chunk": "texto",
+          "filename": "2824_2702_2024-04-26.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 18,
+          "pagina_fin": 18,
+          "texto_preview": "Presunto incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracció"
+        },
+        {
+          "chunk_id": "a2dd38a8-8880-40fa-9858-9660e1bab915",
+          "similitud": 0.9795,
+          "tipo_chunk": "texto",
+          "filename": "2826_2449_2024-04-18.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 18,
+          "pagina_fin": 18,
+          "texto_preview": "INCUMPLIMIENTO A LOS ACTOS ADMINISTRATIVOS:. De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambie"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 3.33,
+      "tiempo_generacion_s": 31.11,
+      "consulta_id": "q01"
+    },
+    {
+      "query": "¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) La apertura del procedimiento sancionatorio en estos autos se motivó por la existencia de posibles incumplimientos a los actos administrativos, lo que constituye conductas constitutivas de infracción ambiental.\n\n(b) La información se encuentra en el Fragmento 5 del Auto de Apertura de Investigación 2844_1451_2024-03-18.pdf, en el cual se establece que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin necesidad de la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009.\n\n(c) No se aplica limitación en este caso.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "ab6429c7-da78-46d0-bfe5-fa2d5862cb50",
+          "similitud": 0.98,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "SEC_II",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "Antecedentes relevantes y actuación administrativa. Antecedentes permisivos — Expedientes LAM1801 y LAM6550-00"
+        },
+        {
+          "chunk_id": "d5f74996-270c-4668-8ccb-eebad0f5308e",
+          "similitud": 0.9798,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Actos Administrativos.. La empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S., será responsable de:"
+        },
+        {
+          "chunk_id": "3ac535ff-4fa8-4ec2-ab15-cc82eb27523b",
+          "similitud": 0.9786,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "ART_TERCERO",
+          "pagina_inicio": 4,
+          "pagina_fin": 4,
+          "texto_preview": "- La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables necesa"
+        },
+        {
+          "chunk_id": "72d94e9e-2dc7-45cd-b854-749bab394dda",
+          "similitud": 0.977,
+          "tipo_chunk": "texto",
+          "filename": "2824_2702_2024-04-26.pdf",
+          "numeral": "14",
+          "pagina_inicio": 21,
+          "pagina_fin": 21,
+          "texto_preview": "Radicado nro. 2021133045-1-000 del 30 de junio de 2021, por medio del cual se presentó el Informe de Cumplimiento Ambiental - ICA nro. 16, en el cual se reportaron las actividades adelantadas para el "
+        },
+        {
+          "chunk_id": "3db2b760-8123-41f2-bf29-4fc775deb9ac",
+          "similitud": 0.9768,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 10,
+          "pagina_fin": 10,
+          "texto_preview": "Incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambient"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.09,
+      "tiempo_generacion_s": 18.34,
+      "consulta_id": "q02"
+    },
+    {
+      "query": "¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) Respuesta directa: El Concepto Técnico No. 9174 no especifica requerimientos que se modifiquen, sin embargo, se mantienen los requerimientos establecidos en el Concepto Técnico, como el de la concesión de agua subterránea en un solo pozo por plataforma y facilidades de producción sin exceder un caudal de 16 l/s durante 12 horas continuas en los niveles saturados encontrados a una profundidad mayor de 35 m y que no presenten interferencia con las captaciones de la comunidad.\n\n(b) Fundamentos del contexto con citas:\n- El Concepto Técnico No. 9174 se encuentra en el documento 2799_3668_2024-05-27.pdf, Numeral: 2, Página: 7-16.\n- El requerimiento de concesión de agua subterránea se encuentra en el mismo documento, Numeral: 2, Página: 7.\n\n(c) Limitaciones: La consulta no especifica la sociedad a la que se refiere el Concepto Técnico, por lo que no se puede determinar si se trata de una modificación de requerimientos para una específica sociedad.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "1cdcd86f-14ce-403c-a031-c9d73ff825bb",
+          "similitud": 0.9757,
+          "tipo_chunk": "tabla",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "4",
+          "pagina_inicio": 5,
+          "pagina_fin": 6,
+          "texto_preview": "Para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez los siguientes program. Unnamed: 0 CONTENIDO :------------- BIOTICO Seguimiento y Monitoreo de la Faun"
+        },
+        {
+          "chunk_id": "0a13b784-5f24-4171-a168-8342c6bd87b1",
+          "similitud": 0.9757,
+          "tipo_chunk": "tabla",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "4",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez los siguientes program. Unnamed: 0 CONTENIDO :------------- BIOTICO Seguimiento y Monitoreo de la Faun"
+        },
+        {
+          "chunk_id": "dca48188-95e4-4ee1-887b-4d91e7d806f3",
+          "similitud": 0.9753,
+          "tipo_chunk": "tabla",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "2",
+          "pagina_inicio": 7,
+          "pagina_fin": 16,
+          "texto_preview": "Concesión de aguas subterráneas.. Concepto Técnico No. 9174 del 26 de diciembre de 2023 :-------------------------------------------------------- Ley del 2019, anexando el"
+        },
+        {
+          "chunk_id": "22cf71fc-7778-49ea-aace-358b7a00151e",
+          "similitud": 0.9753,
+          "tipo_chunk": "tabla",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "2",
+          "pagina_inicio": 12,
+          "pagina_fin": 12,
+          "texto_preview": "Concesión de aguas subterráneas.. Concepto Técnico No. 9174 del 26 de diciembre de 2023 :-------------------------------------------------------- Ley del 2019, anexando el"
+        },
+        {
+          "chunk_id": "73ec7c14-990d-4a82-af3e-ecc7fbc4bd58",
+          "similitud": 0.9744,
+          "tipo_chunk": "tabla",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "2",
+          "pagina_inicio": 8,
+          "pagina_fin": 8,
+          "texto_preview": "Concesión de aguas subterráneas.. Año de inicio de actividades autorizadas en la Licencia Ambiental :-------------------------------------------------------------------- 1993 — 2000 2001 — 2006 2007 —"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "tabla",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.09,
+      "tiempo_generacion_s": 30.16,
+      "consulta_id": "q03"
+    },
+    {
+      "query": "¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) La norma jurídica invocada como fundamento para la apertura de la investigación es el artículo 17 de la Ley 1333 de 2009, según los fragmentos de contexto proporcionados.\n\n(b) En los documentos 2554_1092_2023-02-28, 2824_2702_2024-04-26, 2799_3668_2024-05-27 y 2826_2449_2024-04-18, se hace referencia a la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009 como no necesaria para establecer la probable existencia de conductas constitutivas de infracción ambiental.\n\n(c) No se encuentra información en los documentos consultados que indique que se invoque otra norma como fundamento para la apertura de la investigación.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "3db2b760-8123-41f2-bf29-4fc775deb9ac",
+          "similitud": 0.9793,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 10,
+          "pagina_fin": 10,
+          "texto_preview": "Incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambient"
+        },
+        {
+          "chunk_id": "067feb09-84e0-42ad-a79e-42635f7e1e21",
+          "similitud": 0.979,
+          "tipo_chunk": "texto",
+          "filename": "2824_2702_2024-04-26.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 18,
+          "pagina_fin": 18,
+          "texto_preview": "Presunto incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracció"
+        },
+        {
+          "chunk_id": "2482572d-e9e8-42a6-860a-2b15571370f2",
+          "similitud": 0.9784,
+          "tipo_chunk": "texto",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "INCUMPLIMIENTO A LOS ACTOS ADMINISTRATIVOS. De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambien"
+        },
+        {
+          "chunk_id": "a2dd38a8-8880-40fa-9858-9660e1bab915",
+          "similitud": 0.9779,
+          "tipo_chunk": "texto",
+          "filename": "2826_2449_2024-04-18.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 18,
+          "pagina_fin": 18,
+          "texto_preview": "INCUMPLIMIENTO A LOS ACTOS ADMINISTRATIVOS:. De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambie"
+        },
+        {
+          "chunk_id": "3ac535ff-4fa8-4ec2-ab15-cc82eb27523b",
+          "similitud": 0.977,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "ART_TERCERO",
+          "pagina_inicio": 4,
+          "pagina_fin": 4,
+          "texto_preview": "- La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables necesa"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.09,
+      "tiempo_generacion_s": 23.32,
+      "consulta_id": "q04"
+    },
+    {
+      "query": "¿Qué medidas preventivas se han adoptado o se contemplan en los autos?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) Las medidas preventivas se han adoptado o se contemplan en los autos de apertura de procedimientos sancionatorios de la Autoridad Nacional de Licencias Ambientales (ANLA) en cuanto a la calidad del hábitat a lo largo del tiempo y la permanencia de las especies, como se indica en el fragmento 4:\n\n- La calidad del hábitat a lo largo del tiempo y la permanencia de las especies.\n\n(b) Fundamentos del contexto:\n[Documento: 2844_1451_2024-03-18.pdf, Numeral: a, Página: 7-8]\n\n(c) Limitaciones: La consulta no especifica el tipo de medidas preventivas relacionadas con otros aspectos del proyecto, por lo que no se puede afirmar que todas las medidas preventivas se han adoptado o se contemplan en los autos.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "ab6429c7-da78-46d0-bfe5-fa2d5862cb50",
+          "similitud": 0.9709,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "SEC_II",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "Antecedentes relevantes y actuación administrativa. Antecedentes permisivos — Expedientes LAM1801 y LAM6550-00"
+        },
+        {
+          "chunk_id": "d5f74996-270c-4668-8ccb-eebad0f5308e",
+          "similitud": 0.9707,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Actos Administrativos.. La empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S., será responsable de:"
+        },
+        {
+          "chunk_id": "cd786bdb-fb24-458d-a09b-86da348bc3e1",
+          "similitud": 0.9694,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "2",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Plan de Desmantelamiento, Abandono y Restauración Final. (…)"
+        },
+        {
+          "chunk_id": "f1f91fa7-b553-41cd-9b82-d8a408d6d0d0",
+          "similitud": 0.9687,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "a",
+          "pagina_inicio": 7,
+          "pagina_fin": 8,
+          "texto_preview": "La calidad del hábitat a lo largo del tiempo y la permanencia de las especies.. 35 No. 001451 Del 18 MAR. 2024 Hoja No. 8 de Auto. 13 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO"
+        },
+        {
+          "chunk_id": "3ac535ff-4fa8-4ec2-ab15-cc82eb27523b",
+          "similitud": 0.9686,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "ART_TERCERO",
+          "pagina_inicio": 4,
+          "pagina_fin": 4,
+          "texto_preview": "- La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables necesa"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.09,
+      "tiempo_generacion_s": 21.95,
+      "consulta_id": "q05"
+    },
+    {
+      "query": "¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) Los presuntos infractores identificados son la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S. [Fragmento 2].\n\n(b) La conducta que se les imputa no se especifica explícitamente en los documentos consultados. Sin embargo, se puede inferir que la conducta en cuestión podría estar relacionada con la ejecución del proyecto, ya que la empresa es responsable de ello [Fragmento 2]. Además, se menciona un procedimiento sancionatorio ambiental en relación con la calidad del hábitat y la permanencia de especies [Fragmento 4], lo que sugiere que la conducta en cuestión podría estar relacionada con la protección del medio ambiente.\n\n(c) La información sobre la conducta específica que se les imputa no se encuentra en los documentos consultados.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "ab6429c7-da78-46d0-bfe5-fa2d5862cb50",
+          "similitud": 0.9737,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "SEC_II",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "Antecedentes relevantes y actuación administrativa. Antecedentes permisivos — Expedientes LAM1801 y LAM6550-00"
+        },
+        {
+          "chunk_id": "d5f74996-270c-4668-8ccb-eebad0f5308e",
+          "similitud": 0.9731,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Actos Administrativos.. La empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S., será responsable de:"
+        },
+        {
+          "chunk_id": "3ac535ff-4fa8-4ec2-ab15-cc82eb27523b",
+          "similitud": 0.9711,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "ART_TERCERO",
+          "pagina_inicio": 4,
+          "pagina_fin": 4,
+          "texto_preview": "- La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables necesa"
+        },
+        {
+          "chunk_id": "f1f91fa7-b553-41cd-9b82-d8a408d6d0d0",
+          "similitud": 0.9684,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "a",
+          "pagina_inicio": 7,
+          "pagina_fin": 8,
+          "texto_preview": "La calidad del hábitat a lo largo del tiempo y la permanencia de las especies.. 35 No. 001451 Del 18 MAR. 2024 Hoja No. 8 de Auto. 13 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO"
+        },
+        {
+          "chunk_id": "cd786bdb-fb24-458d-a09b-86da348bc3e1",
+          "similitud": 0.9678,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "2",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Plan de Desmantelamiento, Abandono y Restauración Final. (…)"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.1,
+      "tiempo_generacion_s": 19.07,
+      "consulta_id": "q06"
+    },
+    {
+      "query": "¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) Para acreditar el cumplimiento de las obligaciones ambientales, se deben enviar comunicaciones con los debidos soportes, informando la ejecución de las obligaciones, en consecuencia se evaluará el cumplimiento total de obligaciones derivadas de la Licencia Ambiental [Contexto del Fragmento 2 — bloque padre].\n\n(b) La información se encuentra en el documento Acta No. 118 del 31 de marzo de 2022, en la cual se consignó la reunión de seguimiento y control del proyecto “Perforación del Pozo Exploratorio Liebre Deep — PELD”, con base en el Concepto Técnico No. 1592 del 30 de marzo de 2022 [Contexto del Fragmento 2 — bloque padre].\n\n(c) No se especifican obligaciones adicionales en el contexto consultado.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "f96a54d7-e869-4375-a388-70ede5ea9a4f",
+          "similitud": 0.982,
+          "tipo_chunk": "tabla",
+          "filename": "2826_2449_2024-04-18.pdf",
+          "numeral": "b",
+          "pagina_inicio": 11,
+          "pagina_fin": 11,
+          "texto_preview": "Una vez se cumpla con lo establecido en la licencia ambiental y el Plan de Manejo Ambiental PMA, y la sociedad se encuen. realiza como :-------------------------------------- complemento. De ¡igual ma"
+        },
+        {
+          "chunk_id": "e562686d-cc23-4b84-bb12-5acf4f7ea216",
+          "similitud": 0.982,
+          "tipo_chunk": "tabla",
+          "filename": "2826_2449_2024-04-18.pdf",
+          "numeral": "b",
+          "pagina_inicio": 8,
+          "pagina_fin": 11,
+          "texto_preview": "Una vez se cumpla con lo establecido en la licencia ambiental y el Plan de Manejo Ambiental PMA, y la sociedad se encuen. realiza como :-------------------------------------- complemento. De ¡igual ma"
+        },
+        {
+          "chunk_id": "0a13b784-5f24-4171-a168-8342c6bd87b1",
+          "similitud": 0.9813,
+          "tipo_chunk": "tabla",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "4",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez los siguientes program. Unnamed: 0 CONTENIDO :------------- BIOTICO Seguimiento y Monitoreo de la Faun"
+        },
+        {
+          "chunk_id": "1cdcd86f-14ce-403c-a031-c9d73ff825bb",
+          "similitud": 0.9813,
+          "tipo_chunk": "tabla",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "4",
+          "pagina_inicio": 5,
+          "pagina_fin": 6,
+          "texto_preview": "Para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez los siguientes program. Unnamed: 0 CONTENIDO :------------- BIOTICO Seguimiento y Monitoreo de la Faun"
+        },
+        {
+          "chunk_id": "73ec7c14-990d-4a82-af3e-ecc7fbc4bd58",
+          "similitud": 0.9811,
+          "tipo_chunk": "tabla",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "2",
+          "pagina_inicio": 8,
+          "pagina_fin": 8,
+          "texto_preview": "Concesión de aguas subterráneas.. Año de inicio de actividades autorizadas en la Licencia Ambiental :-------------------------------------------------------------------- 1993 — 2000 2001 — 2006 2007 —"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "tabla",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.08,
+      "tiempo_generacion_s": 20.38,
+      "consulta_id": "q07"
+    },
+    {
+      "query": "¿Cuál es la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La competencia de la Autoridad Nacional de Licencias Ambientales (ANLA) para iniciar un procedimiento sancionatorio ambiental se encuentra establecida en el artículo 17 de la Ley 1333 de 2009, que establece que la ANLA tiene competencia para investigar y sancionar las infracciones ambientales cometidas por los particulares y las empresas que desarrollen actividades que afecten el medio ambiente.\n\n(b) Fundamentos del contexto: Los fragmentos 1, 3, 4 y 5 mencionan que la ANLA considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin necesidad de etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, lo que indica que la ANLA tiene competencia para iniciar el procedimiento sancionatorio ambiental.\n\n(c) Limitaciones: La competencia de la ANLA se limita a las infracciones ambientales cometidas por particulares y empresas que desarrollen actividades que afecten el medio ambiente, según lo establecido en el artículo 17 de la Ley 1333 de 2009.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "3db2b760-8123-41f2-bf29-4fc775deb9ac",
+          "similitud": 0.9804,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 10,
+          "pagina_fin": 10,
+          "texto_preview": "Incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambient"
+        },
+        {
+          "chunk_id": "d5f74996-270c-4668-8ccb-eebad0f5308e",
+          "similitud": 0.9803,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Actos Administrativos.. La empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S., será responsable de:"
+        },
+        {
+          "chunk_id": "2482572d-e9e8-42a6-860a-2b15571370f2",
+          "similitud": 0.9802,
+          "tipo_chunk": "texto",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "INCUMPLIMIENTO A LOS ACTOS ADMINISTRATIVOS. De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambien"
+        },
+        {
+          "chunk_id": "067feb09-84e0-42ad-a79e-42635f7e1e21",
+          "similitud": 0.9798,
+          "tipo_chunk": "texto",
+          "filename": "2824_2702_2024-04-26.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 18,
+          "pagina_fin": 18,
+          "texto_preview": "Presunto incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracció"
+        },
+        {
+          "chunk_id": "a2dd38a8-8880-40fa-9858-9660e1bab915",
+          "similitud": 0.9795,
+          "tipo_chunk": "texto",
+          "filename": "2826_2449_2024-04-18.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 18,
+          "pagina_fin": 18,
+          "texto_preview": "INCUMPLIMIENTO A LOS ACTOS ADMINISTRATIVOS:. De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambie"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.19,
+      "tiempo_generacion_s": 21.96,
+      "consulta_id": "q01"
+    },
+    {
+      "query": "¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La apertura del procedimiento sancionatorio se motiva por la posible existencia de conductas constitutivas de infracción ambiental, según se establece en el Fragmento 5 (Documento: 2554_1092_2023-02-28.pdf, Numeral: SEC_IV, Página: 10-10).\n\n(b) Fundamentos del contexto: El Fragmento 5 se refiere a la existencia de incumplimiento a los actos administrativos, lo que permite considerar que hay mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental. Esto se basa en la información presentada en el Informe de Cumplimiento Ambiental - ICA nro. 16 (Fragmento 4, Documento: 2824_2702_2024-04-26.pdf, Numeral: 14, Página: 21-21), que reporta las actividades adelantadas por la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S. entre enero y diciembre de 2020.\n\n(c) Limitaciones: La información solicitada no se encuentra en los documentos consultados sobre los antecedentes permisivos (Fragmento 1) y la responsabilidad de la empresa (Fragmento 2).",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "ab6429c7-da78-46d0-bfe5-fa2d5862cb50",
+          "similitud": 0.98,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "SEC_II",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "Antecedentes relevantes y actuación administrativa. Antecedentes permisivos — Expedientes LAM1801 y LAM6550-00"
+        },
+        {
+          "chunk_id": "d5f74996-270c-4668-8ccb-eebad0f5308e",
+          "similitud": 0.9798,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Actos Administrativos.. La empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S., será responsable de:"
+        },
+        {
+          "chunk_id": "3ac535ff-4fa8-4ec2-ab15-cc82eb27523b",
+          "similitud": 0.9786,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "ART_TERCERO",
+          "pagina_inicio": 4,
+          "pagina_fin": 4,
+          "texto_preview": "- La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables necesa"
+        },
+        {
+          "chunk_id": "72d94e9e-2dc7-45cd-b854-749bab394dda",
+          "similitud": 0.977,
+          "tipo_chunk": "texto",
+          "filename": "2824_2702_2024-04-26.pdf",
+          "numeral": "14",
+          "pagina_inicio": 21,
+          "pagina_fin": 21,
+          "texto_preview": "Radicado nro. 2021133045-1-000 del 30 de junio de 2021, por medio del cual se presentó el Informe de Cumplimiento Ambiental - ICA nro. 16, en el cual se reportaron las actividades adelantadas para el "
+        },
+        {
+          "chunk_id": "3db2b760-8123-41f2-bf29-4fc775deb9ac",
+          "similitud": 0.9768,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 10,
+          "pagina_fin": 10,
+          "texto_preview": "Incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambient"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.1,
+      "tiempo_generacion_s": 23.69,
+      "consulta_id": "q02"
+    },
+    {
+      "query": "¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La información solicitada no se encuentra en los documentos consultados.\n\n(b) Fundamentos del contexto:\n\n* El Fragmento 1 se refiere a la autorización de la cesión parcial de los derechos y obligaciones derivados del Plan de Manejo Ambiental establecido mediante la Resolución No. 758 del 01 de agosto de 2013, a favor de la sociedad CENIT TRANSPORTE Y LOGISTICA DE HIDROCARBUROS S.A.S.\n* El Fragmento 3 se refiere a la concesión de aguas subterráneas a la sociedad OCCIDENTAL DE COLOMBIA LLC, según el Concepto Técnico No. 9174 del 26 de diciembre de 2023.\n* El Fragmento 5 se refiere al año de inicio de actividades autorizadas en la Licencia Ambiental, desde 1993 hasta 2018.\n\n(c) Limitaciones: No se encuentran requerimientos del concepto técnico en los documentos consultados que se mantengan o se modifiquen, ya que los fragmentos proporcionados no contienen información sobre conceptos técnicos.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "1cdcd86f-14ce-403c-a031-c9d73ff825bb",
+          "similitud": 0.9757,
+          "tipo_chunk": "tabla",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "4",
+          "pagina_inicio": 5,
+          "pagina_fin": 6,
+          "texto_preview": "Para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez los siguientes program. Unnamed: 0 CONTENIDO :------------- BIOTICO Seguimiento y Monitoreo de la Faun"
+        },
+        {
+          "chunk_id": "0a13b784-5f24-4171-a168-8342c6bd87b1",
+          "similitud": 0.9757,
+          "tipo_chunk": "tabla",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "4",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez los siguientes program. Unnamed: 0 CONTENIDO :------------- BIOTICO Seguimiento y Monitoreo de la Faun"
+        },
+        {
+          "chunk_id": "dca48188-95e4-4ee1-887b-4d91e7d806f3",
+          "similitud": 0.9753,
+          "tipo_chunk": "tabla",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "2",
+          "pagina_inicio": 7,
+          "pagina_fin": 16,
+          "texto_preview": "Concesión de aguas subterráneas.. Concepto Técnico No. 9174 del 26 de diciembre de 2023 :-------------------------------------------------------- Ley del 2019, anexando el"
+        },
+        {
+          "chunk_id": "22cf71fc-7778-49ea-aace-358b7a00151e",
+          "similitud": 0.9753,
+          "tipo_chunk": "tabla",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "2",
+          "pagina_inicio": 12,
+          "pagina_fin": 12,
+          "texto_preview": "Concesión de aguas subterráneas.. Concepto Técnico No. 9174 del 26 de diciembre de 2023 :-------------------------------------------------------- Ley del 2019, anexando el"
+        },
+        {
+          "chunk_id": "73ec7c14-990d-4a82-af3e-ecc7fbc4bd58",
+          "similitud": 0.9744,
+          "tipo_chunk": "tabla",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "2",
+          "pagina_inicio": 8,
+          "pagina_fin": 8,
+          "texto_preview": "Concesión de aguas subterráneas.. Año de inicio de actividades autorizadas en la Licencia Ambiental :-------------------------------------------------------------------- 1993 — 2000 2001 — 2006 2007 —"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "tabla",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.08,
+      "tiempo_generacion_s": 21.66,
+      "consulta_id": "q03"
+    },
+    {
+      "query": "¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La norma que se invoca como fundamento jurídico para la apertura de la investigación es el artículo 17 de la Ley 1333 de 2009, según se menciona en los fragmentos 1 y 2, y los artículos 173 y 171 de la misma ley, según se mencionan en los fragmentos 3 y 4.\n\n(b) Fundamentos del contexto: Los fragmentos 1, 2, 3 y 4 establecen que se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin que se considere necesaria la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, a través del auto de apertura de investigación. Esto se basa en el incumplimiento a los actos administrativos.\n\n(c) Limitaciones: La información solicitada se encuentra en los fragmentos 1, 2, 3 y 4, y no se requiere información adicional para responder la consulta jurídica.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "3db2b760-8123-41f2-bf29-4fc775deb9ac",
+          "similitud": 0.9793,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 10,
+          "pagina_fin": 10,
+          "texto_preview": "Incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambient"
+        },
+        {
+          "chunk_id": "067feb09-84e0-42ad-a79e-42635f7e1e21",
+          "similitud": 0.979,
+          "tipo_chunk": "texto",
+          "filename": "2824_2702_2024-04-26.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 18,
+          "pagina_fin": 18,
+          "texto_preview": "Presunto incumplimiento a los actos administrativos. De acuerdo con lo anterior se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracció"
+        },
+        {
+          "chunk_id": "2482572d-e9e8-42a6-860a-2b15571370f2",
+          "similitud": 0.9784,
+          "tipo_chunk": "texto",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "INCUMPLIMIENTO A LOS ACTOS ADMINISTRATIVOS. De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambien"
+        },
+        {
+          "chunk_id": "a2dd38a8-8880-40fa-9858-9660e1bab915",
+          "similitud": 0.9779,
+          "tipo_chunk": "texto",
+          "filename": "2826_2449_2024-04-18.pdf",
+          "numeral": "SEC_IV",
+          "pagina_inicio": 18,
+          "pagina_fin": 18,
+          "texto_preview": "INCUMPLIMIENTO A LOS ACTOS ADMINISTRATIVOS:. De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambie"
+        },
+        {
+          "chunk_id": "3ac535ff-4fa8-4ec2-ab15-cc82eb27523b",
+          "similitud": 0.977,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "ART_TERCERO",
+          "pagina_inicio": 4,
+          "pagina_fin": 4,
+          "texto_preview": "- La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables necesa"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.09,
+      "tiempo_generacion_s": 19.56,
+      "consulta_id": "q04"
+    },
+    {
+      "query": "¿Qué medidas preventivas se han adoptado o se contemplan en los autos?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) Medidas preventivas adoptadas o contempladas en los autos:\n\nEn el contexto, se mencionan las siguientes medidas preventivas:\n\n* En el Fragmento 3 (Documento: 2554_1092_2023-02-28.pdf, Numeral: 2, Página: 6-6), se menciona el Plan de Desmantelamiento, Abandono y Restauración Final, que es una medida preventiva para minimizar el impacto ambiental en el caso de la desactivación del proyecto.\n\n* En el Fragmento 4 (Documento: 2844_1451_2024-03-18.pdf, Numeral: a, Página: 7-8), se menciona la calidad del hábitat a lo largo del tiempo y la permanencia de las especies, lo que sugiere que se han considerado medidas para proteger el medio ambiente y preservar la biodiversidad.\n\n* En el Fragmento 5 (Documento: 2554_1092_2023-02-28.pdf, Numeral: ART_TERCERO, Página: 4-4), se mencionan los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de recursos naturales renovables, lo que sugiere que se han establecido condiciones para minimizar el impacto ambiental.\n\n(b) Fundamentos del contexto con citas:\n\n* Fragmento 3: \"Plan de Desmantelamiento, Abandono y Restauración Final\" (Documento: 2554_1092_2023-02-28.pdf, Numeral: 2, Página: 6-6).\n* Fragmento 4: \"La calidad del hábitat a lo largo del tiempo y la permanencia de las especies\" (Documento: 2844_1451_2024-03-18.pdf, Numeral: a, Página: 7-8).\n* Fragmento 5: \"La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables\" (Documento: 2554_1092_2023-02-28.pdf, Numeral: ART_TERCERO, Página: 4-4).\n\n(c) Limitaciones: La información solicitada se encuentra en los documentos consultados, pero no se mencionan medidas preventivas específicas adoptadas o contempladas en los autos.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "ab6429c7-da78-46d0-bfe5-fa2d5862cb50",
+          "similitud": 0.9709,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "SEC_II",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "Antecedentes relevantes y actuación administrativa. Antecedentes permisivos — Expedientes LAM1801 y LAM6550-00"
+        },
+        {
+          "chunk_id": "d5f74996-270c-4668-8ccb-eebad0f5308e",
+          "similitud": 0.9707,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Actos Administrativos.. La empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S., será responsable de:"
+        },
+        {
+          "chunk_id": "cd786bdb-fb24-458d-a09b-86da348bc3e1",
+          "similitud": 0.9694,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "2",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Plan de Desmantelamiento, Abandono y Restauración Final. (…)"
+        },
+        {
+          "chunk_id": "f1f91fa7-b553-41cd-9b82-d8a408d6d0d0",
+          "similitud": 0.9687,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "a",
+          "pagina_inicio": 7,
+          "pagina_fin": 8,
+          "texto_preview": "La calidad del hábitat a lo largo del tiempo y la permanencia de las especies.. 35 No. 001451 Del 18 MAR. 2024 Hoja No. 8 de Auto. 13 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO"
+        },
+        {
+          "chunk_id": "3ac535ff-4fa8-4ec2-ab15-cc82eb27523b",
+          "similitud": 0.9686,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "ART_TERCERO",
+          "pagina_inicio": 4,
+          "pagina_fin": 4,
+          "texto_preview": "- La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables necesa"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.09,
+      "tiempo_generacion_s": 44.12,
+      "consulta_id": "q05"
+    },
+    {
+      "query": "¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) Los presuntos infractores identificados son la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S.\n\n(b) Fundamentos del contexto:\n\n* En el Fragmento 2, se establece que la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S. será responsable de ciertos actos administrativos, sin especificar qué conductas se le imputan.\n* En el Fragmento 3, se menciona que la Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de recursos naturales renovables, pero no se especifica qué conductas se le imputan a la empresa.\n* En el Fragmento 4, se menciona la calidad del hábitat y la permanencia de especies, lo que sugiere que la empresa podría estar afectando el medio ambiente de manera no permitida.\n* En el Fragmento 5, se menciona un Plan de Desmantelamiento, Abandono y Restauración Final, lo que sugiere que la empresa podría estar incurriendo en responsabilidad ambiental.\n\n(c) Limitaciones: La información proporcionada no especifica concretamente qué conductas se le imputan a la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S. Sin embargo, se puede inferir que la empresa podría estar incumpliendo disposiciones ambientales y afectando el medio ambiente de manera no permitida.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "ab6429c7-da78-46d0-bfe5-fa2d5862cb50",
+          "similitud": 0.9737,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "SEC_II",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "Antecedentes relevantes y actuación administrativa. Antecedentes permisivos — Expedientes LAM1801 y LAM6550-00"
+        },
+        {
+          "chunk_id": "d5f74996-270c-4668-8ccb-eebad0f5308e",
+          "similitud": 0.9731,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Actos Administrativos.. La empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S., será responsable de:"
+        },
+        {
+          "chunk_id": "3ac535ff-4fa8-4ec2-ab15-cc82eb27523b",
+          "similitud": 0.9711,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "ART_TERCERO",
+          "pagina_inicio": 4,
+          "pagina_fin": 4,
+          "texto_preview": "- La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables necesa"
+        },
+        {
+          "chunk_id": "f1f91fa7-b553-41cd-9b82-d8a408d6d0d0",
+          "similitud": 0.9684,
+          "tipo_chunk": "texto",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "a",
+          "pagina_inicio": 7,
+          "pagina_fin": 8,
+          "texto_preview": "La calidad del hábitat a lo largo del tiempo y la permanencia de las especies.. 35 No. 001451 Del 18 MAR. 2024 Hoja No. 8 de Auto. 13 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO"
+        },
+        {
+          "chunk_id": "cd786bdb-fb24-458d-a09b-86da348bc3e1",
+          "similitud": 0.9678,
+          "tipo_chunk": "texto",
+          "filename": "2554_1092_2023-02-28.pdf",
+          "numeral": "2",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Plan de Desmantelamiento, Abandono y Restauración Final. (…)"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.1,
+      "tiempo_generacion_s": 28.55,
+      "consulta_id": "q06"
+    },
+    {
+      "query": "¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La respuesta es que se exigen soportes documentales para acreditar el cumplimiento de las obligaciones ambientales.\n\n(b) Fundamentos del contexto:\n\n* En el Auto de Apertura de Procedimiento Sancionatorio No. 118 del 31 de marzo de 2022, se establece que una vez se cumplan las obligaciones establecidas en la licencia ambiental y el Plan de Manejo Ambiental PMA, la sociedad debe enviar comunicación con los debidos soportes, informando la ejecución de las mismas (Fragmento 2).\n* En el Auto de Apertura de Procedimiento Sancionatorio No. 6 de 13 del 18 de marzo de 2024, se establece que para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez, se requiere la presentación de programas de seguimiento y monitoreo (Fragmento 4).\n* En el Auto de Apertura de Procedimiento Sancionatorio No. 22 del 18 de abril de 2024, se establece que se evaluará el cumplimiento total de las obligaciones derivadas de la Licencia Ambiental, una vez se cumplan las obligaciones establecidas en la licencia ambiental y el Plan de Manejo Ambiental PMA (Fragmento 1).\n\n(c) Limitaciones: La información solicitada no se encuentra en los documentos consultados. Sin embargo, se puede inferir que se requiere la presentación de soportes documentales para acreditar el cumplimiento de las obligaciones ambientales, como programas de seguimiento y monitoreo, informes de ejecución de las obligaciones y otros documentos que acrediten el cumplimiento de las condiciones establecidas en la licencia ambiental y el Plan de Manejo Ambiental PMA.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "f96a54d7-e869-4375-a388-70ede5ea9a4f",
+          "similitud": 0.982,
+          "tipo_chunk": "tabla",
+          "filename": "2826_2449_2024-04-18.pdf",
+          "numeral": "b",
+          "pagina_inicio": 11,
+          "pagina_fin": 11,
+          "texto_preview": "Una vez se cumpla con lo establecido en la licencia ambiental y el Plan de Manejo Ambiental PMA, y la sociedad se encuen. realiza como :-------------------------------------- complemento. De ¡igual ma"
+        },
+        {
+          "chunk_id": "e562686d-cc23-4b84-bb12-5acf4f7ea216",
+          "similitud": 0.982,
+          "tipo_chunk": "tabla",
+          "filename": "2826_2449_2024-04-18.pdf",
+          "numeral": "b",
+          "pagina_inicio": 8,
+          "pagina_fin": 11,
+          "texto_preview": "Una vez se cumpla con lo establecido en la licencia ambiental y el Plan de Manejo Ambiental PMA, y la sociedad se encuen. realiza como :-------------------------------------- complemento. De ¡igual ma"
+        },
+        {
+          "chunk_id": "0a13b784-5f24-4171-a168-8342c6bd87b1",
+          "similitud": 0.9813,
+          "tipo_chunk": "tabla",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "4",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez los siguientes program. Unnamed: 0 CONTENIDO :------------- BIOTICO Seguimiento y Monitoreo de la Faun"
+        },
+        {
+          "chunk_id": "1cdcd86f-14ce-403c-a031-c9d73ff825bb",
+          "similitud": 0.9813,
+          "tipo_chunk": "tabla",
+          "filename": "2844_1451_2024-03-18.pdf",
+          "numeral": "4",
+          "pagina_inicio": 5,
+          "pagina_fin": 6,
+          "texto_preview": "Para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez los siguientes program. Unnamed: 0 CONTENIDO :------------- BIOTICO Seguimiento y Monitoreo de la Faun"
+        },
+        {
+          "chunk_id": "73ec7c14-990d-4a82-af3e-ecc7fbc4bd58",
+          "similitud": 0.9811,
+          "tipo_chunk": "tabla",
+          "filename": "2799_3668_2024-05-27.pdf",
+          "numeral": "2",
+          "pagina_inicio": 8,
+          "pagina_fin": 8,
+          "texto_preview": "Concesión de aguas subterráneas.. Año de inicio de actividades autorizadas en la Licencia Ambiental :-------------------------------------------------------------------- 1993 — 2000 2001 — 2006 2007 —"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "tabla",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.1,
+      "tiempo_generacion_s": 34.9,
+      "consulta_id": "q07"
+    }
+  ]
+}
