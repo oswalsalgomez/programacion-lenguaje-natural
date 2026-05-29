@@ -1,6 +1,6 @@
 """
 retriever_utils.py — utilidades para usar el motor de retrieval ANLA en otros notebooks.
-Generado por Etapa 3 (v2: con fecha_ordinal para filtros de rango).
+Generado por Etapa 3 (v2: con fecha_ordinal para filtros de rango y metadatos robustos).
 
 Uso típico:
     from retriever_utils import Retriever
@@ -88,11 +88,15 @@ class Retriever:
             conds.append({"fecha_ordinal": {"$gte": _fecha_a_ordinal(fecha_desde)}})
         if fecha_hasta:
             conds.append({"fecha_ordinal": {"$lte": _fecha_a_ordinal(fecha_hasta)}})
+
+        # Manejo robusto de filtros extra
         if filtros_extra:
             if isinstance(filtros_extra, list):
-                conds.extend(filtros_extra)
-            else:
+                for f in filtros_extra:
+                    if f: conds.append(f)
+            elif isinstance(filtros_extra, dict) and filtros_extra:
                 conds.append(filtros_extra)
+
         if not conds:
             where = None
         elif len(conds) == 1:
@@ -104,7 +108,12 @@ class Retriever:
         results = self.collection.query(
             query_embeddings=[query_emb], n_results=top_k, where=where
         )
+
         out = []
+        # Validación preventiva si no hay coincidencias
+        if not results or not results["ids"] or len(results["ids"][0]) == 0:
+            return out
+
         for i in range(len(results["ids"][0])):
             dist = results["distances"][0][i]
             out.append({
@@ -121,16 +130,20 @@ class Retriever:
         if md.get("tipo_chunk") != "tabla":
             return None
         bloque_padre_id = md.get("bloque_id_padre")
+        id_doc = md.get("id_documento")
         if not bloque_padre_id:
             return None
+
+        # Filtro compuesto plano seguro para .get()
         res = self.collection.get(
             where={"$and": [
-                {"bloque_id":  {"$eq": bloque_padre_id}},
-                {"tipo_chunk": {"$eq": "texto"}},
+                {"id_documento": {"$eq": id_doc}},
+                {"bloque_id":    {"$eq": bloque_padre_id}},
+                {"tipo_chunk":   {"$eq": "texto"}},
             ]},
-            limit=10,
+            limit=50,
         )
-        if not res["ids"]:
+        if not res or not res["ids"]:
             return None
         items = list(zip(res["metadatas"], res["documents"]))
         items.sort(key=lambda x: x[0].get("chunk_index", 0))
