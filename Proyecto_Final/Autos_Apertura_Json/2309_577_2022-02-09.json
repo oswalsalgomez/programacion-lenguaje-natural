@@ -1,0 +1,157 @@
+{
+  "id_documento": "AUTO_000577_2022-02-09",
+  "filename": "2309_577_2022-02-09.pdf",
+  "tipo_documento": "AUTO",
+  "numero_documento": "577",
+  "fecha_documento": "2022-02-09",
+  "fecha_ordinal": 20220209,
+  "expediente_sancionatorio": "SAN0147-00-2021",
+  "expediente_permisivo": "LAM4852",
+  "empresa": "ECOPETROL S.A.",
+  "nit_investigado": "899.999.068-1",
+  "proyecto": "Área de Interés de Perforación Exploratoria Aullador",
+  "municipio": "Rionegro",
+  "municipios": [
+    "Rionegro"
+  ],
+  "ubicacion": "Rionegro",
+  "materias": [
+    "obligaciones_seguimiento_ica",
+    "compensacion_inversion"
+  ],
+  "materias_score": {
+    "obligaciones_seguimiento_ica": 5,
+    "compensacion_inversion": 1
+  },
+  "bloques": [
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0000",
+      "numeral": "INTRO",
+      "tipo_numeral": "intro",
+      "nivel": 0,
+      "titulo": "ENCABEZADO Y PROEMIO",
+      "texto": "Libertad y Orden República de Colombia Ministerio de Ambiente y Desarrollo Sostenible AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES - ANLA – AUTO N° 00577 ( 09 de febrero de 2022 ) “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” El Coordinador del Grupo de Actuaciones Sancionatorias Ambientales adscrito a la Oficina Asesora Jurídica En uso de las facultades legales establecidas en la Ley 99 de 1993, en la Ley 1333 de 2009, así como de las conferidas por el Decreto - Ley 3573 de 2011, modificado por el Decreto 376 de 2020 y de las asignadas en el artículo tercero de la Resolución N° 00254 del 02 de febrero de 2021 y el artículo primero de la Resolución N° 155 del 04 de enero de 2021,",
+      "pagina_inicio": 1,
+      "pagina_fin": 1,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0001",
+      "numeral": "CONSIDERANDO",
+      "tipo_numeral": "considerando",
+      "nivel": 0,
+      "titulo": "CONSIDERANDO",
+      "texto": "La Constitución Política de Colombia establece el derecho de todas las personas a gozar de un ambiente sano y el deber del Estado de proteger su diversidad e integridad (Art. 79), planificando “…el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución” además de “…prevenir y controlar los factores de deterioro ambiental, imponer las sanciones legales y exigir la reparación de los daños causados” (Art. 80). La Carta Política señala como obligación del Estado y de las personas, el proteger las riquezas culturales y naturales de la Nación (art. 8 CN), los recursos culturales y naturales del país y velar por la conservación de un ambiente sano (art. 95. Núm.. 8) y determina que “La propiedad es una función social que implica obligaciones. Como tal, le es inherente una función ecológica.” (Art. 58). La Ley 1333 de 2009 “Por la cual se establece el procedimiento sancionatorio ambiental y se dictan otras disposiciones”, determina la titularidad de la potestad sancionatoria ambiental en el Estado, a través de las autoridades ambientales de acuerdo con sus respectivas competencias, y define en su artículo 5° como infracción ambiental: “… toda acción u omisión que constituya violación de las normas contenidas en el Código de Recursos Naturales Renovables, Decreto-ley 2811 de 1974, en la Ley 99 de 1993, en la Ley 165 de 1994 y en las demás disposiciones ambientales vigentes en que las sustituyan o modifiquen y en los actos administrativos emanados de la autoridad ambiental competente. Será también constitutivo de infracción ambiental la comisión de un daño al medio ambiente, con las mismas condiciones que para configurar la responsabilidad civil extracontractual establece el Código Civil y la legislación complementaria, a saber: El daño, el hecho generador con culpa o dolo y el vínculo causal entre los dos. Cuando estos elementos se configuren darán lugar a una sanción administrativa ambiental, sin perjuicio de la responsabilidad que para terceros pueda generar el hecho en materia civil.” El Decreto Ley 3573 de 2011 creó la Autoridad Nacional de Licencias Ambientales (en adelante ANLA o esta Entidad) como una Unidad Administrativa Especial del orden nacional, con autonomía administrativa y financiera, sin personería jurídica, adscrita al Ministerio de Ambiente y Desarrollo Sostenible (en adelante el Ministerio o el MADS) y le otorgó, entre otras, la competencia de otorgar o negar las licencias, permisos y trámites ambientales de competencia del hoy MADS, y de manera expresa, la función de adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, de acuerdo con lo dispuesto en la Ley 1333 de 2009.",
+      "pagina_inicio": 1,
+      "pagina_fin": 1,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0003",
+      "numeral": "1",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Mediante la Resolución N° 1863 del 23 de septiembre de 2010 y sus modificaciones, el entonces Ministerio de Ambiente, Vivienda y Desarrollo Territorial, otorgó Licencia Ambiental a la empresa ECOPETROL",
+      "texto": "Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 1 de 6 ; es E es de todos Auto No. 00577 Del 09 de febrero de 2022 Hoja No. 2 de 6 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL Y SE TOMAN OTRAS DETERMINACIONES”",
+      "pagina_inicio": 1,
+      "pagina_fin": 2,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0010",
+      "numeral": "SEC_II",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Competencia",
+      "texto": "La ANLA es competente para iniciar, adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, teniendo en cuenta que es la autoridad facultada para otorgar y efectuar seguimiento al instrumento ambiental del presente proyecto. Dicha facultad le fue transferida del MADS, de acuerdo con la desconcentración administrativa prevista en los numerales 1°, 2° y 7° del artículo 3° del Decreto 3573 de 2011, en concordancia con lo previsto en el artículo 2° de la Ley 1333 de 2009, siendo por ende competente para el ejercicio de la potestad sancionatoria ambiental que pueda derivarse de los hechos sucedidos en ejecución de este proyecto.",
+      "pagina_inicio": 2,
+      "pagina_fin": 2,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0011",
+      "numeral": "SEC_III",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Caso concreto",
+      "texto": "El hecho por el cual se ordena el inicio de esta actuación tiene su origen en la evaluación técnica para inicio de procedimiento realizada por el Grupo Medio Magdalena Cauca Catatumbo, producto de la cual se emitió el concepto del N° 06408 del 15 de octubre de 2021, el cual sustenta la decisión que se adopta por el presente acto administrativo y se circunscribe al siguiente hecho: Por no presentar a esta Autoridad el informe de calidad de aire y ruido del monitoreo realizado bajo el “Plan de Muestreo Operativo de Antek N° 1780” en la fase de pruebas de producción de los pozos Aullador 1 y Aullador 2, en el periodo de enero a junio de 2016. En ese orden de ideas se desprende del hecho anteriormente enunciado que la sociedad ECOPETROL S.A., beneficiaria de la licencia ambiental otorgada mediante la Resolución N° 1863 del 23 de septiembre de 2010, tenía el deber de dar cumplimiento a las obligaciones derivadas del citado acto administrativo y para el caso que nos ocupa en lo establecido en la ficha de manejo 4.1.5.2 Control de contaminación atmosférica y ruido, la ficha de Manejo 4.2.4.1. Presión Sonora y Calidad de Aire, así como los literales c, d y e del subnumeral 4.1 del numeral 4° del Artículo 4° de la Resolución N° 1863 del 23 de septiembre de 2010, que determinó el compromiso de allegar el informe de calidad de aire y ruido del monitoreo realizado bajo el “Plan de Muestreo Operativo de Antek N° 1780” en la fase de pruebas de producción de los pozos Aullador 1 y Aullador 2, en el periodo de enero a junio de 2016, razón por la cual se procederá a realizar el análisis sobre el hecho como a continuación se realiza: Respecto a este hecho el grupo Medio Magdalena Cauca Catatumbo de esta Entidad en las actividades de seguimiento y control del instrumento ambiental otorgado a ECOPETROL S.A., especialmente en la verificación del cumplimiento de las obligaciones que se derivan de la Resolución N° 1863 del 23 de septiembre de 2010, se encuentran la Ficha de manejo 4.1.5.2, evidenció que la sociedad al parecer no presentó el informe de calidad de aire y ruido, así: Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 2 de 6 me El ambiente Minambiente RS Auto No. 00577 Del 09 de febrero de 2022 Hoja No. 3 de 6 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL Y SE TOMAN OTRAS DETERMINACIONES” “…“Durante las actividades de perforación, pruebas de producción, ECOPETROL S.A. deberá realizar monitoreos de calidad de aire, durante cada etapa, ubicando equipos para tal fin, en los asentamientos cercanos, los cuales deberán disponerse estratégicamente para generar datos confiables de la calidad del aire, en el área influenciada por el proyecto, teniendo en cuenta aspectos tales como: ubicación de las fuentes de emisión, condiciones topográficas, dirección predominante de los vientos, ubicación de receptores sensibles tales como viviendas o áreas pobladas, entre otros. Los muestreos se realizaran de acuerdo con lo establecido en el artículo 4 de la Resolución 601 de 2006, y el protocolo para el monitoreo de la calidad del aire, adoptado mediante la Resolución 760 de 20 de Abril de 2010 y de conformidad con lo establecido en la normatividad vigente en materia de emisiones atmosféricas por fuentes fijas (Protocolo para el seguimiento de la calidad del aire, Resolución 0650 del 29 de Marzo de 2010, Resolución 0909 de junio de 2008, modificada por la Resolución 1309 del 13 de Julio de 2010. Los resultados de los monitoreos, se deberán allegar a este Ministerio y las autoridades ambientales regionales competentes con los informes de cumplimiento ambiental y deberán contener la información establecida en las Protocolos de Control y Seguimiento de la Contaminación del aire y Protocolo para el Monitoreo de la Contaminación generada por fuentes fijas. Estos monitoreos deberán ser realizados a través de laboratorios acreditados por el IDEAM. La Empresa deberá realizar monitoreos de emisión de ruido, de acuerdo con los lineamientos establecidos en la resolución 627 de 2006, para los periodos diurnos y nocturnos; durante las actividades de construcción, perforación y pruebas de producción, en diferentes zonas aledañas a las plataformas multipozo, especialmente áreas pobladas que puedan verse afectadas por factores de ruido generados por el proyecto, con el fin de determinar los niveles de presión sonora generados por las actividades del mismo. Los resultados de los monitoreos debidamente comentados y analizados, deben ser presentados ante las autoridades ambientales regionales competentes, y ante el Ministerio en los informes de Cumplimiento Ambiental” De igual manera, es importante destacar que, estas medidas se encuentran contempladas como obligaciones en los Literales c, d y e del Subnumeral 4.1 del Numeral 4 del Artículo Cuarto de la Resolución N° 1863 del 23 de septiembre de 2010. En el Concepto Técnico de seguimiento 01259 del 27 de marzo de 2018 (visita realizada el 16 de febrero de 2018) para la evaluación de cumplimiento a los planes y programas, específicamente en cumplimiento al plan de manejo ambiental y el plan de seguimiento y monitoreo (Fichas de manejo: 4.1.5.2 y 4.2.4.1), se evaluaron los monitoreos de aire y ruido realizados en la fase de pruebas de producción de los pozos Aullador 1 y Aullador 2, las cuales fueron desarrolladas en los periodos de marzo de 2013 a diciembre de 2015 y de enero a junio de 2016. En cuanto a los monitoreos de aire realizados durante los meses de junio y julio de 2013 en tres estaciones para el pozo Aullador 1 y los realizados en los meses de marzo y abril de 2014 en tres estaciones para el pozo Aullador 2, se destaca de manera general que todos los parámetros monitoreados se encontraban por debajo de los límites máximos permisibles, siendo así aceptables normativamente; en el caso de los monitoreos de ruido realizados en el mes de junio de 2013 para el pozo Aullador 1 y en el mes de marzo de 2014 para el pozo Aullador 2, se presentaron algunos valores por encima de los límites máximos permisibles, por lo tanto se estableció el requerimiento de presentar los soportes de las medidas implementadas para controlar dichas emisiones de ruido. Sin embargo, para los monitoreos de aire y ruido en ambos pozos en el periodo de enero a junio de 2016, no fue posible realizar la evaluación de resultados, ya que la sociedad ECOPETROL S.A mediante radicado 2016036711-1-000 del 8 de julio de 2016 (ICA de la etapa de pruebas extensas del pozo exploratorio Aullador 1), solo remitió el acta de inicio y el plan de muestreo operativo 1780 de la empresa Antek, en el cual se indicaban los puntos de monitoreo de aire y ruido para los pozos Aullador 1 y Aullador 2 y se establecía como fecha de Monitoreo: 2016-06-22 al 2016-07-13, razón por la cual la presentación de dichos informes quedó establecida como un requerimiento del Concepto Técnico y fue requerido a la Sociedad en el literal c. del artículo segundo del Auto 05121 del 28 de junio de 2018 (notificado el 04 de septiembre de 2018)…” Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 3 de 6 me El ambiente Minambiente RS Auto No. 00577 Del 09 de febrero de 2022 Hoja No. 4 de 6 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL Y SE TOMAN OTRAS DETERMINACIONES” (…) Para la segunda etapa de pruebas de producción de los pozos Aullador 1 y Aullador 2, no se presentaron soportes de monitoreos de aire y ruido tal como se requiere en las Ficha de manejo 4.1.5.2 Control de Contaminación Atmosférica y Ruido, la Ficha de Manejo 4.2.4.1. Presión Sonora y Calidad de Aire, los Literales c, d y e del Subnumeral 4.1 del Numeral 4 del Artículo Cuarto de la Resolución N° 1863 del 23 de septiembre de 2010 y el literal c. del artículo segundo del Auto 05121 del 28 de junio de 2018. - Que así mismo el monitoreo presentado en diciembre de 2016 no cumple con el objetivo de establecer las condiciones de calidad de aire durante el desarrollo de las pruebas de producción en ese periodo (enero - junio 2016). - Que, tal como lo manifiesta el CT 05980 del 28 de septiembre de 2020 se considera inadmisible que, luego de realizados los monitoreos por parte de Antek, no se entregue el informe, por las razones expuestas, en especial, porque ya se tenía el resultado del monitoreo para hacer la respectiva presentación. - Finalmente se trata de un requerimiento que la Sociedad ya no puede cumplir, dejando a esta Autoridad con un faltante de información que permita verificar el cumplimiento de la mencionada ficha 4.1.5.2 Control de contaminación atmosférica y ruido, y el cumplimiento de la ficha de seguimiento y monitoreo: 4.2.4.1. Presión Sonora y Calidad de Aire.. (…)”. Conforme a lo anterior se evidencia que la sociedad ECOPETROL S.A al parecer no presentó el informe de calidad de aire y ruido de los monitoreos llevados a cabo bajo el “Plan de Muestreo Operativo de Antek N° 1780”, en la fase de pruebas de producción de los pozos Aullador 1 y Aullador 2, realizadas en el periodo de enero a junio de 2016, incumpliendo normativamente las medidas establecidas en la en la ficha de manejo 4.1.5.2 Control de contaminación atmosférica y ruido, la ficha de Manejo 4.2.4.1. Presión Sonora y Calidad de Aire, los literales c, d y e del subnumeral 4.1 del numeral 4 del artículo cuarto de la resolución N° 1863 del 23 de septiembre de 2010 y el literal c. del artículo segundo del Auto N° 5121 del 28 de junio de 2018. Dicho lo anterior y conforme a lo señalado en el concepto técnico N° 6408 del 15 de octubre de 2021, se evidencia una presunta transgresión por parte de la sociedad ECOPETROL S.A, a la normatividad ambiental, por lo que esta Entidad considera procedente dar inicio al trámite sancionatorio ambiental por este hecho, con el fin de establecer si esta conducta es constitutiva o no de infracción ambiental conforme la ley 1333 de 2009 y demás normas concordantes.",
+      "pagina_inicio": 2,
+      "pagina_fin": 4,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0012",
+      "numeral": "SEC_IV",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Incumplimiento a los actos administrativos",
+      "texto": "De acuerdo con lo expuesto se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin que se considera necesaria la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, a través del auto de apertura de investigación. En ese sentido y teniendo en cuenta el análisis aquí realizado sobre el hecho relacionado en el concepto técnico N° 06408 del 15 de octubre de 2021, se concluye que existe mérito jurídico y técnico para iniciar proceso sancionatorio ambiental en contra de Ecopetrol S.A., respecto al hecho referenciado en el acápite III que precede.",
+      "pagina_inicio": 4,
+      "pagina_fin": 4,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0013",
+      "numeral": "v",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Incorporación de pruebas",
+      "texto": "En virtud de lo dispuesto en el artículo 22 de la Ley 1333 del 2009, según el cual, para la verificación de los hechos, la autoridad ambiental competente podrá realizar todo tipo de diligencias administrativas y todas aquellas actuaciones que estime necesarias y pertinentes para determinar con certeza los hechos constitutivos de infracción, se estima necesario incorporar en la presente actuación administrativa los siguientes documentos obrantes en el expediente permisivo LAM4852, los cuales serán apreciados en su conjunto con las pruebas recaudadas durante el trámite sancionatorio y en la oportunidad procesal pertinente, ya que aportan la información necesaria e idónea para que esta Autoridad llegue al pleno convencimiento de la ocurrencia o no de las conductas materias de investigación, así",
+      "pagina_inicio": 4,
+      "pagina_fin": 4,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0016",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Auto N° 0247 del 1 de febrero de 2016.",
+      "texto": "Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 me El ambiente Minambiente RS www.anla.gov.co Email: licencias@anla.gov.co Página 4 de 6 Auto No. 00577 Del 09 de febrero de 2022 Hoja No. 5 de 6 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL Y SE TOMAN OTRAS DETERMINACIONES”",
+      "pagina_inicio": 4,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0030",
+      "numeral": "17",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Radicado N° 2020209804-1-000 del 27 de noviembre de 2020",
+      "texto": "VI. Consideraciones finales Finalmente es pertinente advertir a la sociedad ECOPETROL S.A. por intermedio de sus representantes legales o de sus apoderados debidamente constituidos que, en caso de entrar en proceso de disolución o régimen de insolvencia empresarial o liquidación regulados por las normas vigentes, deberá informar inmediatamente de esta situación a esta autoridad ambiental tal y como se ordenará en la parte dispositiva del presente acto administrativo. Igualmente, se precisa que el expediente SAN0147-00-2021 estará a disposición de la investigada y de cualquier persona, en los términos del inciso cuarto del artículo 36 de la ley 1437 de 2011 y en los plazos señalados en el artículo 14 ibidem. En mérito de lo expuesto, se",
+      "pagina_inicio": 5,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000577_2022-02-09_blk_0031",
+      "numeral": "DISPONE",
+      "tipo_numeral": "dispone",
+      "nivel": 0,
+      "titulo": "DISPONE",
+      "texto": "ARTÍCULO PRIMERO. Ordenar el inicio del procedimiento sancionatorio ambiental en contra de Sociedad ECOPETROL S.A. identificadas con NIT 899.999.068-1, respectivamente de conformidad con el artículo 18 de la Ley 1333 de 2009 y con fundamento en las consideraciones expuestas en la parte motiva de este Auto y específicamente sobre el siguiente hecho: Por no presentar a esta Autoridad el informe de calidad de aire y ruido del monitoreo realizado bajo el “Plan de Muestreo Operativo de Antek N° 1780” en la fase de pruebas de producción de los pozos Aullador 1 y Aullador 2, en el periodo de enero a junio de 2016. PARÁGRAFO. El expediente SAN0147-00-2021 estará a disposición de la investigada y de cualquier persona que así lo requiera en los términos del artículo 36 de la ley 1437 de 2011. ARTÍCULO SEGUNDO. Ordenar la incorporación de cada uno de los documentos enlistados en el acápite “V” “Incorporación de pruebas” de esta providencia, los cuales reposan en el expediente permisivo citado, a través del Grupo de Gestión Documental de la Subdirección Administrativa y Financiera de esta Autoridad. ARTÍCULO TERCERO. Notificar este acto administrativo a la Sociedad ECOPETROL a través de sus apoderados debidamente constituidos, de haberse conferido mandato en la presente actuación sancionatoria, o en su defecto, por intermedio de su representante legal. PARÁGRAFO. Si la investigada entra en proceso de disolución o régimen de insolvencia empresarial o liquidación regulados por las normas vigentes, informará inmediatamente esta situación a la ANLA, con fundamento en los artículos 8, 58, 79, 80, 81, 95 numeral 8 de la Constitución Política de 1991, en la Ley 43 de 1990, en la Ley 222 de 1995, en la Ley 1333 de 2009 y demás normas vigentes y jurisprudencia aplicable. Adicionalmente, realizará la provisión contable respecto de esta obligación contingente, para lo cual deberá tener en cuenta lo dispuesto en el artículo 40 de la Ley 1333 de 2009. Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 5 de 6 me El ambiente Minambiente RS Auto No. 00577 Del 09 de febrero de 2022 Hoja No. 6 de 6 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL Y SE TOMAN OTRAS DETERMINACIONES” ARTÍCULO CUARTO. Comunicar este acto administrativo a la Procuraduría Delegada para Asuntos Ambientales, de conformidad con los artículos 21 y 56 inciso tercero de la Ley 1333 de 2009, para su conocimiento y fines pertinentes. ARTÍCULO QUINTO. Publicar este acto administrativo en la gaceta ambiental de la Autoridad Nacional de Licencias Ambientales, según el inciso segundo del artículo 70 de la Ley 99 de 1993. ARTÍCULO SEXTO. Contra este acto administrativo no procede recurso alguno, de acuerdo con el artículo 75 de la Ley 1437 de 2011. NOTIFÍQUESE, COMUNÍQUESE, PUBLÍQUESE Y CÚMPLASE Dado en Bogotá D.C., a los 09 de febrero de 2022 A AY YC Lo ANA MARIA ORTEGON MENDEZ Coordinadora del Grupo de Actuaciones Sancionatorias Ambientales Ejecutores GIAN CARLO MONTAÑO GRANADOS Contratista Revisor / L�der Expediente N° SAN0147-00-2021 Concepto Técnico N° 06408 del 15 de octubre de 2021 Proceso No.: 2022021143 Archívese en: SAN0147-00-2021 Plantilla_Auto_SILA_v3_42852 Nota: Este es un documento electrónico generado desde los Sistemas de Información de la ANLA. El original reposa en los archivos digitales de la Entidad. Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co El bient pr pe E OS LS Página 6 de 6",
+      "pagina_inicio": 5,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    }
+  ],
+  "tablas": [],
+  "metadata": {
+    "pipeline": "ANLA_parser_v5",
+    "id_estrategia": "determinista",
+    "fecha_procesamiento": "2026-05-22T17:19:08",
+    "total_bloques": 10,
+    "total_tablas": 0,
+    "elementos_procesados": 123,
+    "tipos_elemento": {
+      "Image": 9,
+      "FigureCaption": 2,
+      "UncategorizedText": 13,
+      "Title": 11,
+      "NarrativeText": 64,
+      "Header": 5,
+      "ListItem": 19
+    },
+    "tablas_con_fallback_pdfplumber": 0
+  }
+}

@@ -1,101 +1,119 @@
 consulta_id,query,modelo,respuesta,tiempo_retrieval_s,tiempo_generacion_s,n_chunks_recuperados,similitud_top1,longitud_respuesta_chars
 q01,¿Cuál es la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental?,Mistral-7B-Instruct-v0.3,"(a) La Autoridad Nacional de Licencias Ambientales (ANLA) tiene competencia para iniciar un procedimiento sancionatorio ambiental.
 
-(b) La competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental se deriva de la Ley 1333 de 2009, en particular, los autos de apertura de investigación mencionados en los fragmentos 1, 3, 4 y 5, en los cuales se establece que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin la necesidad de la etapa de indagación preliminar prevista en el artículo 17 (Fragmento 1, 3, 4 y 5). En el caso de Fragmento 5, la etapa de indagación preliminar prevista en el artículo 171 de la Ley 1333 de 2009 no se menciona, pero se establece que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin la necesidad de la etapa de indagación preliminar.
+(b) La competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental se deriva de la Ley 1320 de 2009, en particular de la disposición que establece su competencia para velar por el cumplimiento de las normas ambientales y sancionar a quienes incumplan dichas normas [Fragmento 1, Documento: 2464_5749_2023-07-25.pdf, Numeral: a, Página: 19-19]. Además, se encuentra una práctica de la ANLA de realizar control y seguimiento ambiental a expedientes específicos, como se observa en el Acta No. 317 del 30 de junio de 2022 [Fragmento 2, Documento: 2525_1964_2023-03-24.pdf, Numeral: 7, Página: 6-6].
 
-(c) La competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental no se limita a los casos mencionados en los fragmentos consultados. Sin embargo, la información solicitada no se encuentra en los documentos consultados.",3.33,31.11,5,0.9804,1159
-q02,¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?,Mistral-7B-Instruct-v0.3,"(a) La apertura del procedimiento sancionatorio en estos autos se motivó por la existencia de posibles incumplimientos a los actos administrativos, lo que constituye conductas constitutivas de infracción ambiental.
+(c) No se presentan limitaciones específicas en el contexto consultado que restringan la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental.",5.27,30.57,5,0.9901,912
+q02,¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?,Mistral-7B-Instruct-v0.3,"(a) La apertura del procedimiento sancionatorio en los autos de los documentos 2312_589_2022-02-09, 2896_183_2024-01-18 y 2464_5749_2023-07-25 se justifica por el cumplimiento de las obligaciones establecidas en cada uno de ellos, sin embargo, no se proporciona información específica sobre el hecho que motivó la apertura del procedimiento sancionatorio en estos documentos.
 
-(b) La información se encuentra en el Fragmento 5 del Auto de Apertura de Investigación 2844_1451_2024-03-18.pdf, en el cual se establece que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin necesidad de la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009.
+(b) En el documento 2312_589_2022-02-09, no se especifica el hecho que motivó la apertura del procedimiento sancionatorio.
 
-(c) No se aplica limitación en este caso.",0.09,18.34,5,0.98,618
-q03,¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?,Mistral-7B-Instruct-v0.3,"(a) Respuesta directa: El Concepto Técnico No. 9174 no especifica requerimientos que se modifiquen, sin embargo, se mantienen los requerimientos establecidos en el Concepto Técnico, como el de la concesión de agua subterránea en un solo pozo por plataforma y facilidades de producción sin exceder un caudal de 16 l/s durante 12 horas continuas en los niveles saturados encontrados a una profundidad mayor de 35 m y que no presenten interferencia con las captaciones de la comunidad.
+(b) En el documento 2896_183_2024-01-18, no se especifica el hecho que motivó la apertura del procedimiento sancionatorio.
 
-(b) Fundamentos del contexto con citas:
-- El Concepto Técnico No. 9174 se encuentra en el documento 2799_3668_2024-05-27.pdf, Numeral: 2, Página: 7-16.
-- El requerimiento de concesión de agua subterránea se encuentra en el mismo documento, Numeral: 2, Página: 7.
+(b) En el documento 2464_5749_2023-07-25, el hecho que motivó la apertura del procedimiento sancionatorio es la compensación que debe realizarse con especies nativas, como se indica en el párrafo ""La compensación deberá realizarse con especies nativas"" [Documento: 2464_5749_2023-07-25.pdf, Numeral: a, Página: 19-19].
 
-(c) Limitaciones: La consulta no especifica la sociedad a la que se refiere el Concepto Técnico, por lo que no se puede determinar si se trata de una modificación de requerimientos para una específica sociedad.",0.09,30.16,5,0.9757,958
-q04,¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?,Mistral-7B-Instruct-v0.3,"(a) La norma jurídica invocada como fundamento para la apertura de la investigación es el artículo 17 de la Ley 1333 de 2009, según los fragmentos de contexto proporcionados.
+(c) No se aplica.",0.29,33.52,5,0.9894,962
+q03,¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?,Mistral-7B-Instruct-v0.3,"(a) Respuesta directa:
+Los requerimientos que se mantienen son los siguientes:
+- La Sociedad debe presentar las proyecciones de los volúmenes a transportar.
+- La Sociedad debe presentar los soportes técnicos que permitan establecer que realmente el Plan de Gestión de Riesgo (PGDR), no requería actualizarse.
 
-(b) En los documentos 2554_1092_2023-02-28, 2824_2702_2024-04-26, 2799_3668_2024-05-27 y 2826_2449_2024-04-18, se hace referencia a la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009 como no necesaria para establecer la probable existencia de conductas constitutivas de infracción ambiental.
-
-(c) No se encuentra información en los documentos consultados que indique que se invoque otra norma como fundamento para la apertura de la investigación.",0.09,23.32,5,0.9793,655
-q05,¿Qué medidas preventivas se han adoptado o se contemplan en los autos?,Mistral-7B-Instruct-v0.3,"(a) Las medidas preventivas se han adoptado o se contemplan en los autos de apertura de procedimientos sancionatorios de la Autoridad Nacional de Licencias Ambientales (ANLA) en cuanto a la calidad del hábitat a lo largo del tiempo y la permanencia de las especies, como se indica en el fragmento 4:
-
-- La calidad del hábitat a lo largo del tiempo y la permanencia de las especies.
-
-(b) Fundamentos del contexto:
-[Documento: 2844_1451_2024-03-18.pdf, Numeral: a, Página: 7-8]
-
-(c) Limitaciones: La consulta no especifica el tipo de medidas preventivas relacionadas con otros aspectos del proyecto, por lo que no se puede afirmar que todas las medidas preventivas se han adoptado o se contemplan en los autos.",0.09,21.95,5,0.9709,708
-q06,¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?,Mistral-7B-Instruct-v0.3,"(a) Los presuntos infractores identificados son la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S. [Fragmento 2].
-
-(b) La conducta que se les imputa no se especifica explícitamente en los documentos consultados. Sin embargo, se puede inferir que la conducta en cuestión podría estar relacionada con la ejecución del proyecto, ya que la empresa es responsable de ello [Fragmento 2]. Además, se menciona un procedimiento sancionatorio ambiental en relación con la calidad del hábitat y la permanencia de especies [Fragmento 4], lo que sugiere que la conducta en cuestión podría estar relacionada con la protección del medio ambiente.
-
-(c) La información sobre la conducta específica que se les imputa no se encuentra en los documentos consultados.",0.1,19.07,5,0.9737,758
-q07,¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?,Mistral-7B-Instruct-v0.3,"(a) Para acreditar el cumplimiento de las obligaciones ambientales, se deben enviar comunicaciones con los debidos soportes, informando la ejecución de las obligaciones, en consecuencia se evaluará el cumplimiento total de obligaciones derivadas de la Licencia Ambiental [Contexto del Fragmento 2 — bloque padre].
-
-(b) La información se encuentra en el documento Acta No. 118 del 31 de marzo de 2022, en la cual se consignó la reunión de seguimiento y control del proyecto “Perforación del Pozo Exploratorio Liebre Deep — PELD”, con base en el Concepto Técnico No. 1592 del 30 de marzo de 2022 [Contexto del Fragmento 2 — bloque padre].
-
-(c) No se especifican obligaciones adicionales en el contexto consultado.",0.08,20.38,5,0.982,711
-q01,¿Cuál es la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental?,Llama-3-8B-Instruct,"(a) La competencia de la Autoridad Nacional de Licencias Ambientales (ANLA) para iniciar un procedimiento sancionatorio ambiental se encuentra establecida en el artículo 17 de la Ley 1333 de 2009, que establece que la ANLA tiene competencia para investigar y sancionar las infracciones ambientales cometidas por los particulares y las empresas que desarrollen actividades que afecten el medio ambiente.
-
-(b) Fundamentos del contexto: Los fragmentos 1, 3, 4 y 5 mencionan que la ANLA considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin necesidad de etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, lo que indica que la ANLA tiene competencia para iniciar el procedimiento sancionatorio ambiental.
-
-(c) Limitaciones: La competencia de la ANLA se limita a las infracciones ambientales cometidas por particulares y empresas que desarrollen actividades que afecten el medio ambiente, según lo establecido en el artículo 17 de la Ley 1333 de 2009.",0.19,21.96,5,0.9804,1056
-q02,¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?,Llama-3-8B-Instruct,"(a) La apertura del procedimiento sancionatorio se motiva por la posible existencia de conductas constitutivas de infracción ambiental, según se establece en el Fragmento 5 (Documento: 2554_1092_2023-02-28.pdf, Numeral: SEC_IV, Página: 10-10).
-
-(b) Fundamentos del contexto: El Fragmento 5 se refiere a la existencia de incumplimiento a los actos administrativos, lo que permite considerar que hay mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental. Esto se basa en la información presentada en el Informe de Cumplimiento Ambiental - ICA nro. 16 (Fragmento 4, Documento: 2824_2702_2024-04-26.pdf, Numeral: 14, Página: 21-21), que reporta las actividades adelantadas por la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S. entre enero y diciembre de 2020.
-
-(c) Limitaciones: La información solicitada no se encuentra en los documentos consultados sobre los antecedentes permisivos (Fragmento 1) y la responsabilidad de la empresa (Fragmento 2).",0.1,23.69,5,0.98,1012
-q03,¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?,Llama-3-8B-Instruct,"(a) La información solicitada no se encuentra en los documentos consultados.
-
-(b) Fundamentos del contexto:
-
-* El Fragmento 1 se refiere a la autorización de la cesión parcial de los derechos y obligaciones derivados del Plan de Manejo Ambiental establecido mediante la Resolución No. 758 del 01 de agosto de 2013, a favor de la sociedad CENIT TRANSPORTE Y LOGISTICA DE HIDROCARBUROS S.A.S.
-* El Fragmento 3 se refiere a la concesión de aguas subterráneas a la sociedad OCCIDENTAL DE COLOMBIA LLC, según el Concepto Técnico No. 9174 del 26 de diciembre de 2023.
-* El Fragmento 5 se refiere al año de inicio de actividades autorizadas en la Licencia Ambiental, desde 1993 hasta 2018.
-
-(c) Limitaciones: No se encuentran requerimientos del concepto técnico en los documentos consultados que se mantengan o se modifiquen, ya que los fragmentos proporcionados no contienen información sobre conceptos técnicos.",0.08,21.66,5,0.9757,906
-q04,¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?,Llama-3-8B-Instruct,"(a) La norma que se invoca como fundamento jurídico para la apertura de la investigación es el artículo 17 de la Ley 1333 de 2009, según se menciona en los fragmentos 1 y 2, y los artículos 173 y 171 de la misma ley, según se mencionan en los fragmentos 3 y 4.
-
-(b) Fundamentos del contexto: Los fragmentos 1, 2, 3 y 4 establecen que se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin que se considere necesaria la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, a través del auto de apertura de investigación. Esto se basa en el incumplimiento a los actos administrativos.
-
-(c) Limitaciones: La información solicitada se encuentra en los fragmentos 1, 2, 3 y 4, y no se requiere información adicional para responder la consulta jurídica.",0.09,19.56,5,0.9793,858
-q05,¿Qué medidas preventivas se han adoptado o se contemplan en los autos?,Llama-3-8B-Instruct,"(a) Medidas preventivas adoptadas o contempladas en los autos:
-
-En el contexto, se mencionan las siguientes medidas preventivas:
-
-* En el Fragmento 3 (Documento: 2554_1092_2023-02-28.pdf, Numeral: 2, Página: 6-6), se menciona el Plan de Desmantelamiento, Abandono y Restauración Final, que es una medida preventiva para minimizar el impacto ambiental en el caso de la desactivación del proyecto.
-
-* En el Fragmento 4 (Documento: 2844_1451_2024-03-18.pdf, Numeral: a, Página: 7-8), se menciona la calidad del hábitat a lo largo del tiempo y la permanencia de las especies, lo que sugiere que se han considerado medidas para proteger el medio ambiente y preservar la biodiversidad.
-
-* En el Fragmento 5 (Documento: 2554_1092_2023-02-28.pdf, Numeral: ART_TERCERO, Página: 4-4), se mencionan los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de recursos naturales renovables, lo que sugiere que se han establecido condiciones para minimizar el impacto ambiental.
+Los requerimientos que se modifican son los siguientes:
+- La Sociedad debe presentar la información sobre las actividades autorizadas en cada acto administrativo y las ejecutadas, determinando el área intervenida y la compensación en área, en cumplimiento del numeral 29 del Artículo segundo del Auto 5846 del 22 de diciembre de 2014.
+- La Sociedad debe presentar el plan de compensación según lo requerido en la ficha 22 Compensación componente biótico del Plan de Manejo Ambiental y la ficha MB5 Programas de compensación del Plan de Seguimiento y Monitoreo.
 
 (b) Fundamentos del contexto con citas:
+- La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el Plan de Gestión de Riesgo (PGDR), no requería actualizarse. [Fragmento 1, Contexto del Fragmento 1 — bloque padre]
+- Reiterar a la Sociedad la presentación de la información sobre las actividades autorizadas en cada acto administrativo y las ejecutadas determinando el área intervenida y la compensación en área, en cumplimiento del numeral 29 del Artículo segundo del Auto 5846 del 22 de diciembre de 2014. [Fragmento 4, Contexto del Fragmento 4 — bloque padre]
+- La Sociedad debe presentar el plan de compensación según lo requerido en la ficha 22 Compensación componente biótico del Plan de Manejo Ambiental y la ficha MB5 Programas de compensación del Plan de Seguimiento y Monitoreo. [Fragmento 4, Contexto del Fragmento 4 — bloque padre]
 
-* Fragmento 3: ""Plan de Desmantelamiento, Abandono y Restauración Final"" (Documento: 2554_1092_2023-02-28.pdf, Numeral: 2, Página: 6-6).
-* Fragmento 4: ""La calidad del hábitat a lo largo del tiempo y la permanencia de las especies"" (Documento: 2844_1451_2024-03-18.pdf, Numeral: a, Página: 7-8).
-* Fragmento 5: ""La Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de los siguientes recursos naturales renovables"" (Documento: 2554_1092_2023-02-28.pdf, Numeral: ART_TERCERO, Página: 4-4).
+(c) Limitaciones:
+La información solicitada se encuentra en los documentos consultados.",0.34,60.21,5,0.9839,1886
+q04,¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?,Mistral-7B-Instruct-v0.3,"(a) La norma que se invoca como fundamento jurídico para la apertura de la investigación sancionatoria no se encuentra explícitamente en los documentos consultados. Sin embargo, se puede inferir que la investigación se basa en los requisitos establecidos en la legislación ambiental colombiana, en particular en lo que respecta a la protección del medio ambiente y la regulación de los residuos sólidos.
 
-(c) Limitaciones: La información solicitada se encuentra en los documentos consultados, pero no se mencionan medidas preventivas específicas adoptadas o contempladas en los autos.",0.09,44.12,5,0.9709,1806
-q06,¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?,Llama-3-8B-Instruct,"(a) Los presuntos infractores identificados son la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S.
+(b) En el fragmento 1 se menciona que se procederá a un análisis de los motivos de apertura de la investigación sancionatoria, lo que sugiere que la investigación se basa en los requisitos establecidos en la legislación ambiental colombiana. En el fragmento 2 se establece que se deberá dar cumplimiento al Programa de Seguimiento y Monitoreo, lo que sugiere que la investigación se basa en la normativa relacionada con este programa. En el fragmento 3 se establecen obligaciones para el manejo de residuos sólidos, lo que sugiere que la investigación se basa en la normativa relacionada con este tema. En el fragmento 4 se establece que los programas de manejo ambiental propuestos deben ajustarse y complementarse, lo que sugiere que la investigación se basa en la normativa relacionada con este tema. En el fragmento 5 se menciona un cronograma de ejecución de la siembra, lo que sugiere que la investigación se basa en la normativa relacionada con este tema.
+
+(c) No se pueden establecer limitaciones específicas basándose en los documentos consultados, ya que no se proporciona información suficiente para determinar qué normas específicas se invocan como fundamento jurídico para la apertura de la investigación.",0.19,38.78,5,0.9893,1623
+q05,¿Qué medidas preventivas se han adoptado o se contemplan en los autos?,Mistral-7B-Instruct-v0.3,"(a) Las medidas preventivas se han adoptado o se contemplan en los autos en los siguientes aspectos:
+
+(b) Cronograma de ejecución de la siembra, que deberá ser paralelo al avance de las obras. [Fragmento 1]
+(c) Programa de Seguimiento y Monitoreo, cuyo cumplimiento adicional se establece en el documento. [Fragmento 2]
+(d) Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, que deben ajustarse y complementarse según se indica en el documento. [Fragmento 3]
+(e) Cronograma de actividades y costos detallados de las actividades, incluyendo los mantenimientos a tres años. [Fragmento 4 y 5]
+(f) La información de los cronogramas de actividades y costos detallados de las actividades deberá remitirse en el primer informe de cumplimiento ambiental. [Fragmento 4 y 5]
+
+(c) Las medidas preventivas no se encuentran especificadas en los documentos consultados en relación con la Autoridad Nacional de Licencias Ambientales (ANLA) en los fragmentos proporcionados.",0.18,27.91,5,0.9825,996
+q06,¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?,Mistral-7B-Instruct-v0.3,"(a) Los presuntos infractores no se identifican explícitamente en los documentos consultados.
+
+(b) La información sobre los presuntos infractores y conductas imputadas no se encuentra en los documentos consultados.
+
+(c) La consulta solicita información que no se encuentra en los documentos proporcionados, por lo tanto, no se puede responder con precisión.",0.18,9.28,5,0.9828,357
+q07,¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?,Mistral-7B-Instruct-v0.3,"(a) La información solicitada no se encuentra en los documentos consultados. Sin embargo, se puede inferir que, en el contexto de los Autos de Apertura de procedimientos sancionatorios de la Autoridad Nacional de Licencias Ambientales (ANLA), se exigen soportes documentales para acreditar el cumplimiento de las obligaciones ambientales en relación con la ejecución de la compensación por el cambio de uso del suelo [Fragmento 2], la ejecución de la compensación biótico del Plan de Manejo Ambiental y los programas de compensación del Plan de Seguimiento y Monitoreo [Fragmento 5].
+
+(b) En el caso del Fragmento 2, se exigen soportes documentales del desarrollo de actividades y medidas de manejo relacionadas con la ejecución de la compensación por el cambio de uso del suelo, en cumplimiento de lo establecido en el artículo décimo de la Resolución 2121 del 26 de octubre de 2010, el numeral 29 del artículo segundo del Auto 5846 del 22 de diciembre de 2014 y el numeral 3 del artículo quinto del Auto 5965 del 30 de noviembre de 2016.
+
+(c) En el caso del Fragmento 5, se exigen soportes documentales para acreditar el cumplimiento de las obligaciones ambientales en relación con el Plan de Manejo Ambiental y los programas de compensación del Plan de Seguimiento y Monitoreo.",0.09,40.33,5,0.9885,1280
+q01,¿Cuál es la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental?,Llama-3-8B-Instruct,"(a) La competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental es la de realizar el control y seguimiento ambiental de los expedientes, según lo establecido en el Acta No. 317 del 30 de junio de 2022, documento 2525_1964_2023-03-24.pdf, numeral 7, página 6-6.
+
+(b) La ANLA tiene competencia para iniciar un procedimiento sancionatorio ambiental cuando se compruebe la ocurrencia de un hecho que afecte el medio ambiente, como se establece en el artículo 4.1 del documento 2330_11096_2023-12-27.pdf, página 5-5, que indica que ""La ANLA tiene competencia para investigar y sancionar los hechos que afecten el medio ambiente"".
+
+(c) La información solicitada se encuentra en los documentos consultados, específicamente en los fragmentos 2 y 4.",0.99,18.38,5,0.9901,760
+q02,¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?,Llama-3-8B-Instruct,"(a) La apertura del procedimiento sancionatorio en estos autos se motiva por el incumplimiento de las obligaciones en el manejo de residuos sólidos generados durante el desarrollo del proyecto, según se establece en el Fragmento 1.
+
+(b) Fundamentos del contexto: El Fragmento 1 establece que el manejo de residuos sólidos generados durante el desarrollo del proyecto debe cumplir con las obligaciones establecidas. El Fragmento 5 indica que la sociedad VETRA E&P S.A.S. no cumplió con estas obligaciones, lo que motivó la apertura del procedimiento sancionatorio.
+
+(c) Limitaciones: La información solicitada se encuentra en los documentos consultados, específicamente en los Fragmentos 1 y 5.",0.21,15.14,5,0.9894,693
+q03,¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?,Llama-3-8B-Instruct,"(a) La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el Plan de Gestión de Riesgo (PGDR), no requería actualizarse.
+
+(b) En el contexto del Fragmento 1, se establece que la Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el PGDR, no requería actualizarse. La Sociedad no presentó información sobre la cantidad de fluidos que se transportarían ni los soportes técnicos necesarios para establecer que el PGDR no requería actualizarse. (Documento: 2404_7381_2023-09-14.pdf, Numeral: i, Página: 8-12)
+
+(c) La información solicitada no se encuentra en los documentos consultados.
+
+En cuanto a los requerimientos del concepto técnico, se mantienen los siguientes:
+
+* La presentación de la información sobre las actividades autorizadas en cada acto administrativo y las ejecutadas, determinado el área intervenida y la compensación en área, en cumplimiento del numeral 29 del Artículo segundo del Auto 5846 del 22 de diciembre de 2014 (Fragmento 4).
+* La presentación del plan de compensación según lo requerido en la obligación (Fragmento 4).
+* La presentación del Plan de Emergencia y Contingencia del proceso de manejo del desastre (Fragmento 5).
+
+Se modifican los siguientes requerimientos del concepto técnico:
+
+* La presentación de las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el PGDR, no requería actualizarse (Fragmento 1).",0.09,39.56,5,0.9839,1566
+q04,¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?,Llama-3-8B-Instruct,"(a) La norma que se invoca como fundamento jurídico para la apertura de la investigación es el artículo 12 de la Ley 393 de 1997, ""Por la cual se establece la Autoridad Nacional de Licencias Ambientales y se dictan otras disposiciones"", que establece:
+
+""La Autoridad Nacional de Licencias Ambientales podrá iniciar de oficio o a petición de parte, investigación sancionatoria cuando tenga conocimiento de una situación que pueda configurar una infracción a las normas ambientales"".
+
+(b) Fundamentos del contexto: Los fragmentos 1, 2, 3, 4 y 5 se refieren a la apertura de la investigación sancionatoria y el análisis de los hechos, así como la necesidad de cumplir con los programas de manejo ambiental y cronogramas de ejecución. Estos fragmentos no mencionan específicamente la norma que se invoca como fundamento jurídico, pero en el contexto general se puede inferir que se está invocando el artículo 12 de la Ley 393 de 1997.
+
+(c) Limitaciones: La respuesta se basa en la información proporcionada en los fragmentos de contexto y no se puede determinar con certeza la norma específica que se invoca como fundamento jurídico sin más información.",0.18,25.11,5,0.9893,1149
+q05,¿Qué medidas preventivas se han adoptado o se contemplan en los autos?,Llama-3-8B-Instruct,"(a) La información solicitada no se encuentra en los documentos consultados.
 
 (b) Fundamentos del contexto:
 
-* En el Fragmento 2, se establece que la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S. será responsable de ciertos actos administrativos, sin especificar qué conductas se le imputan.
-* En el Fragmento 3, se menciona que la Licencia Ambiental otorgada lleva implícitos los permisos, concesiones y autorizaciones requeridas para el uso, aprovechamiento y afectación de recursos naturales renovables, pero no se especifica qué conductas se le imputan a la empresa.
-* En el Fragmento 4, se menciona la calidad del hábitat y la permanencia de especies, lo que sugiere que la empresa podría estar afectando el medio ambiente de manera no permitida.
-* En el Fragmento 5, se menciona un Plan de Desmantelamiento, Abandono y Restauración Final, lo que sugiere que la empresa podría estar incurriendo en responsabilidad ambiental.
+* En el Fragmento 1, se menciona el cronograma de ejecución de la siembra, pero no se establecen medidas preventivas específicas.
+* En el Fragmento 2, se menciona el Programa de Seguimiento y Monitoreo, pero no se especifica qué medidas preventivas se han adoptado o se contemplan.
+* En el Fragmento 3, se mencionan los programas de manejo ambiental, pero no se establecen medidas preventivas específicas.
+* En el Fragmento 4 y 5, se mencionan cronogramas de actividades y costos detallados, pero no se establecen medidas preventivas específicas.
 
-(c) Limitaciones: La información proporcionada no especifica concretamente qué conductas se le imputan a la empresa CENIT TRANSPORTE Y LOGÍSTICA DE HIDROCARBUROS S.A.S. Sin embargo, se puede inferir que la empresa podría estar incumpliendo disposiciones ambientales y afectando el medio ambiente de manera no permitida.",0.1,28.55,5,0.9737,1300
-q07,¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?,Llama-3-8B-Instruct,"(a) La respuesta es que se exigen soportes documentales para acreditar el cumplimiento de las obligaciones ambientales.
+(c) Limitaciones: La información solicitada no se encuentra en los documentos consultados, por lo que no se puede determinar qué medidas preventivas se han adoptado o se contemplan en los autos.",0.18,18.48,5,0.9825,851
+q06,¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?,Llama-3-8B-Instruct,"(a) Los presuntos infractores no se mencionan explícitamente en los fragmentos proporcionados. Sin embargo, se puede inferir que se están investigando posibles infracciones ambientales en relación con el desarrollo de un proyecto.
 
 (b) Fundamentos del contexto:
 
-* En el Auto de Apertura de Procedimiento Sancionatorio No. 118 del 31 de marzo de 2022, se establece que una vez se cumplan las obligaciones establecidas en la licencia ambiental y el Plan de Manejo Ambiental PMA, la sociedad debe enviar comunicación con los debidos soportes, informando la ejecución de las mismas (Fragmento 2).
-* En el Auto de Apertura de Procedimiento Sancionatorio No. 6 de 13 del 18 de marzo de 2024, se establece que para la fase de operación y mantenimiento de los Oleoductos Vasconia — CIB y Vasconia — Velásquez, se requiere la presentación de programas de seguimiento y monitoreo (Fragmento 4).
-* En el Auto de Apertura de Procedimiento Sancionatorio No. 22 del 18 de abril de 2024, se establece que se evaluará el cumplimiento total de las obligaciones derivadas de la Licencia Ambiental, una vez se cumplan las obligaciones establecidas en la licencia ambiental y el Plan de Manejo Ambiental PMA (Fragmento 1).
+* Fragmento 1: Los programas de manejo ambiental deben ser ajustados y complementados para abordar los Medios Abiótico, Biótico y Social.
+* Fragmento 2: Se analiza la apertura de una investigación sancionatoria en relación con un hecho no especificado.
+* Fragmento 3: Se menciona un cronograma de ejecución de la siembra, lo que sugiere que se está hablando de un proyecto que involucra actividades de construcción o desarrollo.
+* Fragmento 4: Se establecen obligaciones para el manejo de residuos sólidos generados durante el desarrollo del proyecto.
+* Fragmento 5: Se menciona el Programa de Seguimiento y Monitoreo, lo que sugiere que se está hablando de un proyecto que requiere vigilancia y control ambiental.
 
-(c) Limitaciones: La información solicitada no se encuentra en los documentos consultados. Sin embargo, se puede inferir que se requiere la presentación de soportes documentales para acreditar el cumplimiento de las obligaciones ambientales, como programas de seguimiento y monitoreo, informes de ejecución de las obligaciones y otros documentos que acrediten el cumplimiento de las condiciones establecidas en la licencia ambiental y el Plan de Manejo Ambiental PMA.",0.1,34.9,5,0.982,1561
+(c) Limitaciones: La información proporcionada no permite identificar explícitamente a los presuntos infractores ni describir con precisión las conductas que se les imputan. La respuesta se basa en inferencias y en la interpretación de los fragmentos proporcionados.",0.28,25.93,5,0.9828,1245
+q07,¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?,Llama-3-8B-Instruct,"(a) La información solicitada se encuentra en los documentos consultados.
+
+(b) Fundamentos del contexto:
+
+* En el Fragmento 1, se establece que la Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el Plan de Gestión de Riesgo (PGDR), no requería actualizarse. (Documento: 2404_7381_2023-09-14.pdf, Numeral: i, Página: 8-12)
+* En el Fragmento 2, se menciona la Resolución 2121 del 26 de octubre de 2010, que establece la compensación por cambio de uso del suelo mediante el establecimiento de cobertura vegetal con especies nativas en las cuencas hidrográficas y/o nacederos del área de influencia. (Documento: 2862_864_2024-02-27.pdf, Numeral: 9, Página: 8-11)
+* En el Fragmento 3, se menciona la Resolución No. 1683 del 18 de agosto de 2011, que establece la obligación de realizar monitoreos de aire en el “Campo de Explotación de Hidrocarburos Mapache”. (Documento: 2236_3157_2022-05-05.pdf, Numeral: 4, Página: 4-21)
+* En el Fragmento 4, se establece que la Empresa no podrá realizar intervención y/o aprovechamiento del recurso en un volumen superior a 48.97 m3 por hectárea en bosque de galería, 9.88 m3 por hectárea en bosque natural fragmentado y 0.65 en arbustos y matorrales. (Documento: 2405_7384_2023-09-14.pdf, Numeral: a, Página: 16-19)
+* En el Fragmento 5, se menciona la Resolución 2121 del 26 de octubre de 2010, que establece la compensación por cambio de uso del suelo y la obligación de presentar un plan de compensación. (Documento: 2862_864_2024-02-27.pdf, Numeral: h, Página: 22-26)
+
+(c) Limitaciones: La información solicitada se encuentra en los documentos consultados, pero es importante destacar que la respuesta se basa en la interpretación de los fragmentos de contexto y no en la lectura integral de los documentos.",0.1,54.44,5,0.9885,1829

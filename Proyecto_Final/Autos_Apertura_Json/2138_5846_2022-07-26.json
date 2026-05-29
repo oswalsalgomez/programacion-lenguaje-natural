@@ -1,0 +1,224 @@
+{
+  "id_documento": "AUTO_005846_2022-07-26",
+  "filename": "2138_5846_2022-07-26.pdf",
+  "tipo_documento": "AUTO",
+  "numero_documento": "5846",
+  "fecha_documento": "2022-07-26",
+  "fecha_ordinal": 20220726,
+  "expediente_sancionatorio": "SAN0071-00-2022",
+  "expediente_permisivo": "LAM0332",
+  "empresa": "MANSAROVAR ENERGY COLOMBIA LTD",
+  "nit_investigado": "800.249.313-2",
+  "proyecto": "Campo Velásquez",
+  "municipio": "Puerto Boyacá",
+  "municipios": [
+    "Puerto Boyacá"
+  ],
+  "ubicacion": "Puerto Boyacá",
+  "materias": [
+    "obligaciones_seguimiento_ica",
+    "compensacion_inversion"
+  ],
+  "materias_score": {
+    "obligaciones_seguimiento_ica": 20,
+    "compensacion_inversion": 3
+  },
+  "bloques": [
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0000",
+      "numeral": "INTRO",
+      "tipo_numeral": "intro",
+      "nivel": 0,
+      "titulo": "ENCABEZADO Y PROEMIO",
+      "texto": "Libertad y Orden República de Colombia Ministerio de Ambiente y Desarrollo Sostenible AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES - ANLA – AUTO N° 05846 ( 26 de julio de 2022 ) “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” LA COORDINADORA DEL GRUPO DE ACTUACIONES SANCIONATORIAS AMBIENTALES ADSCRITA A LA OFICINA ASESORA JURÍDICA DE LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES – ANLA En uso de las facultades legales establecidas en la Ley 99 de 1993, en la Ley 1333 de 2009, así como de las conferidas por el Decreto - Ley 3573 de 2011, modificado por el Decreto 376 de 2020 y de las asignadas en el artículo tercero de la Resolución No. 00254 del 02 de febrero de 2021, modificada por la Resolución 404 del 17 de febrero de 2022 y el artículo primero de la Resolución No. 00155 del 04 de enero de 2022:",
+      "pagina_inicio": 1,
+      "pagina_fin": 1,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0001",
+      "numeral": "CONSIDERANDO",
+      "tipo_numeral": "considerando",
+      "nivel": 0,
+      "titulo": "CONSIDERANDO",
+      "texto": "Que La Constitución Política de Colombia establece el derecho de todas las personas a gozar de un ambiente sano y el deber del Estado de proteger su diversidad e integridad (art. 79), planificando “el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución” además de “prevenir y controlar los factores de deterioro ambiental, imponer las sanciones legales y exigir la reparación de los daños causados”. La Carta Política señala como obligación del Estado y de las personas, el proteger las riquezas culturales y naturales de la Nación (art. 8 CN), los recursos culturales y naturales del país y velar por la conservación de un ambiente sano (art. 95. num. 8) y determina (Art. 58) que “la propiedad es una función social que implica obligaciones. Como tal, le es inherente una función ecológica”. La Ley 1333 de 2009 “por la cual se establece el procedimiento sancionatorio ambiental y se dictan otras disposiciones”, determina la titularidad de la potestad sancionatoria ambiental en el Estado, a través de las autoridades ambientales de acuerdo con sus respectivas competencias, y define en su artículo 5 como infracción ambiental: “toda acción u omisión que constituya violación de las normas contenidas en el Código de Recursos Naturales Renovables, Decreto-ley 2811 de 1974, en la Ley 99 de 1993, en la Ley 165 de 1994 y en las demás disposiciones ambientales vigentes en que las sustituyan o modifiquen y en los actos administrativos emanados de la autoridad ambiental competente. Será también constitutivo de infracción ambiental la comisión de un daño al medio ambiente, con las mismas condiciones que para configurar la responsabilidad civil extracontractual establece el Código Civil y la legislación complementaria, a saber: El daño, el hecho generador con culpa o dolo y el vínculo causal entre los dos. Cuando estos elementos se Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 1 de 14 ; es El ambiente Minambiente es de todos Auto No. 05846 Del 26 de julio de 2022 Hoja No. 2 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” configuren darán lugar a una sanción administrativa ambiental, sin perjuicio de la responsabilidad que para terceros pueda generar el hecho en materia civil”. El Decreto Ley 3573 de 2011 creó la Autoridad Nacional de Licencias Ambientales -ANLA- como una Unidad Administrativa Especial del orden nacional, con autonomía administrativa y financiera, sin personería jurídica, adscrita al Ministerio de Ambiente y Desarrollo Sostenible (MADS) y le otorgó, entre otras, la competencia de otorgar o negar las licencias, permisos y trámites ambientales de competencia del hoy Ministerio de Ambiente y Desarrollo Sostenible, y de manera expresa, la función de adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, de acuerdo con lo dispuesto en la Ley 1333 de 2009.",
+      "pagina_inicio": 1,
+      "pagina_fin": 2,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0009",
+      "numeral": "7",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "El MAVDT, realizando seguimiento y control al proyecto, expidió el Auto 2693 del 28 de agosto de 2008, en el cual requirió a la Sociedad la presentación de información relacionada con los resultados de los análisis de aire y ruido,",
+      "texto": "Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 me El ambiente Minambiente RS www.anla.gov.co Email: licencias@anla.gov.co Página 2 de 14 Auto No. 05846 Del 26 de julio de 2022 Hoja No. 3 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” aguas superficiales y subterráneas, aguas residuales domésticas, un plan para la plantación de 30.5 ha, incineración del material vegetal extraído de la ciénaga y soportes de monitoreos hidrogeológicos entre otros aspectos relacionados con el Plan de Restauración indicado para el Campo de producción Velásquez.",
+      "pagina_inicio": 2,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0016",
+      "numeral": "14",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "A través del Radicado No. 2019002440-1-000 del 14 de enero de 2019, la Sociedad entregó el informe de cumplimiento al que hace referencia el artículo 2 del Auto No. 03472 de 2018, en el cual se informan el estado de las",
+      "texto": "Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 me El ambiente Minambiente RS www.anla.gov.co Email: licencias@anla.gov.co Página 3 de 14 Auto No. 05846 Del 26 de julio de 2022 Hoja No. 4 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” actividades adelantadas en relación a la delimitación de las áreas y el estado de recuperación adelantado en algunos lugares del proyecto.",
+      "pagina_inicio": 3,
+      "pagina_fin": 4,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0019",
+      "numeral": "17",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Mediante Auto No. 8142 del 29 de septiembre de 2021, la Autoridad Nacional efectuó seguimiento y control ambiental al proyecto y realizó requerimientos de información a la Sociedad en cuanto al cumplimiento de la obligación de remoción mecánica de tarulla (macrófitas) en la Ciénaga Palagua, acogiendo lo dispuesto en el Concepto Técnico No. 5024 del 24 de agosto de 2021.",
+      "texto": "Antecedentes Sancionatorios (SAN0071-00-2022) Considerando las evidencias plasmadas en el concepto técnico No. 02223 del 28 de abril de 2022, el Grupo de Medio Magdalena-Cauca-Catatumbo de la Subdirección de Instrumentos Permisos y Trámites Ambientales de esta Autoridad realizó la verificación de los aspectos referentes al proyecto Campo Velásquez, de acuerdo con lo observado en la visita realizada por el Equipo de Seguimiento Ambiental entre los días 6 al 9 de julio de 2021.",
+      "pagina_inicio": 4,
+      "pagina_fin": 4,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0020",
+      "numeral": "SEC_III",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Competencia",
+      "texto": "La ANLA es competente para iniciar, adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, teniendo en cuenta que es la autoridad facultada para otorgar y efectuar seguimiento al instrumento ambiental del presente proyecto. Dicha facultad le fue transferida del MADS, de acuerdo con la desconcentración administrativa prevista en los numerales 1°, 2° y 7° del artículo tercero del Decreto 3573 de 2011, en concordancia con lo previsto en el artículo 2 de la Ley 1333 de 2009, siendo por ende competente para el ejercicio de la potestad sancionatoria ambiental que pueda derivarse de los hechos sucedidos en ejecución de este proyecto. En el presente caso, el Plan de Manejo Ambiental, fue concedido a través de la Resolución No. 905 del 18 de julio de 2005 por parte del Ministerio de Ambiente, Vivienda y Desarrollo Territorial (MAVDT); no obstante, el numeral 2 del artículo tercero del Decreto-Ley 3573 del 27 de septiembre de 2011 previó como una de las funciones de la Autoridad Nacional de Licencias Ambientales la de otorgar o negar las licencias, permisos y trámites ambientales de competencia del Ministerio de Ambiente y Desarrollo Sostenible. Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 me El ambiente Minambiente RS www.anla.gov.co Email: licencias@anla.gov.co Página 4 de 14 Auto No. 05846 Del 26 de julio de 2022 Hoja No. 5 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” Por esto y en virtud del numeral 7 del artículo 3 del Decreto Ley 3573 del 27 de septiembre de 2011 y el artículo 2 de la Ley 1333 de 2009, la ANLA es competente para iniciar, impulsar y llevar hasta su culminación el procedimiento ambiental sancionatorio de conformidad con la Ley 1333 de 2009. Finalmente, en relación con el procedimiento ambiental sancionatorio, la Resolución No. 00254 del 02 de febrero de 2021, modificada por la Resolución 404 del 17 de febrero de 2022, emanadas de la Dirección General de la ANLA, asignó como funciones al Grupo de Actuaciones Sancionatorias Ambientales, en su artículo 3° las siguientes: “3. Adelantar las indagaciones preliminares, investigaciones y/o actuaciones sancionatorias en contra de las personas naturales o jurídicas, cuando se ponga en su conocimiento una posible infracción ambiental por parte de las subdirecciones técnicas de la Entidad (…) 7. Elaborar los actos preparatorios que sirven de insumo para las decisiones de la ANLA que soportan el periodo probatorio, los que requiera la actuación procesal y los que fijen los criterios técnicos para la tasación de multas y/o demás sanciones procedentes, de acuerdo con lo establecido normatividad aplicable”, de conformidad con las funciones del Grupo Interno de Trabajo, los procedimientos y normatividad aplicable.",
+      "pagina_inicio": 4,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0021",
+      "numeral": "SEC_IV",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Caso Concreto",
+      "texto": "Los hechos por los cuales se ordena el inicio de esta actuación, tienen su origen en el seguimiento ambiental, producto de la cual el Grupo de Medio Magdalena-Cauca - Catatumbo, de la Subdirección de Seguimiento de Licencias de la ANLA, emitió el Concepto Técnico de Inicio de Procedimiento Sancionatorio Ambiental No. 02223 del 28 de abril de 2022, el cual sustenta la decisión que se adopta por el presente acto administrativo y se circunscribe a los siguientes hechos, resumidos de la recomendación del referido concepto: 1) Por no presentar el diagnóstico de las áreas afectadas con hidrocarburos (INR), con una propuesta técnica enmarcada en la situación actual, donde se presente como mínimo; diagnóstico actual del área del Campo de Producción Velásquez junto con las actividades y/o acciones técnicas actuales y futuras para la recuperación de la totalidad de las áreas afectadas en bajos y suelos, determinando las acciones correctivas y técnicas a adelantarse para la recuperación de la totalidad de las áreas afectadas. 2) Por no realizar la remoción de la tarulla de forma mecánica, con el fin de optimizar el proceso de limpieza del espejo de agua de caños y ciénaga Palagua y obtener resultados efectivos que redunden en el mejoramiento de las condiciones de luz y oxigenación de la columna de agua de dichos cuerpos de agua.",
+      "pagina_inicio": 5,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0022",
+      "numeral": "HECHO_1",
+      "tipo_numeral": "hecho",
+      "nivel": 1,
+      "titulo": "",
+      "texto": "El hecho primero que origina el presente Auto de Apertura de Procedimiento Sancionatorio, de acuerdo con el Concepto Técnico No. 02223 del 28 de abril de 2022, es el siguiente: “Por no presentar el diagnóstico de las áreas afectadas con hidrocarburos (INR), con una propuesta técnica enmarcada en la situación actual, donde se presente como mínimo; diagnóstico actual del área del Campo de Producción Velásquez junto con las actividades y/o acciones técnicas actuales y futuras para la Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 5 de 14 me El ambiente Minambiente RS Auto No. 05846 Del 26 de julio de 2022 Hoja No. 6 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” recuperación de la totalidad de las áreas afectadas en bajos y suelos, determinando las acciones correctivas y técnicas a adelantarse para la recuperación de la totalidad de las áreas afectadas, lo cual se ha requerido de manera reiterada desde hace más de 3 años mediante tres diferentes actos administrativos. incurriendo con ello en presunta infracción de lo establecido en los literales a, b, c, d, e, f del numeral 1 del artículo segundo del Auto 3472 de 27 de junio de 2018, reiterado en el Requerimiento 4 del Acta 179 del 22 de octubre de 2019, Numeral 2 del artículo primero del Auto 3982 del 8 de mayo de 2020 y numeral 1 del artículo primero del Auto 12084 de 21 de diciembre de 2020.” En el marco del seguimiento y control ambiental efectuado por la Entidad, se realizó visita al proyecto “Campo Velásquez” entre los días 5 y 8 de diciembre de 2017, con el propósito de verificar el estado de cumplimiento de las medidas y obligaciones establecidas en el Plan de Manejo Ambiental, al cual se encuentra sujeto el presunto infractor. En virtud de lo anterior, se emitió el Concepto Técnico 6511 del 15 de diciembre de 2017, acogido por el Auto No. 3472 del 27 de junio de 2018, a través del cual se le impuso a la Sociedad nuevas obligaciones, en los términos que se describirán a continuación: “ARTÍCULO SEGUNDO: Requerir a la sociedad MANSAROVAR ENERGY COLOMBIA LTD para que en el término de seis (6) meses contados a partir del día siguiente de la ejecutoria del presente acto administrativo, presente ante esta Autoridad Nacional (ANLA) la siguiente información:",
+      "pagina_inicio": 5,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0028",
+      "numeral": "f",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Como parte del diagnóstico deberá incluir los siguientes puntos; predios el Jardín y Nuevo Milenio (Área 3) (…)”.",
+      "texto": "Con motivo de verificar el cumplimiento del proyecto, se expidió el Acta de Reunión de Control y Seguimiento Ambiental No. 179 del 22 de octubre de 2019 y a través Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 El me pr pos AS OO www.anla.gov.co Email: licencias@anla.gov.co Página 6 de 14 Auto No. 05846 Del 26 de julio de 2022 Hoja No. 7 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” del requerimiento No. 4, la ANLA reiteró las obligaciones referidas en el artículo segundo del Auto No. 3472 de 2018, en los siguientes términos: “Presentar en el término de seis (6) meses, un diagnostico (sic) detallado de las áreas afectadas con hidrocarburos (impactos no resueltos) específicamente de las zonas aleñadas a la Ciénaga de Palagua pertenecientes a Campo Velásquez, entre las cuales se deben incluir los bajos inundables aledaños a la Batería 3, Batería 2ª, el sitio denominado “Aceitero” y otras áreas aferentes al declarado “Humedal Ciénaga de Palagua” (Resolución 37651 del 18 de noviembre de 2016, de Corpoboyacá)” En la mencionada acta, el titular del instrumento ambiental manifestó aceptar el requerimiento, con el compromiso de radicar la información requerida ante la ANLA. Como respuesta por parte de la Sociedad a estos nuevos requerimientos, el 10 de julio de 2020 radicó bajo el No. 2020109894-1-000, el anexo denominado: “1_Biorremediaciones Campo Velásquez.pdf” y frente a lo solicitado, en el literal f indicaron lo siguiente: “El 27 de febrero de 2017, mediante radicado No. 2017014031-1-000, la empresa allega el informe de las actividades realizadas en la recuperación ambiental de las áreas de los predios El Reencuentro, Nuevo Milenio Area 1 y Nuevo Milenio Area 2 y Firulais, así como el estado actual de las mismas. Adicionalmente se resume la gestión realizada en los predios El jardín y Nuevo Milenio Sector 3 y su estado actual.” No obstante, se dejó constancia que dicha respuesta fue presentada de forma extemporánea, y sin embargo no cumplió con los requerimientos de la Entidad en cuanto a extensión y contenido de la misma. Posteriormente, la ANLA realizó nuevamente seguimiento y control ambiental, a través del Auto 03982 del 08 de mayo de 2020, en su aparte “FRENTE A LOS ACTOS ADMINISTRATIVOS” – “AUTO 3472 DE 27 DE JUNIO DE 2018”, se consideró que: “… una vez revisado el expediente LAM0332, el ESA verificó que la Sociedad no entregó la propuesta técnica enmarcada en la situación actual (pasivos ambientales), donde se incluya como mínimo; el diagnóstico actual del área del Campo de Producción Velásquez junto con las actividades y/o acciones técnicas actuales y futuras para para la recuperación de todas las áreas afectadas en bajos y suelos, determinando las acciones correctivas técnicas a adelantarse (sólo entregó el diagnóstico de las área de los predios El Jardín y Nuevo Milenio (Área 3)); durante la visita de seguimiento, el ESA verificó que la Sociedad no ha realizado el aislamiento y señalización de la totalidad de las áreas que se identifiquen como zonas con hidrocarburos por la operación de la Texas Petroleum Company. El ESA durante la visita de seguimiento verificó que la Sociedad no ha realizado actividades de recuperación pertinentes para garantizar la recuperación de las áreas que requieren recuperación en el predio El Jazmín y Nuevo Milenio (Área 3). Además, El ESA verificó que la Sociedad entregó los resultados del monitoreo de suelo en el predio Nuevo Milenio (área 3) y El Jardín, los cuales registran resultados por fuera de la Norma Louisiana 29 B. Así las cosas, el ESA considera que la Sociedad no dio cumplimiento a todo lo establecido en el Numeral 1 del Artículo Primero del Auto 3472 de 27 de junio de 2018.” (Subrayado fuera de texto). Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 7 de 14 me El ambiente Minambiente RS Auto No. 05846 Del 26 de julio de 2022 Hoja No. 8 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” Ante el presunto incumplimiento reiterado por la Sociedad, en la parte dispositiva del referido Auto la Entidad requirió nuevamente las obligaciones del artículo primero del Auto No. 3472 de 2018, de la siguiente forma: “ARTÍCULO PRIMERO. Reiterar a la sociedad MANSAROVAR ENERGY COLOMBIA LTD., la presentación de las evidencias documentales del cumplimiento de las obligaciones establecidas en la Licencia, Plan de manejo, y medidas de manejo que se relacionan en la parte motiva del presente acto administrativo y que se listan a continuación: (…)",
+      "pagina_inicio": 6,
+      "pagina_fin": 8,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0030",
+      "numeral": "a",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Los parámetros y límites permisibles en la norma internacional Loussiana Administrative Code Natural Resources 29B. b. La red de monitoreo de calidad de suelos deberá ser representativa del área total afectada para cada zona identificada como pasivo ambiental. c. Se deberá definir e implementar una metodología para la selección de la ubicación y cantidad de puntos a monitorear. d. En caso de evidenciarse algún punto que sobrepase los límites permisibles en la norma internacional Loussiana Administrative Code Natural Resources 29B, posterior a la finalización de las actividades de recuperación, deberá realizar las actividades que sean pertinentes para garantizar la recuperación de los suelos. e. Realizar el aislamiento y señalización de la totalidad de las áreas que se identifiquen como zonas con presencia de hidrocarburos por la operación de la Texas Petroleum Company. f. Como parte del diagnóstico deberá incluir los siguientes puntos; predios el Jardín y Nuevo Milenio (Área 3).”",
+      "texto": "Luego, se efectuó nuevamente seguimiento y control ambiental al proyecto “Campo Velásquez”, con base en el Informe de Cumplimiento Ambiental – ICA No. 32, correspondiente al año 2019, la información documental presentada por la empresa MANSAROVAR ENERGY COLOMBIA LTD y la visita guiada de seguimiento ambiental realizada entre los días 7 al 9 de octubre de 2020, lo cual se vio plasmado en el Concepto Técnico No. 7122 del 23 de noviembre de 2020, acogido en el Auto No. 12084 del 21 de diciembre de 2020. De acuerdo con lo analizado por el Auto No. 12084 de 2020, frente a la obligación del numeral 2, del artículo primero del Auto No. 3982 de 2020, se observó que: “Consideraciones: Revisados los documentos que reposan en el expediente LAM0332, se observa que no fue adjuntado el documento solicitado. Se reitera el requerimiento.” Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 8 de 14 me El ambiente Minambiente RS Auto No. 05846 Del 26 de julio de 2022 Hoja No. 9 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” Con ocasión de lo anterior, la ANLA reiteró nuevamente a través del artículo primero del Auto No. 12084 de 2020, el cumplimiento de las obligaciones establecidas en el numeral 1 del artículo segundo del Auto 3472 de 27 de junio de 2018 y el numeral 2 del artículo primero del Auto 3982 del 8 de mayo de 2020, en los siguientes términos: “ARTÍCULO PRIMERO: Reiterar a la sociedad MANSAROVAR ENERGY COLOMBIA LTD, titular de la licencia ambiental otorgada para el proyecto «Campo de Desarrollo Moriche» localizado en jurisdicción del municipio de Puerto Boyacá, en el departamento de Boyacá, el cumplimiento de las obligaciones y medidas ambientales en los términos establecidos en la licencia ambiental y demás actos administrativos relacionados en la parte motiva del presente acto administrativo y que se listan a continuación, y para el efecto, presentar la evidencia documental del cumplimiento, según aplique:",
+      "pagina_inicio": 8,
+      "pagina_fin": 9,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0036",
+      "numeral": "f",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Como parte del diagnóstico deberá incluir los siguientes puntos; predios El Jardín y Nuevo Milenio (Área 3).",
+      "texto": "Lo anterior en cumplimiento del literal a, b, c, d, e, f del numeral 1 del artículo segundo del Auto 3472 de 27 de junio de 2018 y el numeral 2 del artículo primero del Auto 3982 del 8 de mayo de 2020.” Frente al hecho 1, de acuerdo con lo aquí expuesto, se evidencia el incumplimiento de las obligaciones contenidas en el numeral 1 del artículo segundo del Auto No. 3472 de 27 de junio de 2018, requerimiento 4 del Acta No. 179 del 22 de octubre de 2019, numeral 2 del artículo primero del Auto No. 3982 del 8 de mayo de 2020 y numeral 1 del artículo primero del Auto No. 12084 de 21 de diciembre de 2020, toda vez que, a la fecha del presente acto administrativo, no se evidenció la documentación que rinda cuenta del cumplimiento de las precitadas obligaciones. Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 me El ambiente Minambiente RS www.anla.gov.co Email: licencias@anla.gov.co Página 9 de 14 Auto No. 05846 Del 26 de julio de 2022 Hoja No. 10 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental”",
+      "pagina_inicio": 9,
+      "pagina_fin": 10,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0037",
+      "numeral": "HECHO_2",
+      "tipo_numeral": "hecho",
+      "nivel": 1,
+      "titulo": "",
+      "texto": "El segundo hecho que origina el presente Auto de Apertura de Procedimiento Sancionatorio, de acuerdo con el Concepto Técnico No. 02223 del 28 de abril de 2022 (pag.23) es el siguiente: “Por no realizar la remoción de la tarulla de forma mecánica, con el fin de optimizar el proceso de limpieza del espejo de agua de caños y ciénaga Palagua y obtener resultados efectivos que redunden en el mejoramiento de las condiciones de luz y oxigenación de la columna de agua de dichos cuerpos de agua” La génesis del contenido que da origen al presente hecho, lo encontramos en el numeral dos del artículo cuarto Resolución No. 412 del 12 de mayo de 1998, en la cual, el MADS estableció el Plan de Restauración Ambiental (PRA), para el proyecto “Campo de Producción Velásquez”, así: “2. Se realizará la remoción de Tarulla, dos (2) veces por año, en los meses de mayo y noviembre en el tapón de conexión entre el río Magdalena y la ciénaga de Palagua. La Sociedad deberá cumplir con esta medida todos los años hasta tanto este Ministerio se pronuncie de manera diferente en relación a ella.” Posteriormente, en el Auto No. 1291 del 25 de julio de 2005, el MAVDT, realizó control y seguimiento ambiental al proyecto, dentro de sus consideraciones, específicamente sobre la remoción de macrófitas, revisando los Informes de Cumplimiento Ambiental (ICA) del 1 al 32, y en general la documentación que reposa en el expediente permisivo LAM0332, el Ministerio consideró que: “Así las cosas, se observa claramente que la sociedad no está dando cumplimiento a la temporalidad establecida en la presente obligación, por lo que se hace necesario requerir a la sociedad MANSAROVAR ENERGY COLOMBIA LTD, sobre el cumplimiento del mismo” Con ocasión de este seguimiento, a través del numeral 21 del artículo primero del Auto 1291 de 2005, se reformó la obligación de remoción de macrófitas, así: “21. Omimex de Colombia Ltd. debe realizar en los meses de mayo y noviembre de cada año, la remoción del tapón de macrófitas en el Caño Palagua, ajustando oportunamente los inconvenientes internos de la Sociedad para la realización de esta actividad, la cual es responsabilidad exclusiva de Omimex de Colombia Ltd. lo anterior, con el objeto de mejorar la calidad de las aguas de la ciénaga y del caño Palagua.” Nuevamente, en cumplimiento de la función de control y seguimiento ambiental, el MAVDT mediante el Auto No. 594 del 02 de marzo de 2011, requiriendo nuevamente el cumplimiento de la remoción de tarulla de forma mecánica, a través del numeral 2 del artículo sexto, dispuso que: “ARTÍCULO SEXTO. - Requerir a la empresa MANSAROVAR ENERGY COLOMBIA LTD, para que en relación con la remoción del tapón de macrófitas acuáticas en la ciénaga Palagua y en los caños Agualinda y Palagua, de cumplimiento a lo siguiente: (…) Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 10 de 14 me El ambiente Minambiente RS Auto No. 05846 Del 26 de julio de 2022 Hoja No. 11 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental”",
+      "pagina_inicio": 10,
+      "pagina_fin": 11,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0038",
+      "numeral": "2",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Realizar remoción mecánica con el fin de optimizar el proceso de limpieza del espejo de agua y obtener resultados efectivos que redunden en el mejoramiento de las condiciones de luz y oxigenación de la columna de agua.”",
+      "texto": "Ahora bien, durante la visita practicada del 06 al 09 de julio de 2021, esta Autoridad pudo evidenciar que la remoción del material se estaba haciendo de forma manual- mecánica a través de una retroexcavadora, incumpliendo lo establecido en el instrumento de manejo y control, que establece que esta actividad debe realizarse de forma mecánica exclusivamente. Por esto, se dispuso en el numeral 7 del artículo primero del referido Auto No. 12084, que: “7. Realizar la remoción de tarulla de forma mecánica con el fin de optimizar el proceso de limpieza del espejo de agua de caños y ciénaga y obtener resultados efectivos que redunden en el mejoramiento de las condiciones de luz y oxigenación de la columna de agua de dichos cuerpos de agua, en cumplimiento del numeral 2 del artículo sexto del Auto 594 del 2 de marzo de 2011.” Finalmente, La Autoridad Nacional de Licencias Ambientales, en cumplimiento de las funciones de control y seguimiento ambiental y atendiendo a las consideraciones técnicas emitidas en el Concepto Técnico No. 5024 del 24 de agosto de 2021, profirió el Auto No. 08142 del 29 de septiembre de 2021 y procedió a reiterar el cumplimiento de la misma, de la siguiente manera: “ARTÍCULO SEGUNDO. Reiterar a la sociedad MANSAROVAR ENERGY COLOMBIA LTD, titular del Plan de Manejo Ambiental para el “CAMPO DE PRODUCCIÓN VELÁSQUEZ” localizado en jurisdicción del municipio de Puerto Boyacá en el departamento de Boyacá, el cumplimiento de las siguientes obligaciones y/o requerimientos establecidos(a)s en los actos administrativos que se enuncian a continuación: (…)",
+      "pagina_inicio": 11,
+      "pagina_fin": 11,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0039",
+      "numeral": "9",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Realizar la remoción de tarulla de forma mecánica con el fin de optimizar el proceso de limpieza del espejo de agua de caños y ciénaga y obtener resultados efectivos que redunden en el mejoramiento de las condiciones de luz y oxigenación de la columna de agua de dichos cuerpos de agua , de conformidad con la ficha MB-21 Remoción de Tarulla y en cumplimiento del numeral 2 del artículo sexto del Auto 594 del 2 de marzo de 2011, numeral 3 del artículo segundo del Auto 2292 del 30 de abril de 2019 y los numerales 7 y 9 del artículo primero del Auto 12084 del 21 de diciembre de 2020.”",
+      "texto": "Frente al hecho 2, de acuerdo con lo recién expuesto y en virtud del seguimiento realizado por la ANLA, se observa el presunto incumplimiento de las obligaciones establecidas en el numeral 2 del artículo sexto del Auto No. 594 del 2 de marzo de 2011, numeral 3 del artículo segundo del Auto No. 2292 del 30 de abril de 2019, los numerales 7 y 9 del artículo primero del Auto No. 12084 del 21 de diciembre de 2020 y numeral 9 del artículo segundo del Auto No. 08142 del 29 de septiembre de 2021. Como se acaba de reseñar en el presente Auto y según lo acreditado en el expediente permisivo LAM0332, la Sociedad no ha dado cumplimiento a las obligaciones aquí relacionadas en el hecho 1 y 2. Consecuencia de lo anterior, la inobservancia del contenido obligacional genera una afectación al adecuado y oportuno ejercicio de la función de control y seguimiento ambiental de la Autoridad Nacional de Licencias Ambientales, por lo que es procedente la apertura del proceso sancionatorio ambiental. Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 me El ambiente Minambiente RS www.anla.gov.co Email: licencias@anla.gov.co Página 11 de 14 Auto No. 05846 Del 26 de julio de 2022 Hoja No. 12 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” Incumplimiento a los actos administrativos De acuerdo con lo expuesto, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin que se considere necesaria la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, a través del auto de apertura de investigación. VI. Incorporación de pruebas En virtud de lo dispuesto en el artículo 22 de la Ley 1333 del 2009, según el cual para la verificación de los hechos, la autoridad ambiental competente podrá realizar todo tipo de diligencias administrativas y todas aquellas actuaciones que estime necesarias y pertinentes para determinar con certeza los hechos constitutivos de infracción, serán incorporados los elementos de prueba obrantes hasta el momento en el expediente, los cuales serán apreciados en su conjunto con las pruebas recaudadas durante el trámite sancionatorio y en la oportunidad procesal pertinente. Lo anterior, conforme a los criterios de la conducencia, pertinencia y necesidad, calificados para demostrar la configuración o no del hecho objeto de estudio, ya que aportan la información necesaria e idónea para que esta Autoridad llegue al pleno convencimiento de la ocurrencia o no de la conducta materia de investigación. En consecuencia, se relacionan las pruebas fundamento del inicio del procedimiento sancionatorio ambiental, que se entienden incorporadas al expediente, así:",
+      "pagina_inicio": 11,
+      "pagina_fin": 12,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0048",
+      "numeral": "9",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Radicado 2020109894-1-000 del 10 de julio de 2020",
+      "texto": "En mérito de lo expuesto, esta Autoridad,",
+      "pagina_inicio": 12,
+      "pagina_fin": 12,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005846_2022-07-26_blk_0049",
+      "numeral": "DISPONE",
+      "tipo_numeral": "dispone",
+      "nivel": 0,
+      "titulo": "DISPONE",
+      "texto": "ARTÍCULO PRIMERO. Ordenar el inicio de un procedimiento sancionatorio ambiental en contra de la sociedad MANSAROVAR ENERGY LTDA., identificada con NIT. 800.249.313-2, en su condición de titular Plan de Manejo Ambiental establecido mediante la Resolución 905 del 8 de julio de 2005 del proyecto “Campo Velásquez”, localizado en el municipio de Puerto Boyacá, en las veredas Calderón y Puerto Niño, del departamento de Boyacá, por los hechos relacionados en la parte motiva de este acto administrativo. PARÁGRAFO: El expediente SAN0071-00-2022, estará a disposición de la investigada y de cualquier persona que así lo requiera, en los términos del artículo 36 de la Ley 1437 de 2011. Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 me El ambiente Minambiente RS www.anla.gov.co Email: licencias@anla.gov.co Página 12 de 14 Auto No. 05846 Del 26 de julio de 2022 Hoja No. 13 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” ARTÍCULO SEGUNDO. Incorpórese como pruebas de la presente actuación las relacionadas en el acápite “VI. Incorporación de pruebas” de la parte motiva de este acto administrativo. ARTÍCULO TERCERO. Notificar el presente Auto a la sociedad MANSAROVAR ENERGY LTDA., identificada con NIT. 800.249.313-2, a través de apoderado debidamente constituido, de haberse conferido mandato en la presente actuación sancionatoria, o en su defecto, por intermedio de representante legal, de acuerdo con los artículos 67 y 69 de la Ley 1437 de 2011 - Código de Procedimiento Administrativo y de lo Contencioso Administrativo. PARÁGRAFO. Si la investigada entra en proceso de disolución o régimen de insolvencia empresarial o liquidación regulados por las normas vigentes, deberá informar inmediatamente esta situación a la ANLA, con fundamento en los artículos 8, 58, 79, 80, 81, 95 numeral 8 de la Constitución Política de 1991, en la Ley 43 de 1990, en la Ley 222 de 1995, en la Ley 1333 de 2009 y demás normas vigentes y jurisprudencia aplicable. Adicionalmente, deberá realizar la provisión contable respecto de esta obligación contingente, para lo cual deberá tener en cuenta lo dispuesto en el artículo 40 de la Ley 1333 de 2009. ARTÍCULO CUARTO. De acuerdo con lo establecido en el artículo 20 de la Ley 1333 de 2009, en concordancia con los artículos 69 y 70 de la Ley 99 de 1993, cualquier persona podrá intervenir en la presente actuación administrativa ambiental de carácter sancionatorio. ARTÍCULO QUINTO. Comunicar este Auto a la Procuraduría Delegada para Asuntos Ambientales y Agrarios, de conformidad con los artículos 21 y 56 inciso tercero de la Ley 1333 de 2009, para su conocimiento y fines pertinentes. ARTÍCULO SEXTO. Publicar el presente Auto en la Gaceta Ambiental de la Autoridad Nacional de Licencias Ambientales, de conformidad con lo establecido en el inciso segundo del artículo 70 de la Ley 99 de 1993. ARTÍCULO SÉPTIMO. Contra este auto de trámite no procede recurso alguno, de acuerdo con el artículo 75 de la Ley 1437 de 2011. NOTIFÍQUESE, COMUNÍQUESE, PUBLÍQUESE Y CÚMPLASE Dado en Bogotá D.C., a los 26 de julio de 2022 / [ | A za MN / | UN AC Ps. ANA MARIA ORTEGON MENDEZ Coordinadora del Grupo de Actuaciones Sancionatorias Ambientales Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 13 de 14 me El ambiente Minambiente RS Auto No. 05846 Del 26 de julio de 2022 Hoja No. 14 de 14 ““Por el cual se ordena el inicio de un procedimiento sancionatorio ambiental” Ejecutores CARLOS LUIS ORDONEZ ASCANIO Contratista Coty Pl Y Revisor / L�der MAGDA BOLENA ROJAS BALLESTEROS Contratista Expediente No. SAN0071-00-2022 Concepto Técnico N° 02223 Fecha 28 de abril de 2022 Fecha: 1 de junio de 2022 Proceso No.: 2022155840 Archívese en: SAN0071-00-2022 Plantilla_Auto_SILA_v3_42852 Nota: Este es un documento electrónico generado desde los Sistemas de Información de la ANLA. El original reposa en los archivos digitales de la Entidad. Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co a Y A NO e Página 14 de 14",
+      "pagina_inicio": 12,
+      "pagina_fin": 14,
+      "tablas_anidadas": []
+    }
+  ],
+  "tablas": [],
+  "metadata": {
+    "pipeline": "ANLA_parser_v5",
+    "id_estrategia": "determinista",
+    "fecha_procesamiento": "2026-05-22T16:51:12",
+    "total_bloques": 16,
+    "total_tablas": 0,
+    "elementos_procesados": 251,
+    "tipos_elemento": {
+      "Image": 18,
+      "FigureCaption": 1,
+      "UncategorizedText": 68,
+      "NarrativeText": 106,
+      "Title": 13,
+      "Header": 13,
+      "ListItem": 28,
+      "Footer": 4
+    },
+    "tablas_con_fallback_pdfplumber": 0
+  }
+}

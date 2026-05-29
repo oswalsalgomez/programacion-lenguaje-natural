@@ -1,0 +1,193 @@
+{
+  "id_documento": "AUTO_005935_2023-07-31",
+  "filename": "2456_5935_2023-07-31.pdf",
+  "tipo_documento": "AUTO",
+  "numero_documento": "5935",
+  "fecha_documento": "2023-07-31",
+  "fecha_ordinal": 20230731,
+  "expediente_sancionatorio": "SAN0110-00-2023",
+  "expediente_permisivo": "LAM0054",
+  "empresa": "TRANSPORTADORA DE GAS INTERNACIONAL S.A. E.S.P. (TGI)",
+  "nit_investigado": "900.134.459-7",
+  "proyecto": "Gasoducto Porvenir - La Belleza",
+  "municipio": "Jesús María",
+  "municipios": [
+    "Jesús María",
+    "Tauramena",
+    "Miraflores"
+  ],
+  "ubicacion": "Jesús María, Tauramena, Miraflores",
+  "materias": [
+    "evaluacion_economica_ambiental",
+    "obligaciones_seguimiento_ica",
+    "compensacion_inversion"
+  ],
+  "materias_score": {
+    "evaluacion_economica_ambiental": 22,
+    "obligaciones_seguimiento_ica": 10,
+    "compensacion_inversion": 1
+  },
+  "bloques": [
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0000",
+      "numeral": "INTRO",
+      "tipo_numeral": "intro",
+      "nivel": 0,
+      "titulo": "ENCABEZADO Y PROEMIO",
+      "texto": "Libertad y Orden República de Colombia República de Colombia Ministerio de Ambiente y Desarrollo Sostenible AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES - ANLA – AUTO N° 5935 (31 JUL. 2023) (31 JUL. 2023) “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” LA COORDINADORA DEL GRUPO DE ACTUACIONES SANCIONATORIAS AMBIENTALES ADSCRITA A LA OFICINA ASESORA JURÍDICA DE LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES – ANLA En uso de las facultades legales establecidas en la Ley 99 de 1993, en la Ley 1333 de 2009, así como de las conferidas por el Decreto - Ley 3573 de 2011, modificado por el Decreto 376 de 2020 y de las asignadas en el artículo primero la Resolución 404 del 17 de febrero de 2022 y el artículo primero de la Resolución No. 00155 del 04 de enero de 2022:",
+      "pagina_inicio": 1,
+      "pagina_fin": 1,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0001",
+      "numeral": "CONSIDERANDO",
+      "tipo_numeral": "considerando",
+      "nivel": 0,
+      "titulo": "CONSIDERANDO",
+      "texto": "La Constitución Política de Colombia establece el derecho de todas las personas a gozar de un ambiente sano y el deber del Estado de proteger su diversidad e integridad (art. 79), planificando “el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución” además de “prevenir y controlar los factores de deterioro ambiental, imponer las sanciones legales y exigir la reparación de los daños causados” La Carta Política señala como obligación del Estado y de las personas, el proteger las riquezas culturales y naturales de la Nación (art. 8 CN), los recursos culturales y naturales del país y velar por la conservación de un ambiente sano (art. 95. num. 8) y determina (Art. 58) que “la propiedad es una función social que implica obligaciones. Como tal, le es inherente una función ecológica” La Ley 1333 de 2009 “por la cual se establece el procedimiento sancionatorio ambiental y se dictan otras disposiciones”, determina la titularidad de la potestad sancionatoria ambiental en el Estado, a través de las autoridades ambientales de acuerdo con sus respectivas competencias, y define en su artículo 5 como infracción ambiental: “toda acción u omisión que constituya violación de las normas contenidas en el Código de Recursos Naturales Renovables, Decreto-ley 2811 de 1974, en la Ley 99 de 1993, en la Ley 165 de 1994 y en las demás disposiciones ambientales vigentes en que las sustituyan o modifiquen y en los actos administrativos emanados de la autoridad ambiental competente. Será también constitutivo de infracción ambiental la comisión de un daño al medio ambiente, con las mismas condiciones que para configurar la responsabilidad civil extracontractual establece el Código Civil y la legislación complementaria, a saber: El daño, el hecho generador con culpa o dolo y el vínculo causal entre los dos. Cuando estos elementos se Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 1 de 9 Página 1 de 9 Auto. No. 5935 Del 31 JUL. 2023 Hoja No. 2 de 9 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” configuren darán lugar a una sanción administrativa ambiental, perjuicio de responsabilidad que para terceros pueda generar el hecho en materia civil”. la El Decreto Ley 3573 de 2011 creó la Autoridad Nacional de Licencias Ambientales (en adelante ANLA) como una Unidad Administrativa Especial del orden nacional, con autonomía administrativa y financiera, sin personería jurídica, adscrita al Ministerio de Ambiente y Desarrollo Sostenible (MADS) y le otorgó, entre otras, la competencia de otorgar o negar las licencias, permisos y trámites ambientales de competencia del hoy Ministerio de Ambiente y Desarrollo Sostenible, y de manera expresa, la función de adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, de acuerdo con lo dispuesto en la Ley 1333 de 2009.",
+      "pagina_inicio": 1,
+      "pagina_fin": 2,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0008",
+      "numeral": "1.6",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "Mediante el Auto No. 11867 del 16 de diciembre de 2020, la ANLA reiteró el cumplimiento de las obligaciones Evaluación Económica Ambiental, establecidas",
+      "texto": "Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 2 de 9 Auto. No. 5935 Del 31 JUL. 2023 Hoja No. 3 de 9 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” en los literales a, b, c y d del artículo décimo noveno de la Resolución No. 738 del 3 de mayo de 2019.",
+      "pagina_inicio": 2,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0010",
+      "numeral": "SEC_II",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Antecedentes Sancionatorios (SAN0110-00-2023)",
+      "texto": "Como consecuencia del seguimiento ambiental al proyecto “Gasoducto Porvenir - La Belleza” de la sociedad Transportadora de Gas Internacional S.A. E.S.P. - TGI S.A. E.S.P. el Grupo de Medio Magdalena-Cauca-Catatumbo de esta Autoridad, remitió al Grupo de Actuaciones Sancionatorias Ambientales el Memorando No. 20234700028831 del 02 de mayo de 2023, solicitando evaluar la viabilidad de iniciar un procedimiento administrativo ambiental de carácter sancionatorio, con fundamento en las evidencias consignadas en el Concepto Técnico No. 1187 del 17 de marzo de 2023, por posibles incumplimientos a las obligaciones establecidas dentro del instrumento de manejo ambiental, así como a la normativa ambiental que regula la materia.",
+      "pagina_inicio": 3,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0011",
+      "numeral": "SEC_III",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Competencia",
+      "texto": "En el presente caso, es preciso informar que la Autoridad Nacional de Licencias Ambientales – ANLA tiene entre sus funciones, realizar la evaluación y seguimiento de las licencias, permisos y trámites ambientales que son de su competencia, de acuerdo con lo establecido en el artículo 1.1.2.2.1 del Decreto 1076 del 26 de mayo de 2015 y en el artículo 3° del Decreto Ley 3573 de 2011, entre los cuales se incluye el instrumento ambiental del proyecto denominado “Gasoducto Porvenir - La Belleza”; por lo que en virtud del numeral 7 del artículo 3 del Decreto Ley 3573 del 27 de septiembre de 2011 y el artículo 2 de la Ley 1333 de 2009, esta Autoridad es competente para iniciar, impulsar y llevar hasta su culminación el procedimiento ambiental sancionatorio de conformidad con la Ley 1333 de 2009. Finalmente, en relación con el procedimiento ambiental sancionatorio, la Resolución No. 404 del 17 de febrero de 2022, emanada de la Dirección General de la ANLA, asignó como funciones al Grupo de Actuaciones Sancionatorias Ambientales, en su artículo primero las siguientes: “3. Adelantar oportunamente las indagaciones preliminares, investigaciones y/o actuaciones sancionatorias en contra de las personas naturales o jurídicas, cuando las subdirecciones técnicas de la Entidad a través de sus coordinadores pongan en su conocimiento mediante concepto técnico una posible infracción ambiental. (…) 7. Elaborar los actos preparatorios que sirven de insumo para las decisiones de la ANLA que soportan el periodo probatorio, los que requiera la actuación procesal y los que fijen los criterios técnicos para la tasación de multas y/o demás sanciones procedentes, de acuerdo con lo establecido normatividad aplicable.”, de conformidad con las funciones del Grupo Interno de Trabajo, los procedimientos y normatividad aplicable.",
+      "pagina_inicio": 3,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0012",
+      "numeral": "SEC_I",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Caso Concreto",
+      "texto": "Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 3 de 9 Auto. No. 5935 Del 31 JUL. 2023 Hoja No. 4 de 9 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” El hecho por el cual se ordena el inicio de esta actuación sancionatoria contra la sociedad la sociedad Transportadora de Gas Internacional S.A. E.S.P. - TGI S.A. E.S.P. identificada con NIT 900.134.459-7, tiene su origen en el análisis efectuado por el Grupo de Medio Magdalena-Cauca-Catatumbo, a través del Concepto Técnico No. 01187 del 17 de marzo de 2023, remitido al grupo de Actuaciones Sancionatorias Ambientales y se circunscribe al siguiente hecho y presunto incumplimiento: Hecho único : Por no presentar información relacionada con: “a. Ajustar la identificación de impactos relevantes de acuerdo con el análisis de los impactos Generación y/o activación de procesos denudativos y Cambio del uso del suelo. b. Replantear la valoración económica del impacto Modificación de la cobertura vegetal / Alteración de la estructura y composición florística, y afectación de individuos de especies de Flora endémicas, amenazadas, vedadas o de importancia ecológica, económica y cultural, con relación al servicio ecosistémico de Control de la erosión, de acuerdo con las consideraciones expuestas respecto al ejercicio desarrollado. c. Presentar el nivel de avance ejecutado (soporte a la implementación) de los programas de la línea de inversión de desarrollo social, en donde se reporte el beneficio generado. d. Ajustar el flujo de costos y beneficios de tal manera que se evidencie cada uno de los tópicos contemplados en correspondencia con las valoraciones económicas, y actualizar los indicadores económicos (Valor Presente Neto - VPN y la Relación Costo Beneficio - RCB). Adelantar finalmente el análisis de sensibilidad utilizando variables críticas que lleven a probar la robustez de las conclusiones”, incurriendo con ello en el incumplimiento de lo establecido en los literales a, b, c y d del Artículo Décimo Noveno de la Resolución 738 del 3 de mayo de 2019. Al respecto cabe señalar en primer lugar que mediante la Resolución No. 738 del 3 de mayo de 2019, la ANLA modificó el Plan de Manejo Ambiental establecido mediante la Resolución No. 847 del 22 de septiembre de 1997, para la construcción y operación del Loop denominado Puente Guillermo - La Belleza, localizado en jurisdicción de los municipios de Jesús María y Florián, departamento de Santander, el cual tiene una longitud aproximada de 11,4995 kilómetros. En los literales a, b, c y d del artículo décimo noveno de la referida Resolución, la ANLA estableció las siguientes obligaciones: “(…) ARTÍCULO DÉCIMO NOVENO: La empresa TRANSPORTADORA DE GAS INTERNACIONAL S.A. E.S.P; respecto de la Evaluación Económica Ambiental del proyecto deberá dar cumplimiento a las obligaciones que se definen a continuación y presentar lo allí requerido en el próximo Informe de Cumplimiento Ambiental. Obligaciones:",
+      "pagina_inicio": 3,
+      "pagina_fin": 4,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0014",
+      "numeral": "b",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Replantear la valoración económica del impacto Modificación de la cobertura vegetal /Alteración de la estructura y composición florística, y afectación de individuos de especies de Flora endémicas, amenazadas, vedadas o de importancia ecológica, económica y cultural, con relación al servicio ecosistémico de Control de la erosión, de acuerdo con las consideraciones expuestas respecto al ejercicio desarrollado.",
+      "texto": "Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 4 de 9 Auto. No. 5935 Del 31 JUL. 2023 Hoja No. 5 de 9 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 4,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0016",
+      "numeral": "d",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Ajustar el flujo de costos y beneficios de tal manera que se evidencie cada uno de los tópicos contemplados en correspondencia con las valoraciones económicas, y actualizar los indicadores económicos (Valor Presente Neto - VPN y la Relación Costo Beneficio - RCB). Adelantar finalmente el análisis de sensibilidad utilizando variables críticas que lleven a probar la robustez de las conclusiones. (…)”",
+      "texto": "Luego, en atención a los resultados de la visita de seguimiento ambiental llevada a cabo del 28 de septiembre al 2 de octubre de 2020 y la respectiva verificación documental del expediente, esta Autoridad Nacional procedió a emitir el Concepto Técnico No. 07041 del 19 de noviembre de 2020, revisado jurídicamente mediante Auto No. 11867 del 16 de diciembre de 2020, documentos en los cuales se determinó que la Administrada no había dado cumplimiento a los requerimientos efectuados. Así mismo a través del referido acto administrativo la ANLA determinó: “(…) ARTÍCULO PRIMERO: Reiterar a la sociedad Transportadora de Gas Internacional S.A. E.S.P. - TGI S.A. E.S.P., titular de la licencia ambiental otorgada para el proyecto « Gasoducto Porvenir - La Belleza » localizado en jurisdicción de los municipios de Miraflores departamento de Boyacá y municipios de Jesús María y Florián en el Departamento de Santander, el cumplimiento de las obligaciones y medidas ambientales en los términos establecidos en la licencia ambiental y demás actos administrativos relacionados en la parte motiva del presente acto administrativo y que se listan a continuación, y para el efecto, presentar la evidencia documental del cumplimiento, según aplique:",
+      "pagina_inicio": 5,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0017",
+      "numeral": "1",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Dar cumplimiento a las obligaciones relacionadas con la Evaluación Económica Ambiental, establecidas en los literales a, b, c y d del artículo décimo noveno de la Resolución 738 del 3 de mayo de 2019. (…)”",
+      "texto": "Posteriormente, el grupo técnico de seguimiento de la ANLA efectuó visita del 6 al 10 de junio de 2022 y realizó la revisión documental de la información entregada por la sociedad en los Informes de Cumplimento Ambiental- ICA 3 (Radicado 2020214450-1-000 del 4 de diciembre de 2020), ICA 4 (Radicado 2021045728-1-000 del 15 de marzo de 2021), ICA 5 (2021107759-1-000 del 31 de mayo de 2021) e ICA 6 (Radicado 2021187266-1-000 del 2 de septiembre de 2021), y emitió Concepto Técnico No. 07819 del 13 de diciembre de 2022, en el cual se determinó nuevamente que la investigada no había dado cumplimiento a las obligaciones de la Evaluación Económica Ambiental. En consecuencia, mediante el numeral 32 del artículo primero del Auto No. 11870 del 30 de diciembre de 2022, se procedió a reiterar el cumplimiento de las obligaciones establecidas en los literales a, b, c y d del artículo décimo noveno de la Resolución No. 738 del 3 de mayo de 2019, en los siguientes términos: Página 5 de 9 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 5935 Del 31 JUL. 2023 Hoja No. 6 de 9 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” “(…) ARTÍCULO PRIMERO: Reiterar a la sociedad TRANSPORTADORA DE GAS INTERNACIONAL S.A. E.S.P. - TGI S.A. E.S.P con NIT 900134459-7, titular de la licencia ambiental, el cumplimiento de las obligaciones y medidas ambientales que se indican a continuación, en los términos y condiciones en que fueron establecidas en los actos administrativos a los que se hace referencia en el presente artículo:",
+      "pagina_inicio": 5,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0018",
+      "numeral": "32",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Dar cumplimiento a las obligaciones relacionadas con la Evaluación Económica Ambiental, establecidas en los literales a, b, c y d del artículo décimo noveno de la Resolución 738 del 3 de mayo de 2019 y reiteradas en el numeral 1 del artículo primero del Auto 11867 del 16 de diciembre de 2020. (…)”",
+      "texto": "De acuerdo a lo anterior, se concluye que a la fecha de elaboración del Concepto Técnico No. 01187 del 17 de marzo de 2023, no existe evidencia de que la sociedad Transportadora de Gas Internacional S.A. E.S.P. - TGI S.A. E.S.P. haya dado cumplimiento a las obligaciones relacionadas con la Evaluación Económica Ambiental, establecidas en los literales a, b, c y d del artículo décimo noveno de la Resolución No. 738 del 3 de mayo de 2019 y reiteradas en el numeral 1 del artículo primero del Auto No. 11867 del 16 de diciembre de 2020 y el numeral 32 del artículo primero del Auto No.11870 del 30 de diciembre de 2022, en los plazos otorgados en los referidos actos administrativos. Finalmente, debe resaltarse que, como consecuencia de los incumplimientos normativos señalados anteriormente por parte de la sociedad Transportadora de Gas Internacional S.A. E.S.P. - TGI S.A. E.S.P., se impidió a esta Autoridad el adecuado y oportuno ejercicio de la función de control y seguimiento ambiental.",
+      "pagina_inicio": 6,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0019",
+      "numeral": "SEC_IV",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Incumplimiento a los actos administrativos",
+      "texto": "De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin que se considere necesaria la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, a través del auto de apertura de investigación.",
+      "pagina_inicio": 6,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0020",
+      "numeral": "v",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Incorporación de Pruebas",
+      "texto": "En virtud de lo dispuesto en el artículo 22 de la Ley 1333 del 2009, según el cual para la verificación de los hechos, la autoridad ambiental competente podrá realizar todo tipo de diligencias administrativas y todas aquellas actuaciones que estime necesarias y pertinentes para determinar con certeza los hechos constitutivos de infracción, serán incorporados los elementos de prueba obrantes hasta el momento en el expediente, los cuales serán apreciados en su conjunto con las pruebas recaudadas durante el trámite sancionatorio y en la oportunidad procesal pertinente. Lo anterior, conforme a los criterios de la conducencia, pertinencia y necesidad, calificados para demostrar la configuración o no del hecho objeto de estudio, ya que aportan la información necesaria e idónea para que esta Autoridad llegue al pleno convencimiento de la ocurrencia o no de la conducta materia de investigación. Página 6 de 9 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 5935 Del 31 JUL. 2023 Hoja No. 7 de 9 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” En consecuencia, se relacionan las pruebas fundamento del inicio del procedimiento sancionatorio ambiental, que se entienden incorporadas al expediente LAM0054: • Resolución No. 738 del 3 de mayo de 2019, por la cual se modificó el Plan de Manejo Ambiental establecido mediante la Resolución No. 847 del 22 de septiembre de 1997. • Auto No. 11867 del 16 de diciembre de 2020, por el cual se efectúa un seguimiento y control ambiental. Acoge el Concepto Técnico No. 07041 del 19 de noviembre de 2020 • Auto No. 11870 del 30 de diciembre de 2022, por el cual se efectúa un seguimiento y control ambiental. Acoge el Concepto Técnico No. 07819 del 13 de diciembre de 2022 En mérito de lo expuesto,",
+      "pagina_inicio": 6,
+      "pagina_fin": 7,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005935_2023-07-31_blk_0021",
+      "numeral": "DISPONE",
+      "tipo_numeral": "dispone",
+      "nivel": 0,
+      "titulo": "DISPONE",
+      "texto": "ARTÍCULO PRIMERO: Ordenar el inicio del procedimiento sancionatorio ambiental en contra de la sociedad Transportadora de Gas Internacional S.A. E.S.P. - TGI S.A. E.S.P. identificada con NIT 900.134.459-7, de conformidad con el artículo 18 de la ley 1333 de 2009 y con fundamento en las consideraciones expuestas en la parte motiva de este Auto. PARÁGRAFO: El Expediente SAN0110-00-2023, estará a disposición del investigado y de cualquier persona que así lo requiera, en los términos del artículo 36 de la Ley 1437 de 2011. ARTÍCULO SEGUNDO: Incorpórese a la presente actuación los documentos relacionados en el acápite “V. Incorporación de documentos” de la parte motiva del presente acto administrativo. PARÁGRAFO: A través del Grupo de Gestión Documental de la Subdirección Administrativa y Financiera de esta Autoridad, realícese la incorporación a esta actuación sancionatoria de la copia integral de cada uno de los documentos enlistados en el numeral V. “Incorporación de Documentos” de esta providencia. ARTÍCULO TERCERO: Notificar el presente auto a la sociedad Transportadora de Gas Internacional S.A. E.S.P. - TGI S.A. E.S.P. a través de su apoderado debidamente constituido, de haberse conferido mandato en la presente actuación sancionatoria, o en su defecto, por intermedio de su representante legal, de acuerdo con los artículos 67 y 69 de la Ley 1437 de 2011. PARÁGRAFO: Si la investigada entra en proceso de disolución o régimen de insolvencia empresarial o liquidación regulados por las normas vigentes, informará inmediatamente esta situación a la ANLA, con fundamento en los artículos 8, 58, 79, 80, 81, 95 numeral 8 de la Constitución Política de 1991, en la Ley 43 de 1990, en la Ley 222 de 1995, en la Ley 1333 de 2009 y demás normas vigentes y jurisprudencia aplicable. Adicionalmente, Página 7 de 9 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 7 de 9 Auto. No. 5935 Del 31 JUL. 2023 Hoja No. 8 de 9 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” realizará la provisión contable respecto de esta obligación contingente, para lo cual deberá tener en cuenta lo dispuesto en el artículo 40 de la Ley 1333 de 2009. ARTÍCULO CUARTO: De acuerdo con lo establecido en el artículo 20 de la Ley 1333 de 2009, en concordancia con los artículos 69 y 70 de la Ley 99 de 1993, cualquier persona podrá intervenir en la presente actuación administrativa ambiental de carácter sancionatorio. ARTÍCULO QUINTO: Comunicar este auto a la Procuraduría Delegada para Asuntos Ambientales, de conformidad con los artículos 21 y 56 inciso tercero de la Ley 1333 de 2009, para su conocimiento y fines pertinentes. ARTÍCULO SEXTO: Publicar el presente auto en la Gaceta Ambiental de la Autoridad Nacional de Licencias Ambientales, según el inciso segundo del artículo 70 de la Ley 99 de 1993. ARTÍCULO SEPTIMO: Contra este auto de trámite no procede recurso alguno, de acuerdo con el artículo 75 de la Ley 1437 de 2011. NOTIFÍQUESE, COMUNÍQUESE, PUBLÍQUESE Y CÚMPLASE | Dado en Bogotá D.C., a los 31 JUL. 2023 N i Í j 3 Íiunn NA ANA MARIA ORTEGON MENDEZ COORDINADORA ACTUACIONES SANCIONATORIAS RA - (HE HA CLARA FERNANDA BURBANO ERAZO CONTRATISTA DIEGO FELIPE BARRIOS FAJARDO CONTRATISTA Expediente No. SAN0110-00-2023 Concepto Técnico No. 01187 del 17 de marzo de 2023 Fecha: 26 de mayo de 2023 Proceso No.: 20231420059355 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código poa [105 1156 Nit: 900.467.239. Línea de Orentación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 8 de 9 Auto. No. 5935 Del 31 JUL. 2023 Hoja No. 9 de 9 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Nota: Este es un documento electrónico generado desde los Sistemas de Información de la ANLA. El original reposa en los archivos digitales de la Entidad Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 9 de 9",
+      "pagina_inicio": 7,
+      "pagina_fin": 9,
+      "tablas_anidadas": []
+    }
+  ],
+  "tablas": [],
+  "metadata": {
+    "pipeline": "ANLA_parser_v5",
+    "id_estrategia": "determinista",
+    "fecha_procesamiento": "2026-05-22T17:58:09",
+    "total_bloques": 13,
+    "total_tablas": 0,
+    "elementos_procesados": 117,
+    "tipos_elemento": {
+      "Image": 13,
+      "NarrativeText": 60,
+      "Title": 21,
+      "Header": 8,
+      "ListItem": 14,
+      "UncategorizedText": 1
+    },
+    "tablas_con_fallback_pdfplumber": 0
+  }
+}

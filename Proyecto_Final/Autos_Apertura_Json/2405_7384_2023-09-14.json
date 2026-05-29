@@ -1,0 +1,372 @@
+{
+  "id_documento": "AUTO_007384_2023-09-14",
+  "filename": "2405_7384_2023-09-14.pdf",
+  "tipo_documento": "AUTO",
+  "numero_documento": "7384",
+  "fecha_documento": "2023-09-14",
+  "fecha_ordinal": 20230914,
+  "expediente_sancionatorio": "SAN0077-00-2023",
+  "expediente_permisivo": "LAM4375",
+  "empresa": "HOCOL S.A.",
+  "nit_investigado": "860.072.134-7",
+  "proyecto": "Área de Perforación Exploratoria SAMÁN",
+  "municipio": "Córdoba",
+  "municipios": [
+    "Córdoba"
+  ],
+  "ubicacion": "Córdoba",
+  "materias": [
+    "obligaciones_seguimiento_ica",
+    "compensacion_inversion"
+  ],
+  "materias_score": {
+    "obligaciones_seguimiento_ica": 74,
+    "compensacion_inversion": 10
+  },
+  "bloques": [
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0000",
+      "numeral": "INTRO",
+      "tipo_numeral": "intro",
+      "nivel": 0,
+      "titulo": "ENCABEZADO Y PROEMIO",
+      "texto": "Libertad y Orden República de Colombia República de Colombia Ministerio de Ambiente y Desarrollo Sostenible AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES - ANLA – AUTO N° 7384 (14 SEP. 2023) (14 SEP. 2023) “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” LA COORDINADORA DEL GRUPO DE ACTUACIONES SANCIONATORIAS AMBIENTALES ADSCRITA A LA OFICINA ASESORA JURÍDICA DE LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES – ANLA En uso de las facultades legales establecidas en la Ley 99 de 1993, en la Ley 1333 de 2009, así como de las conferidas por el Decreto - Ley 3573 de 2011, modificado por el Decreto 376 de 2020 y de las asignadas en el artículo primero la Resolución 404 del 17 de febrero de 2022 y el artículo primero de la Resolución No. 00155 del 04 de enero de 2022:",
+      "pagina_inicio": 1,
+      "pagina_fin": 1,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0001",
+      "numeral": "CONSIDERANDO",
+      "tipo_numeral": "considerando",
+      "nivel": 0,
+      "titulo": "CONSIDERANDO",
+      "texto": "La Constitución Política de Colombia establece el derecho de todas las personas a gozar de un ambiente sano y el deber del Estado de proteger su diversidad e integridad (art. 79), planificando “el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución” además de “prevenir y controlar los factores de deterioro ambiental, imponer las sanciones legales y exigir la reparación de los daños causados” La Carta Política señala como obligación del Estado y de las personas, el proteger las riquezas culturales y naturales de la Nación (art. 8 CN), los recursos culturales y naturales del país y velar por la conservación de un ambiente sano (art. 95. num. 8) y determina (Art. 58) que “la propiedad es una función social que implica obligaciones. Como tal, le es inherente una función ecológica” La Ley 1333 de 2009 “por la cual se establece el procedimiento sancionatorio ambiental y se dictan otras disposiciones”, determina la titularidad de la potestad sancionatoria ambiental en el Estado, a través de las autoridades ambientales de acuerdo con sus respectivas competencias, y define en su artículo 5 como infracción ambiental: “toda acción u omisión que constituya violación de las normas contenidas en el Código de Recursos Naturales Renovables, Decreto-ley 2811 de 1974, en la Ley 99 de 1993, en la Ley 165 de 1994 y en las demás disposiciones ambientales vigentes en que las sustituyan o modifiquen y en los actos administrativos emanados de la autoridad ambiental competente. Será también constitutivo de infracción ambiental la comisión de un daño al medio ambiente, con las mismas condiciones que para configurar la responsabilidad civil extracontractual establece el Código Civil y la legislación complementaria, a saber: El daño, el hecho generador con culpa o dolo y el vínculo causal entre los dos. Cuando estos elementos se Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 1 de 22 Página 1 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 2 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” configuren darán lugar a una sanción administrativa ambiental, perjuicio de responsabilidad que para terceros pueda generar el hecho en materia civil”. la El Decreto Ley 3573 de 2011 creó la Autoridad Nacional de Licencias Ambientales (en adelante ANLA) como una Unidad Administrativa Especial del orden nacional, con autonomía administrativa y financiera, sin personería jurídica, adscrita al Ministerio de Ambiente y Desarrollo Sostenible (MADS) y le otorgó, entre otras, la competencia de otorgar o negar las licencias, permisos y trámites ambientales de competencia del hoy Ministerio de Ambiente y Desarrollo Sostenible, y de manera expresa, la función de adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, de acuerdo con lo dispuesto en la Ley 1333 de 2009.",
+      "pagina_inicio": 1,
+      "pagina_fin": 2,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0008",
+      "numeral": "1.6",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "A través del Acta de Seguimiento y Control No. 475 del 4 de agosto de 2022, la ANLA efectuó seguimiento y control ambiental, acogiendo las consideraciones y",
+      "texto": "Página 2 de 22 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código poa [105 1156 Nit: 900.467.239. Línea de Orentación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 3 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” recomendaciones del Concepto Técnico No. 4448 del 29 de julio de 2022 y reiteró las obligaciones relacionadas con la evaluación ambiental.",
+      "pagina_inicio": 2,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0009",
+      "numeral": "SEC_II",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Antecedentes Sancionatorios (SAN0077-00-2023)",
+      "texto": "2.1 Como consecuencia del seguimiento ambiental al proyecto “Área de Producción Samán” de la sociedad HOCOL S.A, el Grupo Caribe Pacífico de esta Autoridad, remitió al Grupo de Actuaciones Sancionatorias Ambientales el Memorando No. 2023063203-3-000 del 27 de marzo de 2023, solicitando evaluar la viabilidad de iniciar un procedimiento administrativo ambiental de carácter sancionatorio, con fundamento en las evidencias consignadas en el Concepto Técnico No. 01357 del 27 de marzo de 2023, por posibles incumplimientos a las obligaciones establecidas dentro del instrumento de manejo ambiental, así como a la normativa ambiental que regula la materia.",
+      "pagina_inicio": 3,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0010",
+      "numeral": "SEC_III",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Competencia",
+      "texto": "La ANLA es competente para iniciar, adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, teniendo en cuenta que es la autoridad facultada para otorgar y efectuar seguimiento al instrumento ambiental del presente proyecto. Dicha facultad le fue transferida del MADS, de acuerdo con la desconcentración administrativa prevista en los numerales 1°, 2° y 7° del artículo tercero del Decreto 3573 de 2011, en concordancia con lo previsto en el artículo 2 de la Ley 1333 de 2009, siendo por ende competente para el ejercicio de la potestad sancionatoria ambiental que pueda derivarse de los hechos sucedidos en ejecución de este proyecto. Finalmente, en relación con el procedimiento ambiental sancionatorio, la Resolución No. 404 del 17 de febrero de 2022, emanada de la Dirección General de la ANLA, asignó como funciones al Grupo de Actuaciones Sancionatorias Ambientales, en su artículo primero las siguientes: “3. Adelantar oportunamente las indagaciones preliminares, investigaciones y/o actuaciones sancionatorias en contra de las personas naturales o jurídicas, cuando las subdirecciones técnicas de la Entidad a través de sus coordinadores pongan en su conocimiento mediante concepto técnico una posible infracción ambiental. (…) 7. Elaborar los actos preparatorios que sirven de insumo para las decisiones de la ANLA que soportan el periodo probatorio, los que requiera la actuación procesal y los que fijen los criterios técnicos para la tasación de multas y/o demás sanciones procedentes, de acuerdo con lo establecido normatividad aplicable.”, de conformidad con las funciones del Grupo Interno de Trabajo, los procedimientos y normatividad aplicable.",
+      "pagina_inicio": 3,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0011",
+      "numeral": "SEC_I",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Caso Concreto",
+      "texto": "Los hechos por los cuales se ordena el inicio de esta actuación sancionatoria contra la sociedad HOCOL S.A. identificada con NIT 860.072.134 - 7, tienen su origen en el análisis efectuado por el Grupo Caribe Pacífico de esta Autoridad, a través del Concepto Técnico No. 01357 del 27 de marzo de 2023, remitido al grupo de Actuaciones Sancionatorias Ambientales y se circunscribe a los siguientes hechos y presuntos incumplimientos: Página 3 de 22 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 4 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Hecho I • No presentar los ajustes del Plan de Compensación Ambiental del Componente Biótico requeridos en los numerales 3, 4 y 5 (sobre donde Compensar), el numeral 1, literales a y b del numeral 2, numerales 5, 7 y 8 (sobre cómo compensar) y numerales 1, 2 y 3 (requerimientos generales) del artículo octavo de la Resolución 1676 del 26 de agosto de 2019, reiterados en los requerimientos de los numerales 16, 17,18, 19, 20, 21, 22, 23, 24, 25 y 26 del artículo primero del Auto 7533 del 10 de agosto de 2020, los requerimientos 69, 70, 71, 72, 73, 74, 75, 76, 77, 78 y 79 Acta 266 del 26 de junio de 2021 y los requerimientos 69, 70, 71,72, 73, 74, 75, 76, 77, 78 y 79 Acta 475 del 4 de agosto de 2022, así como lo establecido en el artículo décimo tercero de la Resolución 1797 del 18 de septiembre de 2009, reiterado en el numeral 11 del artículo segundo del Auto 7533 del 10 de agosto de 2020, y en los requerimientos 63 del acta 266 del 26 de junio de 2021 y requerimiento 66 del acta 475 del 4 de agosto de 2022. Al respecto cabe señalar que mediante Resolución No. 1797 del 18 de septiembre de 2009, modificada por la Resolución No. 0776 del 2 de julio de 2015, la Autoridad Nacional de Licencias Ambientales en adelante la ANLA, otorgó a la empresa HOCOL S.A., Licencia Ambiental para el proyecto “Área de Perforación Exploratoria SAMÁN”, localizado en jurisdicción de los municipios de Córdoba y Carmen de Bolívar, en el departamento de Bolívar, y Ovejas, en el departamento de Sucre. En el artículo décimo tercero de la referida resolución entre otras cosas precisa lo siguiente: “(…) ARTÍCULO DÉCIMO TERCERO. - La empresa HOCOL S.A, como medida de compensación por el aprovechamiento forestal autorizado, la Empresa deberá, desarrollar un programa de reforestación en cantidad de 1:7 por el área afectada con cobertura de bosques de galería; 1:5 por cada hectárea afectada con bosques fragmentados y 1:3 por cada hectárea efectada con rastrojos bajos. La densidad de plantación debe ser 1.100 árb/ha., mediante el sistema de tres bolillos. Las plántulas deben tener una altura no menor de 50 cm al momento de la siembra, asegurando su mantenimiento por un período mínimo de 3 años y un prendimiento del 85%. Adicional a lo anterior se debe hacer el respectivo aislamiento de estas plantaciones, mediante la construcción de cercas protectoras El cálculo del número de hectáreas a establecer, debe reportarse en el Plan de Manejo Ambiental Específico, una vez se tenga claridad del sitio donde se instalarán las plataformas de perforación. Dichas compensaciones deberán realizarse en lo posible en áreas aledañas a las áreas intervenidas por el proyecto y en los cuerpos de agua cercanos a las áreas de las plataformas y vías de acceso a construir. (…)” Posteriormente a través de la Resolución No.1676 del 26 de agosto de 2019, la ANLA modificó la Licencia Ambiental del proyecto “Área de Perforación Exploratoria Samán” en el sentido de aprobar la solicitud de acogimiento al régimen de transición establecido en el numeral 2 del artículo 10 de la Resolución No. 0256 del 22 de febrero de 2018, modificada por la Resolución No. 1428 del 31 de julio de 2018, de acuerdo a solicitud de HOCOL S.A Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código poa [105 1156 Nit: 900.467.239. Línea de Orentación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 4 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 5 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” en el Plan de Compensación entregado con radicado 2018180208-1-000 del 20 de diciembre de 2018, en lo referente al DÓNDE y CÓMO. En el artículo octavo de la referida resolución entre otras cosas precisa lo siguiente: “(…) ARTÍCULO OCTAVO: Requerir a HOCOL S.A., para que, de inicio a la ejecución del Plan de Compensación Ambiental del Componente Biótico, el cual fue presentado mediante el radicado 2018186919-1-000 del 31 de diciembre de 2018. En consecuencia, se deberá dar cumplimiento a los requerimientos que se enumeran a continuación, presentando un informe de inicio en el informe de cumplimiento ambiental - ICA, un cronograma detallado para la ejecución del Plan y posteriormente el correspondiente informe de avance de seguimiento y monitoreo del Plan. (…)” Requerimientos sobre el dónde compensar:",
+      "pagina_inicio": 3,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0014",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "En cada una de las áreas seleccionadas definitivamente para la ejecución de la Compensación, se deberá realizar previamente al inicio de cualquier actividad, una caracterización biótica, la cual contenga como mínimo la siguiente información: coberturas vegetales, estado sucesional, composición y riqueza de especies entre otros, descripción del estado de las áreas aledañas, caracterización de fauna, identificación y caracterización de los tensionantes del componente biótico en términos de magnitud, frecuencia e intensidad, así como identificación y valoración de los servicios ecosistémicos que presta el lugar, con lo que se permita evaluar la pertinencia de las acciones a desarrollar y la adicionalidad que éstas generarán sobre las áreas seleccionadas, lo cual deberá ser incluido como línea base para el seguimiento de los indicadores y el cumplimiento de los objetivos, metas y alcance de la Compensación.",
+      "texto": "Además, se debe realizar un análisis de suelos, con el fin de establecer las condiciones de estos frente a la implementación de las acciones de Compensación propuestas.",
+      "pagina_inicio": 5,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0016",
+      "numeral": "5",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "En relación a la cuantificación de las áreas ecológicamente equivalentes, donde la empresa manifiesta: “teniendo en cuenta que las coberturas identificadas como potenciales corresponden a las zonas de ronda hídrica del Arroyo Mancomojan y sus",
+      "texto": "Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 5 de 22 Página 5 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 6 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” tributarios, ésta se estimó como un corredor de mínimo 10 metros de ancho paralelo a los cauces, así se configura una longitud de cauce a lo largo de la cual se pretende adelantar la acción de restauración con enfoque de recuperación y estrategia de enriquecimiento y suplementación de coberturas ”, HOCOL S.A deberá aclarar si el corredor de 10 metros al que hace mención, está contemplado para cada una de las orillas de cada cauce.",
+      "pagina_inicio": 5,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0019",
+      "numeral": "8",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Presentar el estado legal de los predios seleccionados.",
+      "texto": "Requerimientos sobre el COMO compensa: r 1.Ajustar el enfoque (recuperación) de la acción de restauración prevista por HOCOL S.A en el Plan de Compensación presentado para el APE Samán, teniendo en cuenta que de acuerdo a lo expuesto en el Manual de Compensaciones del Componente Biótico, el enfoque correspondería a una rehabilitación del ecosistema protector, considerando que el nivel de degradación identificado en las áreas potenciales donde se proyecta realizar la Compensación no es el máximo, al presentar una matriz de suelos, con coberturas vegetales herbáceas, pastos arbolados, limpios y enrastrojados, bosque fragmentado y vegetación secundaria entre otras.",
+      "pagina_inicio": 6,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0020",
+      "numeral": "2",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Para la consecución de material vegetal de regeneración natural se propone el rescate de plántulas y semillas en áreas con coberturas arbóreas preservadas para garantizar diversidad fenológica, con apoyo de las comunidades comprometidas para conseguir el material vegetal a plantar, la empresa deberá tener en cuenta lo siguiente:",
+      "texto": "a-Presentar un protocolo técnico para el rescate y conservación del material vegetal (semillas y plántulas). b-El porcentaje en términos de la cantidad del material vegetal a rescatar (semillas y plántulas) en una determinada área no debe superar el 30% del total de la regeneración natural. c-Informar en los ICA´s, las especies rescatadas y el porcentaje de material vegetal acopiado en el proyecto por medio de esta técnica. Página 6 de 22 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 7 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 6,
+      "pagina_fin": 7,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0021",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Para la consecución de material vegetal en biofábrica mediante adquisición del material a través de la compra de plántulas en viveros cercanos a la zona, la empresa debe tener en cuenta lo siguiente:",
+      "texto": "a- Los viveros deberán tener el Registro del Instituto Colombiano Agropecuario - ICA y como parte de la información en los ICA´s se entregará copia o se informará sobre tal registro. b- Para que los procesos en el marco de la restauración tengan mayor probabilidad de éxito, la altura mínima de plantación debe ser de 50 centímetros de la parte hipogea de la plántula, en un bloque proporcional a la mitad de su altura, es decir, en bolsa mediana (20-25 cm de altura) como mínimo. c- Aparte de los estados de lignificación, vigor, fitosanitario y follaje del materia vegetal a plantar, se deberá tener en cuenta un buen estado físico, sin torceduras, rajaduras y sin daños mecánicos.",
+      "pagina_inicio": 7,
+      "pagina_fin": 7,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0022",
+      "numeral": "4",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "En referencia a las especies propuestas para la acción de Compensación a desarrollar, tener en cuenta lo siguiente:",
+      "texto": "a-De las especies que se pretendan utilizar en las acciones de Compensación se deberá incluir la sere a la que pertenecen (Priseral, Mesoseral o Tardiseral), al igual que el gremio ecológico al que pertenecen. b-Las especies a implementar deberán generar el mayor número de beneficios ecosistémicos, incluyendo especies que se encuentren en algún grado de amenaza, resaltando que bajo ningún argumento podrán ser empleadas especies foráneas y por ello la totalidad de especies deberán ser nativas de la región. c-En pro de favorecer la biodiversidad, en la implementación del diseño en bandas o módulos se deberá emplear por lo menos 10 especies diferentes del ecosistema referente. d-Se deberá priorizar las especies nativas que no representen interés económicos ya sea en productos secundarios o madera (como en este caso), es decir especies con un valor más ecológico (apuntando a la prestación de servicios ecosistémicos para la fauna), dado que con especies que tengan interés económico una vez llegada su etapa productiva o dimensiones adecuadas para aprovechamiento, éstas serán apeadas, mientras que especies de valor ecológico tendrán mayor opción de permanecer en el tiempo generando los corredores ecológicos y conectividad permanente que se están buscando.",
+      "pagina_inicio": 7,
+      "pagina_fin": 7,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0023",
+      "numeral": "5",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Establecer claramente las acciones de seguimiento y monitoreo, a través de un Programa de Monitoreo, Seguimiento y Evaluación al proceso de Compensación, el cual debe contemplar unos objetivos claros y concretos, con indicadores no sólo de variables morfométricas y supervivencia del material vegetal, sino también ecológicas, de eficacia e impacto incluidos los relacionados con presencia de fauna, además de establecer para cada indicador su ficha metodológica y conceptual, permitiendo así identificar los cambios ecosistémicos generados en el área donde se implementará la acción de Compensación a desarrollar.",
+      "texto": "Página 7 de 22 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 8 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 7,
+      "pagina_fin": 8,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0027",
+      "numeral": "9",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "En relación al modo de implementación de la Compensación propuesto por HOCOL S.A, es necesario que en el acuerdo de Servidumbre ecológica se incluya entre otros los siguientes puntos:",
+      "texto": "a-El Acuerdo debe indicar de manera precisa que el objetivo con el que se establece éste, forma parte de las obligaciones de compensación para proyectos sujetos de licenciamiento ambiental en el marco de la Resolución 0256 del 2018, modificada por la Resolución1428 del 2018 y la Resolución que otorgó la licencia ambiental al proyecto Área de Perforación Exploratoria Samán, es decir la Resolución 1797 del 18 de septiembre de 2009. b-Compromiso a mantener y cuidar las acciones de restauración a implementar en el predio. c-Incluir que el acuerdo tendrá duración hasta tanto se requiera para dar cumplimiento a los objetivos de cada una de las actividades propuestas. d-Garantizar el mantenimiento (resiembras, limpiezas, riegos, entre otros) necesarios, de las áreas sembradas y conservadas durante el tiempo de ejecución de las actividades para el cumplimiento de los objetivos del plan de compensaciones. e-Identificar de forma clara (sin lugar a confusiones o ambigüedades) las variables objeto de medición por parte del Titular y en las que la autoridad pueda medir de forma directa el cumplimiento de las obligaciones de compensación.",
+      "pagina_inicio": 8,
+      "pagina_fin": 8,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0028",
+      "numeral": "10",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Presentar copia de los acuerdos de Servidumbre ecológica firmados con los propietarios de los predios donde se desarrollará la Compensación del APE Samán.",
+      "texto": "Página 8 de 22 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 9 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Requerimientos generales",
+      "pagina_inicio": 8,
+      "pagina_fin": 9,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0036",
+      "numeral": "8",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "HOCOL S.A, deberá reportar las plantaciones Forestales, en cumplimiento de lo establecido en el Decreto 2803 de 2010, presentado los soportes respectivos a esta Autoridad",
+      "texto": "Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 9 de 22 Página 9 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 10 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (…)”. Con posterioridad y con el fin de verificar el cumplimiento a las obligaciones establecidas en el instrumento ambiental referentes al proyecto Área de Producción Samán en su fase de operación, durante el periodo comprendido entre enero de 2018 y marzo de 2020, con base en la información documental presentada por el titular de la licencia del instrumento de manejo y control ambiental HOCOL S.A, en el ICA 13 (1 de julio a 31 de diciembre de 2017), ICA 14 (1 de enero a 30 junio de 2018), ICA 16 (1 de enero a 30 de junio de 2019) y el ICA 17 (1 de julio a 31 de diciembre de 2019), se emitió el concepto técnico No. 02754 del 07 de mayo de 2020, el cual se acogió mediante Auto No. 7533 del 10 de agosto de 2020. Así las cosas, mediante los numerales 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 y 26 del artículo primero y numeral 11 del artículo segundo del Auto en mención, esta autoridad requirió a la sociedad HOCOL S. A., titular de la Licencia Ambiental otorgada mediante Resolución No. 1797 del 18 de septiembre de 2009, modificada por la Resolución No. 0776 del 2 de julio de 2015, para el proyecto “Área de producción Samán”, el cumplimiento de las obligaciones y medidas ambientales relacionadas con el Plan de Compensación Ambiental del Componente Biótico, ordenadas en el artículo octavo del Resolución No.1676 del 26 de agosto de 2019. Luego, la ANLA en atención a los resultados de la visita de seguimiento ambiental llevada a cabo entre los días 31 de mayo al 2 de junio de 2021 y la respectiva verificación documental del expediente LAM4375, y seguimiento documental a las comunicaciones presentadas por HOCOL S.A., durante el periodo comprendido entre mayo de 2020 a mayo de 2021, esta Autoridad Nacional procedió a emitir el Concepto Técnico No. 03640 del 28 de junio de 2021, documentos en los cuales se determinó que la Administrada no había dado cumplimiento a las obligaciones relacionadas con Plan de Compensación Ambiental del Componente Biótico requeridas mediante el artículo 13 de la Resolución No. 1797 del 18 de septiembre de 2009, en los numerales 3, 4 y 5 (sobre donde Compensar), el numeral 1, literales a y b del numeral 2, numerales 5, 7 y 8 (sobre cómo compensar) y numerales 1, 2 y 3 (requerimientos generales) del artículo octavo de la Resolución 1676 del 26 de agosto de 2019, reiterados en los requerimientos de los numerales 16, 17,18, 19, 20, 21, 22, 23, 24, 25 y 26 del artículo primero del Auto 7533 del 10 de agosto de 2020 y así como lo establecido en el artículo décimo tercero de la Resolución 1797 del 18 de septiembre de 2009, reiterado en el numeral 11 del artículo segundo del Auto 7533 del 10 de agosto de 2020 En consecuencia, mediante los Requerimientos 63, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78 y 79 del Acta de reunión de control y seguimiento ambiental 266 del 29 de junio de 2021, se reiteró el cumplimiento de las obligaciones relacionadas con la medida de compensación por el aprovechamiento forestal y la ejecución del Plan de Compensación Ambiental del Componente Biótico. Luego, el grupo técnico de seguimiento de la ANLA efectuó visita los días entre 28 al 30 de junio de 2022 y realizó la revisión documental de la información entregada por la sociedad en el Informe de Cumplimento Ambiental- ICA No. 20 del 1 de enero al 30 de junio de 2021 y en el Informe de Cumplimento Ambiental- ICA 21 del 1 de julio al 31 de diciembre de 2021, producto de la cual se generó el Concepto Técnico No. 04448 del 29 de julio de 2022, en el Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 10 de 22 Página 10 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 11 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” cual se evidenció el incumplimiento a los Requerimientos efectuados en el Acta de reunión de control y seguimiento ambiental 266 del 29 de junio de 2021. En consecuencia, se procedió a requerir nuevamente el cumplimiento de las obligaciones relacionadas con el Plan de Compensación Ambiental del Componente Biótico en los Requerimientos 66, 69, 70,71, 72, 73, 74, 75, 76, 77, 78 y 79 del Acta de reunión de control y seguimiento ambiental 475 del 4 de agosto de 2022. De acuerdo a lo anterior, se concluye que a la fecha de elaboración del Concepto Técnico No. 01357 del 27 de marzo de 2023, no existe evidencia de que HOCOL S.A., haya dado cumplimiento a las obligaciones relacionadas con el Plan de Compensación Ambiental del Componente Biótico, establecidas en los numerales 3, 4 y 5 (sobre donde Compensar), el numeral 1, literales a y b del numeral 2, numerales 5, 7 y 8 (sobre cómo compensar) y numerales 1, 2 y 3 (requerimientos generales) del artículo octavo de la Resolución 1676 del 26 de agosto de 2019, reiterados en los requerimientos de los numerales 16, 17,18, 19, 20, 21, 22, 23, 24, 25 y 26 del artículo primero del Auto 7533 del 10 de agosto de 2020, los requerimientos 69, 70, 71, 72, 73, 74, 75, 76, 77, 78 y 79 Acta 266 del 26 de junio de 2021 y los requerimientos 69, 70, 71,72, 73, 74, 75, 76, 77, 78 y 79 Acta 475 del 4 de agosto de 2022, así como lo establecido en el artículo décimo tercero de la Resolución 1797 del 18 de septiembre de 2009, reiterado en el numeral 11 del artículo segundo del Auto 7533 del 10 de agosto de 2020, y en los requerimientos 63 del acta 266 del 26 de junio de 2021 y requerimiento 66 del acta 475 del 4 de agosto de 2022, en los plazos otorgados en los referidos actos administrativos. Finalmente, debe resaltarse que, como consecuencia de los incumplimientos normativos señalados anteriormente por parte de HOCOL S.A., se impidió a esta Autoridad el adecuado y oportuno ejercicio de la función de control y seguimiento ambiental. Hecho 2 • No presentar el Plan Definitivo de Compensación por Pérdida de Biodiversidad de acuerdo con lo establecido en el artículo tercero de la Resolución 1517 del 31 de agosto de 2012 y los literales b, c, d, e ,f, g y h del artículo vigésimo segundo de la Resolución No. 776 del 2 de julio de 2015, numerales 13 y 14 del artículo primero del Auto No. 7533 del 10 de agosto de 2020, los requerimientos 67 y 82 del acta 266 del 26 de junio de 2021 y los requerimientos 67 y 81 del Acta 475 del 4 de agosto de 2022. Al respecto cabe señalar que mediante la Resolución No. 776 del 2 de julio de 2015, la ANLA modificó la Licencia Ambiental de exploración otorgada a la empresa HOCOL S.A., mediante la Resolución No. 1797 del 18 de septiembre de 2009, para el proyecto “Área de Perforación Exploratoria SAMÁN”, localizado en jurisdicción de los municipios de Córdoba y Carmen de Bolívar, en el departamento de Bolívar, y Ovejas, en el departamento de Sucre. En los literales b, c, d, e, f, g y h del artículo vigésimo segundo de la Resolución No. 776 del 2 de julio de 2015, la ANLA solicitó el cumplimiento de unas obligaciones a HOCOL S.A, relacionadas con ajustar el plan de compensación de acuerdo el Manual para la Asignación de Compensaciones por pérdida de Biodiversidad. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 11 de 22 Página 11 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 12 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” “(…) ARTÍCULO VIGÉSIMO SEGUNDO: La empresa HOCOL S.A., en relación con la propuesta de Compensación por Pérdida de Biodiversidad presentada deberá:",
+      "pagina_inicio": 9,
+      "pagina_fin": 12,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0041",
+      "numeral": "i",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Título",
+      "texto": "ii. Relación de la infraestructura autorizada (en m 2 o hectáreas) en el acto administrativo que otorga licencia ambiental y/o modificaciones correspondientes, discriminando Tipo de obra, Cantidad, si es un elemento lineal la longitud, el ancho, área total, acto administrativo que aprueba o modifica y toda la información que sea relevante para la evaluación de las áreas y ecosistemas a afectar en el plan de compensaciones por pérdida de biodiversidad. iii. Como parte fundamental se debe plantear un sistema de sostenibilidad financiera a la medida de compensación propuesta, la cual debe ser coherente con el cronograma y teniendo en cuenta la duración del proyecto (vida útil).",
+      "pagina_inicio": 12,
+      "pagina_fin": 12,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0042",
+      "numeral": "e",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Con relación a la presentación del plan de compensaciones por pérdida de biodiversidad, se deberán tener en cuenta las consideraciones que realice esta Autoridad en el presente acto administrativo, en cuanto a cambios por aumento o disminución de áreas de intervención, negación parcial o total de infraestructura asociada al proyecto y a la zonificación ambiental y de manejo de éste. De tal forma que ante cualquiera de estos cambios, se tendrán que recalcular las áreas finales a compensar, lo cual se deberá reflejar en el plan específico de compensaciones por pérdida de biodiversidad presentado por la empresa, bajo los términos de este acto administrativo y de la Resolución 1517 del 31 de agosto de 2012.",
+      "texto": "Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 12 de 22 Página 12 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 13 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 12,
+      "pagina_fin": 13,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0044",
+      "numeral": "i",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Compensar en una proporción de 1:1 en área (por cada hectárea afectada deberá compensar una hectárea) en actividades de conservación, reforestación, compra de predios, enriquecimiento y/o restauración.",
+      "texto": "ii. En caso que se defina que la actividad a realizar es la de reforestación, se exigirán tasas de sobrevivencia entre el 90 y 95% y alturas superiores a los 1,5 m al final del periodo definido para ejecutar mantenimiento. Si por el contrario la actividad a realizar es la compra de predios en áreas ambientalmente estratégicas; se exigirán todos los documentos soporten y aseguren la viabilidad y permanencia de ésta área. iii. Si los procesos de compensación por cambio de uso del suelo, así como la compensación por pérdida de biodiversidad; están relacionados con actividades de restauración, se deben definir entre otros, dentro del plan de compensación, los procesos, procedimientos y técnicas; adicionalmente se deben fijar metas, formular objetivos e indicadores además de precisar escalas.",
+      "pagina_inicio": 13,
+      "pagina_fin": 13,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0046",
+      "numeral": "h",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Presentar la información cartográfica siguiendo el modelo de datos (Geodatabase de informes de cumplimiento ambiental - compensaciones 1%) adoptado por la Autoridad Nacional de Licencias Ambientales —ANLA, a través de la Resolución 188 del 27 de febrero de 2013.",
+      "texto": "(…)” Posteriormente, el grupo técnico de seguimiento de la ANLA efectuó la revisión documental de la información entregada por la sociedad en los Informes de Cumplimento Ambiental- ICA No. 13 del 1 de julio al 31 de diciembre de 2017, ICA No. 14 del 1 de enero al 30 junio de 2018, ICA 16 del 1 de enero al 30 de junio de 2019 y el ICA No. 17 del 1 de julio a 31 de diciembre de 2019, y demás información documental presentada por HOCOL S.A durante el periodo, producto de la cual se generó el Concepto Técnico No. 02754 del 07 de mayo de 2020, en el cual se identificó la renuencia de la investigada respecto al cumplimiento de las obligaciones relacionados con el plan definitivo de compensación por pérdida de biodiversidad. En vista de lo anterior, la ANLA mediante los numerales 13 y 14 del artículo primero del Auto No. 7533 del 20 de agosto del 2020, ordenó: “(…) ARTÍCULO PRIMERO. Reiterar a la sociedad HOCOL S. A., titular de la Licencia Ambiental otorgada mediante Resolución 776 del 2 de julio de 2015, para el proyecto “Área de producción Samán”, el cumplimiento de las obligaciones y medidas ambientales Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 13 de 22 Página 13 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 14 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” que se indican a continuación, en los términos y condiciones en que fueron establecidas en los actos administrativos a los que se hace referencia en el presente artículo: (…)",
+      "pagina_inicio": 13,
+      "pagina_fin": 14,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0047",
+      "numeral": "13",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Presentar el cálculo del área a compensar de acuerdo con el manual de asignación de compensaciones por pérdida de biodiversidad; en cumplimiento al literal b del artículo vigésimo segundo de la Resolución 776 del 2 de julio de 2015. En esta se deben incluir todas las actividades ejecutadas con posterioridad a la ejecutoria de la citada resolución en las cuales se realizó aprovechamiento forestal.",
+      "texto": "14.Presentar el plan definitivo de compensaciones por pérdida de biodiversidad de conformidad con lo establecido en el artículo 3° de la Resolución 1517 del 31 de agosto de 2012, y los literales c, d, e, f, g y h del artículo vigésimo segundo de la Resolución 776 del 2 de julio de 2015. (…)” Luego, la ANLA en atención a los resultados de la visita de seguimiento ambiental llevada a cabo entre los días 31 de mayo al 2 de junio de 2021, la respectiva verificación documental del expediente LAM4375, y seguimiento documental a las comunicaciones presentadas por HOCOL S.A., durante el periodo comprendido entre mayo de 2020 a mayo de 2021, esta Autoridad Nacional procedió a emitir el Concepto Técnico No. 03640 del 28 de junio de 2021, documentos en los cuales se determinó que la Administrada no había dado cumplimiento a las obligaciones relacionadas con el plan definitivo de compensaciones por pérdida de biodiversidad. “mediante comunicación con radicado 2020212001-1-000 del 1 de diciembre de 2020, HOCOL presentó respuesta al Auto 7533 del 10 de agosto de 2020, indicando que “El informe del plan definitivo de compensaciones por pérdida de biodiversidad de conformidad con lo establecido en el artículo 3° de la Resolución 1517 del 31 de agosto de 2012, y los literales c, d, e, f, g y h del artículo vigésimo segundo de la Resolución 776 del 2 de julio de 2015. Se incluirán en el ICA Nro. 19 para el periodo de reporte relacionado entre el 01 de julio de 2020 y el 31 de diciembre de 2020”. Una vez revisada la información presentada en el ICA 19 la sociedad no entregó la información solicitada y en el formato 3ª del ICA no se incluyó el presente acto administrativo, por lo tanto, se reitera el presente requerimiento” Así las cosas, mediante los Requerimientos 67 y 82 del Acta de reunión de control y seguimiento ambiental 266 del 29 de junio de 2021, se reiteró el cumplimiento de la presentación del plan definitivo de compensaciones por pérdida de biodiversidad, en los siguientes términos: “(…) REQUERIMIENTO 67 Presentar el plan definitivo de compensaciones por pérdida de biodiversidad de conformidad con lo establecido en el artículo 3º de la Resolución 1517 del 31 de agosto de 2012, en cumplimiento de los literales c, d, e, f, g y h del artículo vigésimo segundo Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 14 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 15 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” de la Resolución 776 del 2 de julio de 2015, y el numeral 14 del artículo primero del Auto 7533 del 10 de agosto de 2020 REQUERIMIENTO 82 Presentar el cálculo del área a compensar de acuerdo con el manual de asignación de compensaciones por pérdida de biodiversidad; en cumplimiento al literal b del artículo vigésimo segundo de la Resolución 776 del 2 de julio de 2015, y el numeral 13 del artículo primero del Auto 7533 del10 de agosto de 2020. En esta se deben incluir todas las actividades ejecutadas con posterioridad a la ejecutoria de la citada resolución en las cuales se realizó aprovechamiento forestal. (…)” Posteriormente, el grupo técnico de seguimiento de la ANLA efectuó visita los días entre 28 al 30 de junio de 2022 y realizó la revisión documental de la información entregada por la sociedad en el Informe de Cumplimento Ambiental- ICA No. 20 del 1 de enero al 30 de junio de 2021 y en el Informe de Cumplimento Ambiental- ICA 21 del 1 de julio al 31 de diciembre de 2021 y el radicado 2021146608-1-000 del 16 de julio de 2021 producto de la cual se generó el Concepto Técnico No. 04448 del 29 de julio de 2022, acogido por Acta de reunión de control y seguimiento ambiental 475 del 4 de agosto de 2022, en el cual se determinó: “(…) Se está realizando los respectivos ajustes al plan de compensación presentado, una vez se radique y este sea aprobado, se oficiará al ANLA, los respectivos ajustes realizados y solicitados en el Auto 7533 del 10 de agosto de 2020”. Una vez revisada la información que reposa en el expediente LAM4375 y lo informado en los ICA 20 Y 21 la sociedad no ha presentado respuesta a esta obligación, así mismo en el formato 3A del ICA no se incluye este acto administrativo. Por lo tanto, no está dando cumplimiento” En consecuencia, mediante los Requerimiento 67 y 81 del Acta de reunión de control y seguimiento ambiental 475 del 4 de agosto de 2022, se reiteró el cumplimiento de la presentación del plan definitivo de compensaciones por pérdida de biodiversidad, así: “(…) REQUERIMIENTO 67 Presentar el plan definitivo de compensaciones por pérdida de biodiversidad de conformidad con lo establecido en el artículo 3º de la Resolución 1517 del 31 de agosto de 2012, en cumplimiento de los literales c, d, e, f, g y h del artículo vigésimo segundo de la Resolución 776 del 2 de julio de 2015, el numeral 14 del artículo primero del Auto 7533 del 10 de agosto de 2020 y el requerimiento 67 del acta 266 del 26 de junio de 2021. REQUERIMIENTO 81 Presentar el cálculo del área a compensar de acuerdo con el manual de asignación de compensaciones por pérdida de biodiversidad; en cumplimiento al literal b del artículo vigésimo segundo de la Resolución 776 del 2 de julio de 2015, el numeral 13 del artículo primero del Auto 7533 del 10 de agosto de 2020. En esta se deben incluir todas las Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 15 de 22 Página 15 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 16 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” actividades ejecutadas con posterioridad a la ejecutoria de la citada resolución en las cuales se realizó aprovechamiento forestal y el requerimiento 82 del acta 266 del 26 de junio de 2021. (…)” De acuerdo a lo anterior, se concluye que a la fecha de elaboración del Concepto Técnico No. 01357 del 27 de marzo de 2023, no existe evidencia de que HOCOL S.A., haya dado cumplimiento a las obligaciones relacionadas con el plan definitivo de compensaciones por pérdida de biodiversidad, establecidas en el artículo tercero de la Resolución No. 1517 del 31 de agosto de 2012 y los literales b, c, d, e ,f, g y h del artículo vigésimo segundo de la Resolución No. 776 del 2 de julio de 2015, numerales 13 y 14 del artículo primero del Auto No. 7533 del 10 de agosto de 2020, los requerimientos 67 y 82 del acta 266 del 26 de junio de 2021 y los requerimientos 67 y 81 del Acta 475 del 4 de agosto de 2022. Finalmente, debe resaltarse que, como consecuencia de los incumplimientos normativos señalados anteriormente por parte de HOCOL S.A., se impidió a esta Autoridad el adecuado y oportuno ejercicio de la función de control y seguimiento ambiental. Hecho 3 • Sobrepasar el aprovechamiento en árboles aislados en un volumen de 7,88m3, incurriendo con ello en presunta infracción de lo establecido en el artículo 2.2.1.1.9.6. del Decreto 1076 del 2015 y el literal a del numeral 4 del artículo cuarto de la Resolución 1797 del 18 de septiembre de 2009. En este sentido, este despacho considera oportuno traer a colación el contenido del artículo 2.2.1.1.9.6. del Decreto 1076 del 2015 “(…) 2.2.1.1.9.6. Proyectos, obras o actividades sometidas al régimen de licencia ambiental o plan de manejo ambiental.- Cuando para la ejecución de proyectos, obras o actividades sometidas al régimen de licencia ambiental o plan de manejo ambiental, se requiera de la remoción de árboles aislados en un volumen igual o menor a veinte metros cúbicos (20 m3), no se requerirá de ningún permiso, concesión o autorización, bastarán las obligaciones y medidas de prevención, corrección, compensación y mitigación, impuestas en la licencia ambiental, o contempladas en el plan de manejo ambiental. Sin perjuicio, en este último caso, de las obligaciones adicionales que pueda imponer la autoridad ambiental competente. (…)” A su vez, el literal a del numeral 4 del artículo cuarto de la Resolución No. 1797 del 18 de septiembre de 2009, modificada por la Resolución No. 0776 del 2 de julio de 2015, precisa lo siguiente: “ARTÍCULO CUARTO. - La Licencia Ambiental que se otorga lleva implícito el uso, aprovechamiento o afectación de los recursos naturales renovables indicados a continuación:(…)",
+      "pagina_inicio": 14,
+      "pagina_fin": 16,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0048",
+      "numeral": "a",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "La Empresa no podrá realizar intervención y/o aprovechamiento del recurso en un volumen superior a 48.97 m3 por hectárea en bosque de galería, 9.88 m3 por hectárea en bosque natural fragmentado y 0.65 en arbustos y matorrales, si en",
+      "texto": "Página 16 de 22 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 17 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” determinado momento la empresa requiere intervenir un volumen mayor al solicitado, deberá proceder a solicitar la modificación de la Licencia Ambiental. (…)” Ahora bien, frente al hecho objeto de investigación, el Concepto Técnico No. 01357 del 27 de marzo de 2023, describe las circunstancias de tiempo, modo y lugar del hecho objeto de análisis, en los siguientes términos: “(…) Condición de modo: De acuerdo con el incumplimiento enunciado, se evidencia que la sociedad HOCOL S.A, incumplió al intervenir pastos arbolados, en un volumen superior a lo indicado en el artículo 60 del Decreto 1791 de 1996 donde se establece “…Cuando para la ejecución de proyectos, obras o actividades sometidas al régimen de licencia ambiental o plan de manejo ambiental, se requiera de la remoción de árboles aislados en un volumen igual o menor a veinte metros cúbicos (20 m 3), no se requerirá de ningún permiso, concesión o autorización, bastarán las obligaciones y medidas de prevención, corrección, compensación y mitigación, impuestas en la licencia ambiental, o contempladas en el plan de manejo ambiental. Sin perjuicio, en este último caso, de las obligaciones adicionales que pueda imponer la autoridad ambiental competente”, y lo autorizado por numeral 4 del artículo cuarto de la Resolución 1797 del 18 de septiembre de 2009 durante la construcción de las siguientes actividades como se presenta en la siguiente tabla: Tabla 35. Balance De Aprovechamiento Forestal on VOLUMEN VOLUMEN PROYECTO INFRAESTRUCTURA COBERTURA COMERCIAL TOTAL Plataforma EN Via ingreso a pozo | Pastos arbolados Variante | CAM Mamey 1 Bosque natural Pata 299 Ae 1 Í Plataforma IS Paatma casos Bosque natural Plataforma Pastos arbolados Via Pastos arbolados Pastos arbolados [381 5| 38 Aa E AE 36.24 Fuente: ICA 14 radicado 2018163006-1-000 del 22 de noviembre de 2018. Condición de tiempo: El hecho se evidenció mediante el comunicado con radicado 2018163006-1-000 del 22 de noviembre de 2018, donde la Sociedad presentó las áreas afectadas por la construcción y adecuación de plataformas, vías de acceso y líneas de flujo, las cuales Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 17 de 22 Página 17 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 18 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” se desarrollaron bajo los términos de la licencia ambiental otorgada (Resolución 1797 del 18 de septiembre de 2009). De acuerdo con la información presentada por la Sociedad en el ICA 14 (1 de enero a 30 de junio de 2018) radicado mediante comunicación 2018163006-1-000 del 22 de noviembre de 2018, las fechas de construcción de la infraestructura en el Área de Perforación Exploratoria Samán, para las cuales se realizó la intervención no autorizada de 27, 88m3, para la cobertura de pastos arbolados fueron las siguientes: Construcción vía y plataforma CPF Marzo de 2015 Fuente: ICA 14 radicado 2018163006-1-000 del 22 de noviembre de 2018. Condición de Lugar: Para la cobertura de pastos arbolados no se autorizó permiso de aprovechamiento forestal y la sociedad realizó el aprovechamiento de 27, 88m3, para la construcción de la plataforma Bonga 1, construcción vías de acceso Mamey 1, construcción vías de acceso y plataforma Mamey 2, construcción plataforma Bonga Norte 1, construcción plataforma Campano 1 y construcción vía y plataforma CPF. (…)” En conclusión y teniendo en cuenta lo señalado anteriormente, esta autoridad ambiental encuentra evidencia suficiente de que HOCOL S.A. presuntamente infringió lo establecido en el artículo 2.2.1.1.9.6. del Decreto 1076 del 2015 y en el literal a del numeral 4 del artículo cuarto de la Resolución No. 1797 del 18 de septiembre de 2009, modificada por la Resolución No. 0776 del 2 de julio de 2015, al realizar el aprovechamiento forestal de Página 18 de 22 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 19 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” 7,88m3 de árboles aislados sin previa autorización de esta autoridad ambiental, sobrepasando el volumen de 20mt3 autorizado por la Ley.",
+      "pagina_inicio": 16,
+      "pagina_fin": 19,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_007384_2023-09-14_tab_000",
+          "seccion": "a",
+          "titulo": "La Empresa no podrá realizar intervención y/o aprovechamiento del recurso en un volumen superior a 48.97 m3 por hectárea",
+          "markdown": "| construcción                    |\n|:--------------------------------|\n| Construcción plataforma Campano |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 1,
+            "columnas": 1
+          },
+          "pagina": 18
+        },
+        {
+          "id": "AUTO_007384_2023-09-14_tab_001",
+          "seccion": "a",
+          "titulo": "La Empresa no podrá realizar intervención y/o aprovechamiento del recurso en un volumen superior a 48.97 m3 por hectárea",
+          "markdown": "| 0                                                | 1       | 2                 | 3                                       |\n|:-------------------------------------------------|:--------|:------------------|:----------------------------------------|\n| Construcción Bonga 1                             | Sucre   | Ovejas            | Canutal                                 |\n| Construcción vías de acceso | Mamey 1            | Sucre   | Ovejas            | Canutal                                 |\n| Construcción vías de acceso | plataforma Mamey 2 | Sucre   | Ovejas            | Canutal                                 |\n| Construcción plataforma | Bonga Norte 1          | Sucre   | Ovejas            | Canutalito                              |\n| Construcción plataforma | Campano 1              | Bolívar | Carmen de Bolívar | Santa clara del corregimiento El Salado |\n| CPF                                              |         |                   |                                         |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 6,
+            "columnas": 4
+          },
+          "pagina": 18
+        }
+      ]
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0049",
+      "numeral": "SEC_IV",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Incumplimiento a los actos administrativos",
+      "texto": "De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin que se considere necesaria la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, a través del auto de apertura de investigación.",
+      "pagina_inicio": 19,
+      "pagina_fin": 19,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0050",
+      "numeral": "v",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Incorporación de Pruebas",
+      "texto": "En virtud de lo dispuesto en el artículo 22 de la Ley 1333 del 2009, según el cual para la verificación de los hechos, la autoridad ambiental competente podrá realizar todo tipo de diligencias administrativas y todas aquellas actuaciones que estime necesarias y pertinentes para determinar con certeza los hechos constitutivos de infracción, serán incorporados los elementos de prueba obrantes hasta el momento en el expediente, los cuales serán apreciados en su conjunto con las pruebas recaudadas durante el trámite sancionatorio y en la oportunidad procesal pertinente. Lo anterior, conforme a los criterios de la conducencia, pertinencia y necesidad, calificados para demostrar la configuración o no del hecho objeto de estudio, ya que las pruebas recaudadas aportan la información necesaria e idónea para que esta Autoridad llegue al pleno convencimiento de la ocurrencia o no de la conducta materia de investigación. En consecuencia, se relacionan las pruebas fundamento del inicio del procedimiento sancionatorio ambiental, que se entienden incorporadas al expediente LAM4375: • Resolución No. 1797 del 18 de septiembre de 2009. • Resolución No. 776 del 2 de julio de 2015. • Radicado 2015038702-1-000 del 22 de julio de 2015 donde la Sociedad presentó información complementaria para el Plan de Manejo Ambiental del pozo Bonga-1. • Radicado 2015038703-1-000 del 22 de julio de 2015 donde la Sociedad presentó información complementaria para el Plan de Manejo Ambiental del pozo Mmay-2. • Radicado 2017022133-1-000 del 28 de marzo de 2017, por medio del cual se presentó el Plan de Compensación. ICA 14 radicado 2018163006-1-000 del 22 de noviembre de 2018. • Radicado 2018180208-1-000 del 20 de diciembre de 2018, por medio del cual se presentó el Plan de Compensación. • Radicado 2018185948-1-000 del 28 de diciembre de 2018 por medio del cual se presentó el Plan de Manejo Ambiental para la construcción de la variante Canutal. • Radicado 2019028786-1-000 del 08 de marzo de 2019. • Resolución No. 1676 del 26 de agosto de 2019. • Concepto Técnico No. 2754 del 7 de mayo de 2020. • Auto No. 7533 del 10 de agosto de 2020. • Radicado 2020212001-1-000 del 1 de diciembre de 2020. • ICA 19 (1 de julio al 31 de diciembre de 2020) radicado mediante comunicación 2021035169-1-000 del 1 de marzo de 2021. • Concepto Técnico No. 3640 del 28 de junio de 2021. • Acta de seguimiento y control 266 del 29 de junio de 2021. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 19 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 20 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” • Radicado 2021146608-1-000 del 16 de julio de 2021. • Radicado 2020212001-1-000 del 1 de diciembre de 2020. • Radicado 2021035169-1-000 1 de marzo de 2021. • Radicado 2021146608-1-000 del 16 de julio de 2021. • Radicado 2021247971-1-000 del 16 de noviembre de 2021. • ICA 21 (1 de julio al 31 de diciembre de 2021) radicado mediante comunicación 2022034154-1-000 del 28 de febrero de 2022 • Concepto Técnico 4448 del 29 de julio de 2022. • Acta de seguimiento y control 475 del 4 de agosto de 2022. • ICA 22 (1 de enero a 31 de julio de 2022) radicado mediante comunicación 2022189681-1-000 del 31 de agosto de 2022. En mérito de lo expuesto,",
+      "pagina_inicio": 19,
+      "pagina_fin": 20,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_blk_0051",
+      "numeral": "DISPONE",
+      "tipo_numeral": "dispone",
+      "nivel": 0,
+      "titulo": "DISPONE",
+      "texto": "ARTÍCULO PRIMERO: Ordenar el inicio del procedimiento sancionatorio ambiental en contra de la sociedad HOCOL S.A. identificada con NIT 860.072.134 - 7, de conformidad con el artículo 18 de la ley 1333 de 2009 y con fundamento en las consideraciones expuestas en la parte motiva de este Auto. PARÁGRAFO: El Expediente SAN0077-00-2023, estará a disposición del investigado y de cualquier persona que así lo requiera, en los términos del artículo 36 de la Ley 1437 de 2011. ARTÍCULO SEGUNDO: Incorpórese a la presente actuación los documentos relacionados en el acápite “V. Incorporación de documentos” de la parte motiva del presente acto administrativo. PARÁGRAFO: A través del Grupo de Gestión Documental de la Subdirección Administrativa y Financiera de esta Autoridad, realícese la incorporación a esta actuación sancionatoria de la copia integral de cada uno de los documentos enlistados en el numeral V. “Incorporación de Documentos” de esta providencia. ARTÍCULO TERCERO: Notificar el presente auto HOCOL S.A. a través de su apoderado debidamente constituido, de haberse conferido mandato en la presente actuación sancionatoria, o en su defecto, por intermedio de su representante legal, de acuerdo con los artículos 67 y 69 de la Ley 1437 de 2011. PARÁGRAFO: Si la investigada entra en proceso de disolución o régimen de insolvencia empresarial o liquidación regulados por las normas vigentes, informará inmediatamente esta situación a la ANLA, con fundamento en los artículos 8, 58, 79, 80, 81, 95 numeral 8 de la Constitución Política de 1991, en la Ley 43 de 1990, en la Ley 222 de 1995, en la Ley 1333 de 2009 y demás normas vigentes y jurisprudencia aplicable. Adicionalmente, realizará la provisión contable respecto de esta obligación contingente, para lo cual deberá tener en cuenta lo dispuesto en el artículo 40 de la Ley 1333 de 2009. ARTÍCULO CUARTO. De acuerdo con lo establecido en el artículo 20 de la Ley 1333 de 2009, en concordancia con los artículos 69 y 70 de la Ley 99 de 1993, cualquier persona podrá intervenir en la presente actuación administrativa ambiental de carácter sancionatorio. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 20 de 22 Página 20 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 21 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” ARTÍCULO QUINTO. Comunicar este auto a la Procuraduría Delegada para Asuntos Ambientales, de conformidad con los artículos 21 y 56 inciso tercero de la Ley 1333 de 2009, para su conocimiento y fines pertinentes. ARTÍCULO SEXTO. Publicar el presente auto en la Gaceta Ambiental de la Autoridad Nacional de Licencias Ambientales, según el inciso segundo del artículo 70 de la Ley 99 de 1993. ARTÍCULO SEPTIMO. Contra este auto de trámite no procede recurso alguno, de acuerdo con el artículo 75 de la Ley 1437 de 2011. NOTIFÍQUESE, COMUNÍQUESE, PUBLÍQUESE Y CÚMPLASE | Dado en Bogotá D.C., a los 14 SEP. 2023 N j Í j Ss Íiunn NA ANA MARIA ORTEGON MENDEZ COORDINADORA ACTUACIONES SANCIONATORIAS ARK ct > CLARA FERNANDA BURBANO ERAZO CONTRATISTA Aut DIANA PAOLA CASTRO CIFUENTES CONTRATISTA Expediente No. SAN0077-00-2023 Concepto Técnico N° 01357 del 27 de marzo de 2023 Fecha: 28 de abril de 2023 Proceso No.: 20231420073845 Nota: Este es un documento electrónico generado desde los Sistemas de Información de la ANLA. El original reposa en los archivos digitales de la Entidad Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código poa [105 1156 Nit: 900.467.239. Línea de Orentación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 21 de 22 Auto. No. 7384 Del 14 SEP. 2023 Hoja No. 22 de 22 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 22 de 22",
+      "pagina_inicio": 20,
+      "pagina_fin": 22,
+      "tablas_anidadas": []
+    }
+  ],
+  "tablas": [
+    {
+      "id": "AUTO_007384_2023-09-14_tab_000",
+      "seccion": "a",
+      "titulo": "La Empresa no podrá realizar intervención y/o aprovechamiento del recurso en un volumen superior a 48.97 m3 por hectárea",
+      "markdown": "| construcción                    |\n|:--------------------------------|\n| Construcción plataforma Campano |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 1,
+        "columnas": 1
+      },
+      "pagina": 18
+    },
+    {
+      "id": "AUTO_007384_2023-09-14_tab_001",
+      "seccion": "a",
+      "titulo": "La Empresa no podrá realizar intervención y/o aprovechamiento del recurso en un volumen superior a 48.97 m3 por hectárea",
+      "markdown": "| 0                                                | 1       | 2                 | 3                                       |\n|:-------------------------------------------------|:--------|:------------------|:----------------------------------------|\n| Construcción Bonga 1                             | Sucre   | Ovejas            | Canutal                                 |\n| Construcción vías de acceso | Mamey 1            | Sucre   | Ovejas            | Canutal                                 |\n| Construcción vías de acceso | plataforma Mamey 2 | Sucre   | Ovejas            | Canutal                                 |\n| Construcción plataforma | Bonga Norte 1          | Sucre   | Ovejas            | Canutalito                              |\n| Construcción plataforma | Campano 1              | Bolívar | Carmen de Bolívar | Santa clara del corregimiento El Salado |\n| CPF                                              |         |                   |                                         |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 6,
+        "columnas": 4
+      },
+      "pagina": 18
+    }
+  ],
+  "metadata": {
+    "pipeline": "ANLA_parser_v5",
+    "id_estrategia": "determinista",
+    "fecha_procesamiento": "2026-05-22T17:45:54",
+    "total_bloques": 25,
+    "total_tablas": 2,
+    "elementos_procesados": 321,
+    "tipos_elemento": {
+      "Image": 27,
+      "NarrativeText": 173,
+      "Title": 48,
+      "Header": 21,
+      "ListItem": 41,
+      "UncategorizedText": 9,
+      "Table": 2
+    },
+    "tablas_con_fallback_pdfplumber": 0
+  }
+}

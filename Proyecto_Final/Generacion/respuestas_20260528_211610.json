@@ -1,0 +1,1027 @@
+{
+  "fecha_ejecucion": "20260528_211610",
+  "total_respuestas": 14,
+  "modelos": [
+    "Llama-3-8B-Instruct",
+    "Mistral-7B-Instruct-v0.3"
+  ],
+  "consultas": [
+    {
+      "id": "q01",
+      "pregunta": "¿Cuál es la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q02",
+      "pregunta": "¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q03",
+      "pregunta": "¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?",
+      "filtros": {
+        "tipo_chunk": "tabla"
+      }
+    },
+    {
+      "id": "q04",
+      "pregunta": "¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q05",
+      "pregunta": "¿Qué medidas preventivas se han adoptado o se contemplan en los autos?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q06",
+      "pregunta": "¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?",
+      "filtros": {
+        "tipo_chunk": "texto"
+      }
+    },
+    {
+      "id": "q07",
+      "pregunta": "¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?",
+      "filtros": {
+        "tipo_chunk": "tabla"
+      }
+    }
+  ],
+  "respuestas": [
+    {
+      "query": "¿Cuál es la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) La Autoridad Nacional de Licencias Ambientales (ANLA) tiene competencia para iniciar un procedimiento sancionatorio ambiental.\n\n(b) La competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental se deriva de la Ley 1320 de 2009, en particular de la disposición que establece su competencia para velar por el cumplimiento de las normas ambientales y sancionar a quienes incumplan dichas normas [Fragmento 1, Documento: 2464_5749_2023-07-25.pdf, Numeral: a, Página: 19-19]. Además, se encuentra una práctica de la ANLA de realizar control y seguimiento ambiental a expedientes específicos, como se observa en el Acta No. 317 del 30 de junio de 2022 [Fragmento 2, Documento: 2525_1964_2023-03-24.pdf, Numeral: 7, Página: 6-6].\n\n(c) No se presentan limitaciones específicas en el contexto consultado que restringan la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_005749_2023-07-25_AUTO_005749_2023-07-25_blk_0089_txt_0",
+          "similitud": 0.9901,
+          "tipo_chunk": "texto",
+          "filename": "2464_5749_2023-07-25.pdf",
+          "numeral": "a",
+          "pagina_inicio": 19,
+          "pagina_fin": 19,
+          "texto_preview": "La compensación deberá realizarse con especies nativas”.. En ese sentido, se ordenará la apertura del procedimiento sancionatorio ambiental, en contra de la sociedad VETRA E&P S.A.S., por el hecho ana"
+        },
+        {
+          "chunk_id": "AUTO_001964_2023-03-24_AUTO_001964_2023-03-24_blk_0017_txt_0",
+          "similitud": 0.99,
+          "tipo_chunk": "texto",
+          "filename": "2525_1964_2023-03-24.pdf",
+          "numeral": "7",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Acta No. 317 del 30 de junio de 2022, por medio de la cual se realiza control y seguimiento ambiental al expediente LAM4083. En mérito de lo expuesto,"
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9892,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        },
+        {
+          "chunk_id": "AUTO_011096_2023-12-27_AUTO_011096_2023-12-27_blk_0005_txt_0",
+          "similitud": 0.9886,
+          "tipo_chunk": "texto",
+          "filename": "2330_11096_2023-12-27.pdf",
+          "numeral": "4.1",
+          "pagina_inicio": 5,
+          "pagina_fin": 5,
+          "texto_preview": "Análisis de los hechos. A continuación, se procede hacer el análisis sobre los motivos de apertura de la investigación sancionatoria, respecto al hecho anteriormente descrito, el cual se reformula así"
+        },
+        {
+          "chunk_id": "AUTO_000589_2022-02-09_AUTO_000589_2022-02-09_blk_0009_txt_0",
+          "similitud": 0.9885,
+          "tipo_chunk": "texto",
+          "filename": "2312_589_2022-02-09.pdf",
+          "numeral": "1",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "El presente manejo de los residuos sólidos generados durante el desarrollo del proyecto, quedará sujeto al cumplimiento de las siguientes obligaciones:. (…)"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 5.27,
+      "tiempo_generacion_s": 30.57,
+      "consulta_id": "q01"
+    },
+    {
+      "query": "¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) La apertura del procedimiento sancionatorio en los autos de los documentos 2312_589_2022-02-09, 2896_183_2024-01-18 y 2464_5749_2023-07-25 se justifica por el cumplimiento de las obligaciones establecidas en cada uno de ellos, sin embargo, no se proporciona información específica sobre el hecho que motivó la apertura del procedimiento sancionatorio en estos documentos.\n\n(b) En el documento 2312_589_2022-02-09, no se especifica el hecho que motivó la apertura del procedimiento sancionatorio.\n\n(b) En el documento 2896_183_2024-01-18, no se especifica el hecho que motivó la apertura del procedimiento sancionatorio.\n\n(b) En el documento 2464_5749_2023-07-25, el hecho que motivó la apertura del procedimiento sancionatorio es la compensación que debe realizarse con especies nativas, como se indica en el párrafo \"La compensación deberá realizarse con especies nativas\" [Documento: 2464_5749_2023-07-25.pdf, Numeral: a, Página: 19-19].\n\n(c) No se aplica.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_000589_2022-02-09_AUTO_000589_2022-02-09_blk_0009_txt_0",
+          "similitud": 0.9894,
+          "tipo_chunk": "texto",
+          "filename": "2312_589_2022-02-09.pdf",
+          "numeral": "1",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "El presente manejo de los residuos sólidos generados durante el desarrollo del proyecto, quedará sujeto al cumplimiento de las siguientes obligaciones:. (…)"
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9887,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        },
+        {
+          "chunk_id": "AUTO_011096_2023-12-27_AUTO_011096_2023-12-27_blk_0005_txt_0",
+          "similitud": 0.9883,
+          "tipo_chunk": "texto",
+          "filename": "2330_11096_2023-12-27.pdf",
+          "numeral": "4.1",
+          "pagina_inicio": 5,
+          "pagina_fin": 5,
+          "texto_preview": "Análisis de los hechos. A continuación, se procede hacer el análisis sobre los motivos de apertura de la investigación sancionatoria, respecto al hecho anteriormente descrito, el cual se reformula así"
+        },
+        {
+          "chunk_id": "AUTO_001213_2024-03-12_AUTO_001213_2024-03-12_blk_0016_txt_0",
+          "similitud": 0.9883,
+          "tipo_chunk": "texto",
+          "filename": "2851_1213_2024-03-12.pdf",
+          "numeral": "9",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, se deben ajustar y complementar, como se indica a continuación:. (.)"
+        },
+        {
+          "chunk_id": "AUTO_005749_2023-07-25_AUTO_005749_2023-07-25_blk_0089_txt_0",
+          "similitud": 0.9882,
+          "tipo_chunk": "texto",
+          "filename": "2464_5749_2023-07-25.pdf",
+          "numeral": "a",
+          "pagina_inicio": 19,
+          "pagina_fin": 19,
+          "texto_preview": "La compensación deberá realizarse con especies nativas”.. En ese sentido, se ordenará la apertura del procedimiento sancionatorio ambiental, en contra de la sociedad VETRA E&P S.A.S., por el hecho ana"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.29,
+      "tiempo_generacion_s": 33.52,
+      "consulta_id": "q02"
+    },
+    {
+      "query": "¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) Respuesta directa:\nLos requerimientos que se mantienen son los siguientes:\n- La Sociedad debe presentar las proyecciones de los volúmenes a transportar.\n- La Sociedad debe presentar los soportes técnicos que permitan establecer que realmente el Plan de Gestión de Riesgo (PGDR), no requería actualizarse.\n\nLos requerimientos que se modifican son los siguientes:\n- La Sociedad debe presentar la información sobre las actividades autorizadas en cada acto administrativo y las ejecutadas, determinando el área intervenida y la compensación en área, en cumplimiento del numeral 29 del Artículo segundo del Auto 5846 del 22 de diciembre de 2014.\n- La Sociedad debe presentar el plan de compensación según lo requerido en la ficha 22 Compensación componente biótico del Plan de Manejo Ambiental y la ficha MB5 Programas de compensación del Plan de Seguimiento y Monitoreo.\n\n(b) Fundamentos del contexto con citas:\n- La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el Plan de Gestión de Riesgo (PGDR), no requería actualizarse. [Fragmento 1, Contexto del Fragmento 1 — bloque padre]\n- Reiterar a la Sociedad la presentación de la información sobre las actividades autorizadas en cada acto administrativo y las ejecutadas determinando el área intervenida y la compensación en área, en cumplimiento del numeral 29 del Artículo segundo del Auto 5846 del 22 de diciembre de 2014. [Fragmento 4, Contexto del Fragmento 4 — bloque padre]\n- La Sociedad debe presentar el plan de compensación según lo requerido en la ficha 22 Compensación componente biótico del Plan de Manejo Ambiental y la ficha MB5 Programas de compensación del Plan de Seguimiento y Monitoreo. [Fragmento 4, Contexto del Fragmento 4 — bloque padre]\n\n(c) Limitaciones:\nLa información solicitada se encuentra en los documentos consultados.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_007381_2023-09-14_AUTO_007381_2023-09-14_tab_000_tab_0",
+          "similitud": 0.9839,
+          "tipo_chunk": "tabla",
+          "filename": "2404_7381_2023-09-14.pdf",
+          "numeral": "i",
+          "pagina_inicio": 8,
+          "pagina_fin": 12,
+          "texto_preview": "La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establec. PUNTO :-------------- Norte 7 Norte Remache Norte Caño Gandul"
+        },
+        {
+          "chunk_id": "AUTO_003157_2022-05-05_AUTO_003157_2022-05-05_tab_015_tab_0",
+          "similitud": 0.9792,
+          "tipo_chunk": "tabla",
+          "filename": "2236_3157_2022-05-05.pdf",
+          "numeral": "4",
+          "pagina_inicio": 4,
+          "pagina_fin": 21,
+          "texto_preview": "Realizar vertimientos de aguas residuales industriales generadas en la locación Castaña Macambo en vías y por evaporació. 0 :----------------------- de los sistemas de tratamiento adoptados."
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_tab_001_tab_0",
+          "similitud": 0.979,
+          "tipo_chunk": "tabla",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "9",
+          "pagina_inicio": 8,
+          "pagina_fin": 11,
+          "texto_preview": "Soporte documental del desarrollo de actividades y medidas de manejo relacionadas con la ejecución de la compensación po. Resolución 2121 de octubre 26 de 2010 Obligaciones"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_tab_013_tab_0",
+          "similitud": 0.9781,
+          "tipo_chunk": "tabla",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "h",
+          "pagina_inicio": 22,
+          "pagina_fin": 26,
+          "texto_preview": "Demás lineamientos definidos en el artículo 10 de la Resolución 2121 del 26 de octubre de 2010, la ficha 22 Compensación. Obligación :------------------------------------ para que un plazo de tres (3)"
+        },
+        {
+          "chunk_id": "AUTO_002451_2024-04-18_AUTO_002451_2024-04-18_tab_003_tab_0",
+          "similitud": 0.9778,
+          "tipo_chunk": "tabla",
+          "filename": "2828_2451_2024-04-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 7,
+          "pagina_fin": 10,
+          "texto_preview": "En el proceso de manejo del desastre. Con base en los resultados del análisis específico de riesgos (proceso de conocimi. del Acta 191 del 30 de octubre de 2019."
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "tabla",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.34,
+      "tiempo_generacion_s": 60.21,
+      "consulta_id": "q03"
+    },
+    {
+      "query": "¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) La norma que se invoca como fundamento jurídico para la apertura de la investigación sancionatoria no se encuentra explícitamente en los documentos consultados. Sin embargo, se puede inferir que la investigación se basa en los requisitos establecidos en la legislación ambiental colombiana, en particular en lo que respecta a la protección del medio ambiente y la regulación de los residuos sólidos.\n\n(b) En el fragmento 1 se menciona que se procederá a un análisis de los motivos de apertura de la investigación sancionatoria, lo que sugiere que la investigación se basa en los requisitos establecidos en la legislación ambiental colombiana. En el fragmento 2 se establece que se deberá dar cumplimiento al Programa de Seguimiento y Monitoreo, lo que sugiere que la investigación se basa en la normativa relacionada con este programa. En el fragmento 3 se establecen obligaciones para el manejo de residuos sólidos, lo que sugiere que la investigación se basa en la normativa relacionada con este tema. En el fragmento 4 se establece que los programas de manejo ambiental propuestos deben ajustarse y complementarse, lo que sugiere que la investigación se basa en la normativa relacionada con este tema. En el fragmento 5 se menciona un cronograma de ejecución de la siembra, lo que sugiere que la investigación se basa en la normativa relacionada con este tema.\n\n(c) No se pueden establecer limitaciones específicas basándose en los documentos consultados, ya que no se proporciona información suficiente para determinar qué normas específicas se invocan como fundamento jurídico para la apertura de la investigación.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_011096_2023-12-27_AUTO_011096_2023-12-27_blk_0005_txt_0",
+          "similitud": 0.9893,
+          "tipo_chunk": "texto",
+          "filename": "2330_11096_2023-12-27.pdf",
+          "numeral": "4.1",
+          "pagina_inicio": 5,
+          "pagina_fin": 5,
+          "texto_preview": "Análisis de los hechos. A continuación, se procede hacer el análisis sobre los motivos de apertura de la investigación sancionatoria, respecto al hecho anteriormente descrito, el cual se reformula así"
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9886,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        },
+        {
+          "chunk_id": "AUTO_000589_2022-02-09_AUTO_000589_2022-02-09_blk_0009_txt_0",
+          "similitud": 0.9883,
+          "tipo_chunk": "texto",
+          "filename": "2312_589_2022-02-09.pdf",
+          "numeral": "1",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "El presente manejo de los residuos sólidos generados durante el desarrollo del proyecto, quedará sujeto al cumplimiento de las siguientes obligaciones:. (…)"
+        },
+        {
+          "chunk_id": "AUTO_001213_2024-03-12_AUTO_001213_2024-03-12_blk_0016_txt_0",
+          "similitud": 0.9874,
+          "tipo_chunk": "texto",
+          "filename": "2851_1213_2024-03-12.pdf",
+          "numeral": "9",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, se deben ajustar y complementar, como se indica a continuación:. (.)"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_blk_0030_txt_0",
+          "similitud": 0.9869,
+          "tipo_chunk": "texto",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "e",
+          "pagina_inicio": 22,
+          "pagina_fin": 22,
+          "texto_preview": "Cronograma de ejecución de la siembra el cual deberá ser paralelo al avance de las obras.. obras."
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.19,
+      "tiempo_generacion_s": 38.78,
+      "consulta_id": "q04"
+    },
+    {
+      "query": "¿Qué medidas preventivas se han adoptado o se contemplan en los autos?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) Las medidas preventivas se han adoptado o se contemplan en los autos en los siguientes aspectos:\n\n(b) Cronograma de ejecución de la siembra, que deberá ser paralelo al avance de las obras. [Fragmento 1]\n(c) Programa de Seguimiento y Monitoreo, cuyo cumplimiento adicional se establece en el documento. [Fragmento 2]\n(d) Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, que deben ajustarse y complementarse según se indica en el documento. [Fragmento 3]\n(e) Cronograma de actividades y costos detallados de las actividades, incluyendo los mantenimientos a tres años. [Fragmento 4 y 5]\n(f) La información de los cronogramas de actividades y costos detallados de las actividades deberá remitirse en el primer informe de cumplimiento ambiental. [Fragmento 4 y 5]\n\n(c) Las medidas preventivas no se encuentran especificadas en los documentos consultados en relación con la Autoridad Nacional de Licencias Ambientales (ANLA) en los fragmentos proporcionados.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_blk_0030_txt_0",
+          "similitud": 0.9825,
+          "tipo_chunk": "texto",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "e",
+          "pagina_inicio": 22,
+          "pagina_fin": 22,
+          "texto_preview": "Cronograma de ejecución de la siembra el cual deberá ser paralelo al avance de las obras.. obras."
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9821,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        },
+        {
+          "chunk_id": "AUTO_001213_2024-03-12_AUTO_001213_2024-03-12_blk_0016_txt_0",
+          "similitud": 0.982,
+          "tipo_chunk": "texto",
+          "filename": "2851_1213_2024-03-12.pdf",
+          "numeral": "9",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, se deben ajustar y complementar, como se indica a continuación:. (.)"
+        },
+        {
+          "chunk_id": "AUTO_001258_2024-03-13_AUTO_001258_2024-03-13_blk_0065_txt_0",
+          "similitud": 0.9806,
+          "tipo_chunk": "texto",
+          "filename": "2848_1258_2024-03-13.pdf",
+          "numeral": "k",
+          "pagina_inicio": 27,
+          "pagina_fin": 27,
+          "texto_preview": "Cronograma de actividades.. /. Costos detallados de las actividades, incluyendo los mantenimientos a tres años. m. Toda la información anterior se deberá remitir en el primer informe de cumplimiento a"
+        },
+        {
+          "chunk_id": "AUTO_001258_2024-03-13_AUTO_001258_2024-03-13_blk_0019_txt_0",
+          "similitud": 0.9806,
+          "tipo_chunk": "texto",
+          "filename": "2848_1258_2024-03-13.pdf",
+          "numeral": "k",
+          "pagina_inicio": 10,
+          "pagina_fin": 10,
+          "texto_preview": "Cronograma de actividades.. /. Costos detallados de las actividades, incluyendo los mantenimientos a tres años. m. Toda la información anterior se deberá remitir en el primer informe de cumplimiento a"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.18,
+      "tiempo_generacion_s": 27.91,
+      "consulta_id": "q05"
+    },
+    {
+      "query": "¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) Los presuntos infractores no se identifican explícitamente en los documentos consultados.\n\n(b) La información sobre los presuntos infractores y conductas imputadas no se encuentra en los documentos consultados.\n\n(c) La consulta solicita información que no se encuentra en los documentos proporcionados, por lo tanto, no se puede responder con precisión.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_001213_2024-03-12_AUTO_001213_2024-03-12_blk_0016_txt_0",
+          "similitud": 0.9828,
+          "tipo_chunk": "texto",
+          "filename": "2851_1213_2024-03-12.pdf",
+          "numeral": "9",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, se deben ajustar y complementar, como se indica a continuación:. (.)"
+        },
+        {
+          "chunk_id": "AUTO_011096_2023-12-27_AUTO_011096_2023-12-27_blk_0005_txt_0",
+          "similitud": 0.9822,
+          "tipo_chunk": "texto",
+          "filename": "2330_11096_2023-12-27.pdf",
+          "numeral": "4.1",
+          "pagina_inicio": 5,
+          "pagina_fin": 5,
+          "texto_preview": "Análisis de los hechos. A continuación, se procede hacer el análisis sobre los motivos de apertura de la investigación sancionatoria, respecto al hecho anteriormente descrito, el cual se reformula así"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_blk_0030_txt_0",
+          "similitud": 0.9821,
+          "tipo_chunk": "texto",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "e",
+          "pagina_inicio": 22,
+          "pagina_fin": 22,
+          "texto_preview": "Cronograma de ejecución de la siembra el cual deberá ser paralelo al avance de las obras.. obras."
+        },
+        {
+          "chunk_id": "AUTO_000589_2022-02-09_AUTO_000589_2022-02-09_blk_0009_txt_0",
+          "similitud": 0.9809,
+          "tipo_chunk": "texto",
+          "filename": "2312_589_2022-02-09.pdf",
+          "numeral": "1",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "El presente manejo de los residuos sólidos generados durante el desarrollo del proyecto, quedará sujeto al cumplimiento de las siguientes obligaciones:. (…)"
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9807,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.18,
+      "tiempo_generacion_s": 9.28,
+      "consulta_id": "q06"
+    },
+    {
+      "query": "¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?",
+      "modelo": "Mistral-7B-Instruct-v0.3",
+      "respuesta": "(a) La información solicitada no se encuentra en los documentos consultados. Sin embargo, se puede inferir que, en el contexto de los Autos de Apertura de procedimientos sancionatorios de la Autoridad Nacional de Licencias Ambientales (ANLA), se exigen soportes documentales para acreditar el cumplimiento de las obligaciones ambientales en relación con la ejecución de la compensación por el cambio de uso del suelo [Fragmento 2], la ejecución de la compensación biótico del Plan de Manejo Ambiental y los programas de compensación del Plan de Seguimiento y Monitoreo [Fragmento 5].\n\n(b) En el caso del Fragmento 2, se exigen soportes documentales del desarrollo de actividades y medidas de manejo relacionadas con la ejecución de la compensación por el cambio de uso del suelo, en cumplimiento de lo establecido en el artículo décimo de la Resolución 2121 del 26 de octubre de 2010, el numeral 29 del artículo segundo del Auto 5846 del 22 de diciembre de 2014 y el numeral 3 del artículo quinto del Auto 5965 del 30 de noviembre de 2016.\n\n(c) En el caso del Fragmento 5, se exigen soportes documentales para acreditar el cumplimiento de las obligaciones ambientales en relación con el Plan de Manejo Ambiental y los programas de compensación del Plan de Seguimiento y Monitoreo.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_007381_2023-09-14_AUTO_007381_2023-09-14_tab_000_tab_0",
+          "similitud": 0.9885,
+          "tipo_chunk": "tabla",
+          "filename": "2404_7381_2023-09-14.pdf",
+          "numeral": "i",
+          "pagina_inicio": 8,
+          "pagina_fin": 12,
+          "texto_preview": "La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establec. PUNTO :-------------- Norte 7 Norte Remache Norte Caño Gandul"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_tab_001_tab_0",
+          "similitud": 0.9877,
+          "tipo_chunk": "tabla",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "9",
+          "pagina_inicio": 8,
+          "pagina_fin": 11,
+          "texto_preview": "Soporte documental del desarrollo de actividades y medidas de manejo relacionadas con la ejecución de la compensación po. Resolución 2121 de octubre 26 de 2010 Obligaciones"
+        },
+        {
+          "chunk_id": "AUTO_003157_2022-05-05_AUTO_003157_2022-05-05_tab_015_tab_0",
+          "similitud": 0.9869,
+          "tipo_chunk": "tabla",
+          "filename": "2236_3157_2022-05-05.pdf",
+          "numeral": "4",
+          "pagina_inicio": 4,
+          "pagina_fin": 21,
+          "texto_preview": "Realizar vertimientos de aguas residuales industriales generadas en la locación Castaña Macambo en vías y por evaporació. 0 :----------------------- de los sistemas de tratamiento adoptados."
+        },
+        {
+          "chunk_id": "AUTO_007384_2023-09-14_AUTO_007384_2023-09-14_tab_000_tab_0",
+          "similitud": 0.9847,
+          "tipo_chunk": "tabla",
+          "filename": "2405_7384_2023-09-14.pdf",
+          "numeral": "a",
+          "pagina_inicio": 16,
+          "pagina_fin": 19,
+          "texto_preview": "La Empresa no podrá realizar intervención y/o aprovechamiento del recurso en un volumen superior a 48.97 m3 por hectárea. construcción :-------------------------------- Construcción plataforma Campano"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_tab_013_tab_0",
+          "similitud": 0.9842,
+          "tipo_chunk": "tabla",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "h",
+          "pagina_inicio": 22,
+          "pagina_fin": 26,
+          "texto_preview": "Demás lineamientos definidos en el artículo 10 de la Resolución 2121 del 26 de octubre de 2010, la ficha 22 Compensación. Obligación :------------------------------------ para que un plazo de tres (3)"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "tabla",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.09,
+      "tiempo_generacion_s": 40.33,
+      "consulta_id": "q07"
+    },
+    {
+      "query": "¿Cuál es la competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La competencia de la ANLA para iniciar un procedimiento sancionatorio ambiental es la de realizar el control y seguimiento ambiental de los expedientes, según lo establecido en el Acta No. 317 del 30 de junio de 2022, documento 2525_1964_2023-03-24.pdf, numeral 7, página 6-6.\n\n(b) La ANLA tiene competencia para iniciar un procedimiento sancionatorio ambiental cuando se compruebe la ocurrencia de un hecho que afecte el medio ambiente, como se establece en el artículo 4.1 del documento 2330_11096_2023-12-27.pdf, página 5-5, que indica que \"La ANLA tiene competencia para investigar y sancionar los hechos que afecten el medio ambiente\".\n\n(c) La información solicitada se encuentra en los documentos consultados, específicamente en los fragmentos 2 y 4.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_005749_2023-07-25_AUTO_005749_2023-07-25_blk_0089_txt_0",
+          "similitud": 0.9901,
+          "tipo_chunk": "texto",
+          "filename": "2464_5749_2023-07-25.pdf",
+          "numeral": "a",
+          "pagina_inicio": 19,
+          "pagina_fin": 19,
+          "texto_preview": "La compensación deberá realizarse con especies nativas”.. En ese sentido, se ordenará la apertura del procedimiento sancionatorio ambiental, en contra de la sociedad VETRA E&P S.A.S., por el hecho ana"
+        },
+        {
+          "chunk_id": "AUTO_001964_2023-03-24_AUTO_001964_2023-03-24_blk_0017_txt_0",
+          "similitud": 0.99,
+          "tipo_chunk": "texto",
+          "filename": "2525_1964_2023-03-24.pdf",
+          "numeral": "7",
+          "pagina_inicio": 6,
+          "pagina_fin": 6,
+          "texto_preview": "Acta No. 317 del 30 de junio de 2022, por medio de la cual se realiza control y seguimiento ambiental al expediente LAM4083. En mérito de lo expuesto,"
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9892,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        },
+        {
+          "chunk_id": "AUTO_011096_2023-12-27_AUTO_011096_2023-12-27_blk_0005_txt_0",
+          "similitud": 0.9886,
+          "tipo_chunk": "texto",
+          "filename": "2330_11096_2023-12-27.pdf",
+          "numeral": "4.1",
+          "pagina_inicio": 5,
+          "pagina_fin": 5,
+          "texto_preview": "Análisis de los hechos. A continuación, se procede hacer el análisis sobre los motivos de apertura de la investigación sancionatoria, respecto al hecho anteriormente descrito, el cual se reformula así"
+        },
+        {
+          "chunk_id": "AUTO_000589_2022-02-09_AUTO_000589_2022-02-09_blk_0009_txt_0",
+          "similitud": 0.9885,
+          "tipo_chunk": "texto",
+          "filename": "2312_589_2022-02-09.pdf",
+          "numeral": "1",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "El presente manejo de los residuos sólidos generados durante el desarrollo del proyecto, quedará sujeto al cumplimiento de las siguientes obligaciones:. (…)"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.99,
+      "tiempo_generacion_s": 18.38,
+      "consulta_id": "q01"
+    },
+    {
+      "query": "¿Qué hechos motivan la apertura del procedimiento sancionatorio en estos autos?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La apertura del procedimiento sancionatorio en estos autos se motiva por el incumplimiento de las obligaciones en el manejo de residuos sólidos generados durante el desarrollo del proyecto, según se establece en el Fragmento 1.\n\n(b) Fundamentos del contexto: El Fragmento 1 establece que el manejo de residuos sólidos generados durante el desarrollo del proyecto debe cumplir con las obligaciones establecidas. El Fragmento 5 indica que la sociedad VETRA E&P S.A.S. no cumplió con estas obligaciones, lo que motivó la apertura del procedimiento sancionatorio.\n\n(c) Limitaciones: La información solicitada se encuentra en los documentos consultados, específicamente en los Fragmentos 1 y 5.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_000589_2022-02-09_AUTO_000589_2022-02-09_blk_0009_txt_0",
+          "similitud": 0.9894,
+          "tipo_chunk": "texto",
+          "filename": "2312_589_2022-02-09.pdf",
+          "numeral": "1",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "El presente manejo de los residuos sólidos generados durante el desarrollo del proyecto, quedará sujeto al cumplimiento de las siguientes obligaciones:. (…)"
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9887,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        },
+        {
+          "chunk_id": "AUTO_011096_2023-12-27_AUTO_011096_2023-12-27_blk_0005_txt_0",
+          "similitud": 0.9883,
+          "tipo_chunk": "texto",
+          "filename": "2330_11096_2023-12-27.pdf",
+          "numeral": "4.1",
+          "pagina_inicio": 5,
+          "pagina_fin": 5,
+          "texto_preview": "Análisis de los hechos. A continuación, se procede hacer el análisis sobre los motivos de apertura de la investigación sancionatoria, respecto al hecho anteriormente descrito, el cual se reformula así"
+        },
+        {
+          "chunk_id": "AUTO_001213_2024-03-12_AUTO_001213_2024-03-12_blk_0016_txt_0",
+          "similitud": 0.9883,
+          "tipo_chunk": "texto",
+          "filename": "2851_1213_2024-03-12.pdf",
+          "numeral": "9",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, se deben ajustar y complementar, como se indica a continuación:. (.)"
+        },
+        {
+          "chunk_id": "AUTO_005749_2023-07-25_AUTO_005749_2023-07-25_blk_0089_txt_0",
+          "similitud": 0.9882,
+          "tipo_chunk": "texto",
+          "filename": "2464_5749_2023-07-25.pdf",
+          "numeral": "a",
+          "pagina_inicio": 19,
+          "pagina_fin": 19,
+          "texto_preview": "La compensación deberá realizarse con especies nativas”.. En ese sentido, se ordenará la apertura del procedimiento sancionatorio ambiental, en contra de la sociedad VETRA E&P S.A.S., por el hecho ana"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.21,
+      "tiempo_generacion_s": 15.14,
+      "consulta_id": "q02"
+    },
+    {
+      "query": "¿Qué requerimientos del concepto técnico se mantienen y cuáles se modifican?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el Plan de Gestión de Riesgo (PGDR), no requería actualizarse.\n\n(b) En el contexto del Fragmento 1, se establece que la Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el PGDR, no requería actualizarse. La Sociedad no presentó información sobre la cantidad de fluidos que se transportarían ni los soportes técnicos necesarios para establecer que el PGDR no requería actualizarse. (Documento: 2404_7381_2023-09-14.pdf, Numeral: i, Página: 8-12)\n\n(c) La información solicitada no se encuentra en los documentos consultados.\n\nEn cuanto a los requerimientos del concepto técnico, se mantienen los siguientes:\n\n* La presentación de la información sobre las actividades autorizadas en cada acto administrativo y las ejecutadas, determinado el área intervenida y la compensación en área, en cumplimiento del numeral 29 del Artículo segundo del Auto 5846 del 22 de diciembre de 2014 (Fragmento 4).\n* La presentación del plan de compensación según lo requerido en la obligación (Fragmento 4).\n* La presentación del Plan de Emergencia y Contingencia del proceso de manejo del desastre (Fragmento 5).\n\nSe modifican los siguientes requerimientos del concepto técnico:\n\n* La presentación de las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el PGDR, no requería actualizarse (Fragmento 1).",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_007381_2023-09-14_AUTO_007381_2023-09-14_tab_000_tab_0",
+          "similitud": 0.9839,
+          "tipo_chunk": "tabla",
+          "filename": "2404_7381_2023-09-14.pdf",
+          "numeral": "i",
+          "pagina_inicio": 8,
+          "pagina_fin": 12,
+          "texto_preview": "La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establec. PUNTO :-------------- Norte 7 Norte Remache Norte Caño Gandul"
+        },
+        {
+          "chunk_id": "AUTO_003157_2022-05-05_AUTO_003157_2022-05-05_tab_015_tab_0",
+          "similitud": 0.9792,
+          "tipo_chunk": "tabla",
+          "filename": "2236_3157_2022-05-05.pdf",
+          "numeral": "4",
+          "pagina_inicio": 4,
+          "pagina_fin": 21,
+          "texto_preview": "Realizar vertimientos de aguas residuales industriales generadas en la locación Castaña Macambo en vías y por evaporació. 0 :----------------------- de los sistemas de tratamiento adoptados."
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_tab_001_tab_0",
+          "similitud": 0.979,
+          "tipo_chunk": "tabla",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "9",
+          "pagina_inicio": 8,
+          "pagina_fin": 11,
+          "texto_preview": "Soporte documental del desarrollo de actividades y medidas de manejo relacionadas con la ejecución de la compensación po. Resolución 2121 de octubre 26 de 2010 Obligaciones"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_tab_013_tab_0",
+          "similitud": 0.9781,
+          "tipo_chunk": "tabla",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "h",
+          "pagina_inicio": 22,
+          "pagina_fin": 26,
+          "texto_preview": "Demás lineamientos definidos en el artículo 10 de la Resolución 2121 del 26 de octubre de 2010, la ficha 22 Compensación. Obligación :------------------------------------ para que un plazo de tres (3)"
+        },
+        {
+          "chunk_id": "AUTO_002451_2024-04-18_AUTO_002451_2024-04-18_tab_003_tab_0",
+          "similitud": 0.9778,
+          "tipo_chunk": "tabla",
+          "filename": "2828_2451_2024-04-18.pdf",
+          "numeral": "3",
+          "pagina_inicio": 7,
+          "pagina_fin": 10,
+          "texto_preview": "En el proceso de manejo del desastre. Con base en los resultados del análisis específico de riesgos (proceso de conocimi. del Acta 191 del 30 de octubre de 2019."
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "tabla",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.09,
+      "tiempo_generacion_s": 39.56,
+      "consulta_id": "q03"
+    },
+    {
+      "query": "¿Qué normas se invocan como fundamento jurídico para la apertura de la investigación?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La norma que se invoca como fundamento jurídico para la apertura de la investigación es el artículo 12 de la Ley 393 de 1997, \"Por la cual se establece la Autoridad Nacional de Licencias Ambientales y se dictan otras disposiciones\", que establece:\n\n\"La Autoridad Nacional de Licencias Ambientales podrá iniciar de oficio o a petición de parte, investigación sancionatoria cuando tenga conocimiento de una situación que pueda configurar una infracción a las normas ambientales\".\n\n(b) Fundamentos del contexto: Los fragmentos 1, 2, 3, 4 y 5 se refieren a la apertura de la investigación sancionatoria y el análisis de los hechos, así como la necesidad de cumplir con los programas de manejo ambiental y cronogramas de ejecución. Estos fragmentos no mencionan específicamente la norma que se invoca como fundamento jurídico, pero en el contexto general se puede inferir que se está invocando el artículo 12 de la Ley 393 de 1997.\n\n(c) Limitaciones: La respuesta se basa en la información proporcionada en los fragmentos de contexto y no se puede determinar con certeza la norma específica que se invoca como fundamento jurídico sin más información.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_011096_2023-12-27_AUTO_011096_2023-12-27_blk_0005_txt_0",
+          "similitud": 0.9893,
+          "tipo_chunk": "texto",
+          "filename": "2330_11096_2023-12-27.pdf",
+          "numeral": "4.1",
+          "pagina_inicio": 5,
+          "pagina_fin": 5,
+          "texto_preview": "Análisis de los hechos. A continuación, se procede hacer el análisis sobre los motivos de apertura de la investigación sancionatoria, respecto al hecho anteriormente descrito, el cual se reformula así"
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9886,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        },
+        {
+          "chunk_id": "AUTO_000589_2022-02-09_AUTO_000589_2022-02-09_blk_0009_txt_0",
+          "similitud": 0.9883,
+          "tipo_chunk": "texto",
+          "filename": "2312_589_2022-02-09.pdf",
+          "numeral": "1",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "El presente manejo de los residuos sólidos generados durante el desarrollo del proyecto, quedará sujeto al cumplimiento de las siguientes obligaciones:. (…)"
+        },
+        {
+          "chunk_id": "AUTO_001213_2024-03-12_AUTO_001213_2024-03-12_blk_0016_txt_0",
+          "similitud": 0.9874,
+          "tipo_chunk": "texto",
+          "filename": "2851_1213_2024-03-12.pdf",
+          "numeral": "9",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, se deben ajustar y complementar, como se indica a continuación:. (.)"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_blk_0030_txt_0",
+          "similitud": 0.9869,
+          "tipo_chunk": "texto",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "e",
+          "pagina_inicio": 22,
+          "pagina_fin": 22,
+          "texto_preview": "Cronograma de ejecución de la siembra el cual deberá ser paralelo al avance de las obras.. obras."
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.18,
+      "tiempo_generacion_s": 25.11,
+      "consulta_id": "q04"
+    },
+    {
+      "query": "¿Qué medidas preventivas se han adoptado o se contemplan en los autos?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La información solicitada no se encuentra en los documentos consultados.\n\n(b) Fundamentos del contexto:\n\n* En el Fragmento 1, se menciona el cronograma de ejecución de la siembra, pero no se establecen medidas preventivas específicas.\n* En el Fragmento 2, se menciona el Programa de Seguimiento y Monitoreo, pero no se especifica qué medidas preventivas se han adoptado o se contemplan.\n* En el Fragmento 3, se mencionan los programas de manejo ambiental, pero no se establecen medidas preventivas específicas.\n* En el Fragmento 4 y 5, se mencionan cronogramas de actividades y costos detallados, pero no se establecen medidas preventivas específicas.\n\n(c) Limitaciones: La información solicitada no se encuentra en los documentos consultados, por lo que no se puede determinar qué medidas preventivas se han adoptado o se contemplan en los autos.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_blk_0030_txt_0",
+          "similitud": 0.9825,
+          "tipo_chunk": "texto",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "e",
+          "pagina_inicio": 22,
+          "pagina_fin": 22,
+          "texto_preview": "Cronograma de ejecución de la siembra el cual deberá ser paralelo al avance de las obras.. obras."
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9821,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        },
+        {
+          "chunk_id": "AUTO_001213_2024-03-12_AUTO_001213_2024-03-12_blk_0016_txt_0",
+          "similitud": 0.982,
+          "tipo_chunk": "texto",
+          "filename": "2851_1213_2024-03-12.pdf",
+          "numeral": "9",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, se deben ajustar y complementar, como se indica a continuación:. (.)"
+        },
+        {
+          "chunk_id": "AUTO_001258_2024-03-13_AUTO_001258_2024-03-13_blk_0065_txt_0",
+          "similitud": 0.9806,
+          "tipo_chunk": "texto",
+          "filename": "2848_1258_2024-03-13.pdf",
+          "numeral": "k",
+          "pagina_inicio": 27,
+          "pagina_fin": 27,
+          "texto_preview": "Cronograma de actividades.. /. Costos detallados de las actividades, incluyendo los mantenimientos a tres años. m. Toda la información anterior se deberá remitir en el primer informe de cumplimiento a"
+        },
+        {
+          "chunk_id": "AUTO_001258_2024-03-13_AUTO_001258_2024-03-13_blk_0019_txt_0",
+          "similitud": 0.9806,
+          "tipo_chunk": "texto",
+          "filename": "2848_1258_2024-03-13.pdf",
+          "numeral": "k",
+          "pagina_inicio": 10,
+          "pagina_fin": 10,
+          "texto_preview": "Cronograma de actividades.. /. Costos detallados de las actividades, incluyendo los mantenimientos a tres años. m. Toda la información anterior se deberá remitir en el primer informe de cumplimiento a"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.18,
+      "tiempo_generacion_s": 18.48,
+      "consulta_id": "q05"
+    },
+    {
+      "query": "¿Cuáles son los presuntos infractores identificados y qué conductas se les imputan?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) Los presuntos infractores no se mencionan explícitamente en los fragmentos proporcionados. Sin embargo, se puede inferir que se están investigando posibles infracciones ambientales en relación con el desarrollo de un proyecto.\n\n(b) Fundamentos del contexto:\n\n* Fragmento 1: Los programas de manejo ambiental deben ser ajustados y complementados para abordar los Medios Abiótico, Biótico y Social.\n* Fragmento 2: Se analiza la apertura de una investigación sancionatoria en relación con un hecho no especificado.\n* Fragmento 3: Se menciona un cronograma de ejecución de la siembra, lo que sugiere que se está hablando de un proyecto que involucra actividades de construcción o desarrollo.\n* Fragmento 4: Se establecen obligaciones para el manejo de residuos sólidos generados durante el desarrollo del proyecto.\n* Fragmento 5: Se menciona el Programa de Seguimiento y Monitoreo, lo que sugiere que se está hablando de un proyecto que requiere vigilancia y control ambiental.\n\n(c) Limitaciones: La información proporcionada no permite identificar explícitamente a los presuntos infractores ni describir con precisión las conductas que se les imputan. La respuesta se basa en inferencias y en la interpretación de los fragmentos proporcionados.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_001213_2024-03-12_AUTO_001213_2024-03-12_blk_0016_txt_0",
+          "similitud": 0.9828,
+          "tipo_chunk": "texto",
+          "filename": "2851_1213_2024-03-12.pdf",
+          "numeral": "9",
+          "pagina_inicio": 16,
+          "pagina_fin": 16,
+          "texto_preview": "Los programas de manejo ambiental propuestos para los Medios Abiótico, Biótico y Social, se deben ajustar y complementar, como se indica a continuación:. (.)"
+        },
+        {
+          "chunk_id": "AUTO_011096_2023-12-27_AUTO_011096_2023-12-27_blk_0005_txt_0",
+          "similitud": 0.9822,
+          "tipo_chunk": "texto",
+          "filename": "2330_11096_2023-12-27.pdf",
+          "numeral": "4.1",
+          "pagina_inicio": 5,
+          "pagina_fin": 5,
+          "texto_preview": "Análisis de los hechos. A continuación, se procede hacer el análisis sobre los motivos de apertura de la investigación sancionatoria, respecto al hecho anteriormente descrito, el cual se reformula así"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_blk_0030_txt_0",
+          "similitud": 0.9821,
+          "tipo_chunk": "texto",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "e",
+          "pagina_inicio": 22,
+          "pagina_fin": 22,
+          "texto_preview": "Cronograma de ejecución de la siembra el cual deberá ser paralelo al avance de las obras.. obras."
+        },
+        {
+          "chunk_id": "AUTO_000589_2022-02-09_AUTO_000589_2022-02-09_blk_0009_txt_0",
+          "similitud": 0.9809,
+          "tipo_chunk": "texto",
+          "filename": "2312_589_2022-02-09.pdf",
+          "numeral": "1",
+          "pagina_inicio": 3,
+          "pagina_fin": 3,
+          "texto_preview": "El presente manejo de los residuos sólidos generados durante el desarrollo del proyecto, quedará sujeto al cumplimiento de las siguientes obligaciones:. (…)"
+        },
+        {
+          "chunk_id": "AUTO_000183_2024-01-18_AUTO_000183_2024-01-18_blk_0021_txt_0",
+          "similitud": 0.9807,
+          "tipo_chunk": "texto",
+          "filename": "2896_183_2024-01-18.pdf",
+          "numeral": "2",
+          "pagina_inicio": 15,
+          "pagina_fin": 15,
+          "texto_preview": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:. (..)"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "texto",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.28,
+      "tiempo_generacion_s": 25.93,
+      "consulta_id": "q06"
+    },
+    {
+      "query": "¿Qué soportes documentales se exigen para acreditar el cumplimiento de las obligaciones ambientales?",
+      "modelo": "Llama-3-8B-Instruct",
+      "respuesta": "(a) La información solicitada se encuentra en los documentos consultados.\n\n(b) Fundamentos del contexto:\n\n* En el Fragmento 1, se establece que la Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el Plan de Gestión de Riesgo (PGDR), no requería actualizarse. (Documento: 2404_7381_2023-09-14.pdf, Numeral: i, Página: 8-12)\n* En el Fragmento 2, se menciona la Resolución 2121 del 26 de octubre de 2010, que establece la compensación por cambio de uso del suelo mediante el establecimiento de cobertura vegetal con especies nativas en las cuencas hidrográficas y/o nacederos del área de influencia. (Documento: 2862_864_2024-02-27.pdf, Numeral: 9, Página: 8-11)\n* En el Fragmento 3, se menciona la Resolución No. 1683 del 18 de agosto de 2011, que establece la obligación de realizar monitoreos de aire en el “Campo de Explotación de Hidrocarburos Mapache”. (Documento: 2236_3157_2022-05-05.pdf, Numeral: 4, Página: 4-21)\n* En el Fragmento 4, se establece que la Empresa no podrá realizar intervención y/o aprovechamiento del recurso en un volumen superior a 48.97 m3 por hectárea en bosque de galería, 9.88 m3 por hectárea en bosque natural fragmentado y 0.65 en arbustos y matorrales. (Documento: 2405_7384_2023-09-14.pdf, Numeral: a, Página: 16-19)\n* En el Fragmento 5, se menciona la Resolución 2121 del 26 de octubre de 2010, que establece la compensación por cambio de uso del suelo y la obligación de presentar un plan de compensación. (Documento: 2862_864_2024-02-27.pdf, Numeral: h, Página: 22-26)\n\n(c) Limitaciones: La información solicitada se encuentra en los documentos consultados, pero es importante destacar que la respuesta se basa en la interpretación de los fragmentos de contexto y no en la lectura integral de los documentos.",
+      "chunks_recuperados": [
+        {
+          "chunk_id": "AUTO_007381_2023-09-14_AUTO_007381_2023-09-14_tab_000_tab_0",
+          "similitud": 0.9885,
+          "tipo_chunk": "tabla",
+          "filename": "2404_7381_2023-09-14.pdf",
+          "numeral": "i",
+          "pagina_inicio": 8,
+          "pagina_fin": 12,
+          "texto_preview": "La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establec. PUNTO :-------------- Norte 7 Norte Remache Norte Caño Gandul"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_tab_001_tab_0",
+          "similitud": 0.9877,
+          "tipo_chunk": "tabla",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "9",
+          "pagina_inicio": 8,
+          "pagina_fin": 11,
+          "texto_preview": "Soporte documental del desarrollo de actividades y medidas de manejo relacionadas con la ejecución de la compensación po. Resolución 2121 de octubre 26 de 2010 Obligaciones"
+        },
+        {
+          "chunk_id": "AUTO_003157_2022-05-05_AUTO_003157_2022-05-05_tab_015_tab_0",
+          "similitud": 0.9869,
+          "tipo_chunk": "tabla",
+          "filename": "2236_3157_2022-05-05.pdf",
+          "numeral": "4",
+          "pagina_inicio": 4,
+          "pagina_fin": 21,
+          "texto_preview": "Realizar vertimientos de aguas residuales industriales generadas en la locación Castaña Macambo en vías y por evaporació. 0 :----------------------- de los sistemas de tratamiento adoptados."
+        },
+        {
+          "chunk_id": "AUTO_007384_2023-09-14_AUTO_007384_2023-09-14_tab_000_tab_0",
+          "similitud": 0.9847,
+          "tipo_chunk": "tabla",
+          "filename": "2405_7384_2023-09-14.pdf",
+          "numeral": "a",
+          "pagina_inicio": 16,
+          "pagina_fin": 19,
+          "texto_preview": "La Empresa no podrá realizar intervención y/o aprovechamiento del recurso en un volumen superior a 48.97 m3 por hectárea. construcción :-------------------------------- Construcción plataforma Campano"
+        },
+        {
+          "chunk_id": "AUTO_000864_2024-02-27_AUTO_000864_2024-02-27_tab_013_tab_0",
+          "similitud": 0.9842,
+          "tipo_chunk": "tabla",
+          "filename": "2862_864_2024-02-27.pdf",
+          "numeral": "h",
+          "pagina_inicio": 22,
+          "pagina_fin": 26,
+          "texto_preview": "Demás lineamientos definidos en el artículo 10 de la Resolución 2121 del 26 de octubre de 2010, la ficha 22 Compensación. Obligación :------------------------------------ para que un plazo de tres (3)"
+        }
+      ],
+      "parametros": {
+        "top_k": 5,
+        "tipo_chunk": "tabla",
+        "filename": null,
+        "fecha_desde": null,
+        "fecha_hasta": null,
+        "incluir_padres": true,
+        "temperature": 0.2
+      },
+      "tiempo_retrieval_s": 0.1,
+      "tiempo_generacion_s": 54.44,
+      "consulta_id": "q07"
+    }
+  ]
+}

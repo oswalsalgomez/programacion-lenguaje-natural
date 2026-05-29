@@ -1,0 +1,138 @@
+{
+  "id_documento": "AUTO_005882_2022-07-27",
+  "filename": "2136_5882_2022-07-27.pdf",
+  "tipo_documento": "AUTO",
+  "numero_documento": "5882",
+  "fecha_documento": "2022-07-27",
+  "fecha_ordinal": 20220727,
+  "expediente_sancionatorio": "SAN0043-00-2022",
+  "expediente_permisivo": null,
+  "empresa": "Petróleos Sudamericanos Energy Sucursal Colombia",
+  "nit_investigado": "900.495.129-1",
+  "proyecto": "Área Adicionada del Bloque El Difícil - AABD",
+  "municipio": "Ariguaní",
+  "municipios": [
+    "Ariguaní"
+  ],
+  "ubicacion": "Ariguaní",
+  "materias": [
+    "compensacion_inversion",
+    "obligaciones_seguimiento_ica",
+    "contingencias_ambientales"
+  ],
+  "materias_score": {
+    "contingencias_ambientales": 2,
+    "obligaciones_seguimiento_ica": 10,
+    "compensacion_inversion": 13
+  },
+  "bloques": [
+    {
+      "id": "AUTO_005882_2022-07-27_blk_0000",
+      "numeral": "INTRO",
+      "tipo_numeral": "intro",
+      "nivel": 0,
+      "titulo": "ENCABEZADO Y PROEMIO",
+      "texto": "Libertad y Orden República de Colombia Ministerio de Ambiente y Desarrollo Sostenible AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES - ANLA – AUTO N° 05882 ( 27 de julio de 2022 ) “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” LA COORDINADORA DEL GRUPO DE ACTUACIONES SANCIONATORIAS AMBIENTALES ADSCRITA A LA OFICINA ASESORA JURÍDICA DE LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES – ANLA En uso de las facultades legales establecidas en la Ley 99 de 1993, en la Ley 1333 de 2009, así como de las conferidas por el Decreto - Ley 3573 de 2011, modificado por el Decreto 376 de 2020 y de las asignadas en el artículo tercero de la Resolución No. 00254 del 02 de febrero de 2021, modificada por la Resolución 404 del 17 de febrero de 2022 y el artículo primero de la Resolución No. 00155 del 04 de enero de 2022:",
+      "pagina_inicio": 1,
+      "pagina_fin": 1,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005882_2022-07-27_blk_0001",
+      "numeral": "CONSIDERANDO",
+      "tipo_numeral": "considerando",
+      "nivel": 0,
+      "titulo": "CONSIDERANDO",
+      "texto": "La Constitución Política de Colombia establece el derecho de todas las personas a gozar de un ambiente sano y el deber del Estado de proteger su diversidad e integridad (art. 79), planificando “el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución” además de “prevenir y controlar los factores de deterioro ambiental, imponer las sanciones legales y exigir la reparación de los daños causados”. La Carta Política señala como obligación del Estado y de las personas, el proteger las riquezas culturales y naturales de la Nación (art. 8 CN), los recursos culturales y naturales del país y velar por la conservación de un ambiente sano (art. 95. num. 8) y determina (Art. 58) que “la propiedad es una función social que implica obligaciones. Como tal, le es inherente una función ecológica”. La Ley 1333 de 2009 “por la cual se establece el procedimiento sancionatorio ambiental y se dictan otras disposiciones”, determina la titularidad de la potestad sancionatoria ambiental en el Estado, a través de las autoridades ambientales de acuerdo con sus respectivas competencias, y define en su artículo 5 como infracción ambiental: “toda acción u omisión que constituya violación de las normas contenidas en el Código de Recursos Naturales Renovables, Decreto-ley 2811 de 1974, en la Ley 99 de 1993, en la Ley 165 de 1994 y en las demás disposiciones ambientales vigentes en que las sustituyan o modifiquen y en los actos administrativos emanados de la autoridad ambiental competente. Será también constitutivo de infracción ambiental la comisión de un daño al medio ambiente, con las mismas condiciones que para configurar la responsabilidad civil extracontractual establece el Código Civil y la legislación complementaria, a saber: El daño, el hecho generador con culpa o dolo y el vínculo causal entre los dos. Cuando estos elementos se configuren darán lugar a una sanción administrativa ambiental, sin perjuicio de la responsabilidad que para terceros pueda generar el hecho en materia civil”. El Decreto Ley 3573 de 2011 creó la Autoridad Nacional de Licencias Ambientales -ANLA- como una Unidad Administrativa Especial del orden nacional, con autonomía administrativa y financiera, sin personería jurídica, adscrita al Ministerio de Ambiente y Desarrollo Sostenible (MADS) y le otorgó, entre otras, la competencia de otorgar o negar Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 1 de 7 ; E LLRLEE Auto No. 05882 Del 27 de julio de 2022 Hoja No. 2 de 7 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” las licencias, permisos y trámites ambientales de competencia del hoy Ministerio de Ambiente y Desarrollo Sostenible, y de manera expresa, la función de adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, de acuerdo con lo dispuesto en la Ley 1333 de 2009. Antecedentes (LAV0021-00-2018)",
+      "pagina_inicio": 1,
+      "pagina_fin": 2,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005882_2022-07-27_blk_0008",
+      "numeral": "7",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Mediante Concepto técnico de seguimiento con visita Nº 04128 del 19 de julio de 2021, llevado a cabo el 3 y 4 de junio de 2021, se requirió una vez más a la Sociedad para la presentación de los soportes de las actividades de revegetalización de los sectores de la ZODME de la plataforma Mulato que carecen de cobertura vegetal, en cumplimiento de lo establecido en la ficha de manejo MCA-1.1 Manejo y disposición de material sobrante, MCA-1.3 Manejo Paisajístico, Ficha MCB-2.1",
+      "texto": "Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 2 de 7 me El ambiente Minambiente RS Auto No. 05882 Del 27 de julio de 2022 Hoja No. 3 de 7 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Revegetalización y numeral 1 del artículo tercero del Auto 9186 del 21 de septiembre de 2020. Antecedentes sancionatorios (SAN0043-00-2022) Mediante memorando 2021283067-3-000 del 27 de diciembre de 2021, el Grupo Caribe- Pacifico, de la Subdirección de Seguimiento de Licencias Ambientales, remitió Concepto Técnico Nº. 08398 del 24 de diciembre de 2021, en el cual recomendó el inicio del procedimiento sancionatorio ambiental en contra de la Sociedad Petróleos Sudamericanos Energy Sucursal Colombia, identificada con NIT: 900.495.129-1, por el supuesto incumplimiento de las obligaciones adquiridas mediante la Resolución Nº 1249 del 28 de junio de 2019 y demás actos administrativos, con base en la información que reposa en el expediente LAV0021-00-2018, donde se puede observar el presunto incumplimiento por parte del titular de las obligaciones establecidas.",
+      "pagina_inicio": 2,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005882_2022-07-27_blk_0009",
+      "numeral": "SEC_III",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Competencia",
+      "texto": "La ANLA es competente para iniciar, adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, teniendo en cuenta que es la autoridad facultada para otorgar y efectuar seguimiento al instrumento ambiental del presente proyecto. Dicha facultad le fue transferida del MADS, de acuerdo con la desconcentración administrativa prevista en los numerales 1°, 2° y 7° del artículo tercero del Decreto 3573 de 2011, en concordancia con lo previsto en el artículo 2 de la Ley 1333 de 2009, siendo por ende competente para el ejercicio de la potestad sancionatoria ambiental que pueda derivarse de los hechos sucedidos en ejecución de este proyecto. En el presente caso, la Licencia Ambiental Global para el proyecto “Área Adicionada del Bloque El Difícil - AABD\", fue otorgada mediante Resolución Nº. 1249 del 28 de junio de 2019 por la Autoridad Nacional de Licencias Ambientales - ANLA; por lo que en virtud del numeral 7 del artículo 3 del Decreto Ley 3573 del 27 de septiembre de 2011 y el artículo 2 de la Ley 1333 de 2009, la Agencia Nacional de Licencias Ambientales es competente para iniciar, impulsar y llevar hasta su culminación el procedimiento ambiental sancionatorio de conformidad con la Ley 1333 de 2009. Finalmente, en relación con el procedimiento ambiental sancionatorio, la Resolución No. 00254 del 02 de febrero de 2021, modificada por la Resolución 404 del 17 de febrero de 2022, emanadas de la Dirección General de la ANLA, asignó como funciones al Grupo de Actuaciones Sancionatorias Ambientales, en su artículo 3° las siguientes: “3. Adelantar las indagaciones preliminares, investigaciones y/o actuaciones sancionatorias en contra de las personas naturales o jurídicas, cuando se ponga en su conocimiento una posible infracción ambiental por parte de las subdirecciones técnicas de la Entidad (…) 7. Elaborar los actos preparatorios que sirven de insumo para las decisiones de la ANLA que soportan el periodo probatorio, los que requiera la actuación procesal y los que fijen los criterios técnicos para la tasación de multas y/o demás sanciones procedentes, de acuerdo con lo establecido normatividad aplicable”, de conformidad con las funciones del Grupo Interno de Trabajo, los procedimientos y normatividad aplicable.",
+      "pagina_inicio": 3,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005882_2022-07-27_blk_0010",
+      "numeral": "SEC_IV",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Caso concreto:",
+      "texto": "El hecho por los cual se ordena el inicio de esta actuación sancionatoria contra la sociedad Petróleos Sudamericanos Energy Sucursal Colombia identificada con NIT: 900.495.129-1, tiene origen en la visita de seguimiento realizada el 19 de julio de 2021, contenida en el expediente LAV0021-00-2018, del que es titular; producto del cual el Grupo Caribe Pacifico, emitió Concepto Técnico Nº 08398 del 24 de diciembre de 2021, el cual sustenta la decisión que se adopta por el presente acto administrativo. El hecho descrito en el mencionado concepto es el siguiente: Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 me El ambiente Minambiente RS www.anla.gov.co Email: licencias@anla.gov.co Página 3 de 7 Auto No. 05882 Del 27 de julio de 2022 Hoja No. 4 de 7 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” HECHO ÚNICO: Por no presentar los soportes de las actividades de revegetalización de los sectores de la ZODME de la plataforma Mulato que carecen de cobertura vegetal, en cumplimiento de lo establecido en la ficha de manejo MCA-1.1 Manejo y disposición de material sobrante, MCA-1.3 Manejo Paisajístico, Ficha MCB-2.1 Revegetalización contenidas en la Resolución 1249 del 28 de junio de 2019 y numeral 1 del artículo tercero del Auto 9186 del 21 de septiembre de 2020. A continuación, se procede hacer el análisis sobre los motivos de apertura de la investigación sancionatoria respecto al hecho anteriormente descrito: La Sociedad Petróleos Sudamericanos Energy Sucursal Colombia, ha cometido una presunta infracción de carácter normativo, por no presentar los soportes de las actividades de revegetalización de los sectores de la ZODME de la plataforma Mulato que carecen de cobertura vegetal, en cumplimiento de lo establecido en la ficha de manejo MCA1.1 Manejo y disposición de material sobrante, MCA-1.3 Manejo Paisajístico, Ficha MCB-2.1 Revegetalización contenidas en la Resolución 1249 del 28 de junio de 2019 y numeral 1 del artículo tercero del Auto 9186 del 21 de septiembre de 2020. A continuación, se exponen las obligaciones incumplidas: En Resolución Nº 1249 del 28 de junio de 2019 se otorgó Licencia Ambiental Global, y se consideraron diferentes programas del Plan de Manejo Ambiental, entre ellos: “Articulo trigésimo primero. La sociedad PETRÓLEOS SUDAMERICANOS SUCURSAL, deberá dar cumplimiento a los siguientes programas y fichas del Plan de Manejo Ambiental para el proyecto “Área Adicionada del Bloque El Difícil - AABD”: CCH D COI MCA-3 Manejo del Recurso Aire MCA-3.1 Manejo de fuentes de emisiones abmosiéricas y ruido Por medio de Auto 9186 del 21 de septiembre de 2020, en su artículo tercero, se requirió al titular con lo siguiente: “ARTÍCULO TERCERO. Requerir a la SOCIEDAD PETRÓLEOS SUDAMERICANOS SUCURSAL COLOMBIA, el cumplimiento y/o ejecución de las siguientes medidas de manejo y obligaciones ambientales, presentando los respectivos soportes documentales, en un término de tres (3) meses contados a partir de la ejecutoria del presente acto administrativo:",
+      "pagina_inicio": 3,
+      "pagina_fin": 4,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005882_2022-07-27_blk_0011",
+      "numeral": "1",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Presentar los soportes de las actividades de clausura implementadas para la ZODME como agregar capa orgánica y/o revegetalización de dichas áreas, en cumplimiento de la ficha de manejo MCA-1.1 Manejo y disposición de material sobrante.”",
+      "texto": "En atención al anterior requerimiento, la Sociedad mediante comunicación 2020223986-1- 000 del 17 de diciembre de 2020, mencionó lo siguiente: “a la fecha nos encontramos en el proceso de contratación de la empresa que prestará el servicio nivelación y reconformación del terreno y revegetalización final del área de ZODME de la plataforma Mulato-1, en cumplimiento de las medidas aplicables de las fichas MCA-1.1 Manejo y Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 El bient pr pe E OS LS www.anla.gov.co Email: licencias@anla.gov.co Página 4 de 7 Auto No. 05882 Del 27 de julio de 2022 Hoja No. 5 de 7 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” disposición de material sobrante y MCB-2.1 Revegetalización; de modo que en atención a este requerimiento en el próximo Informe de Cumplimiento Ambiental – ICA No. 2 se reportará el avance de estas actividades, con sus respectivos soportes. (…)” Una vez revisada la información contenida en el ICA 2, correspondiente al periodo del 01 de enero al 31 de diciembre de 2020, la Sociedad mencionó en el formato ICA 1A de la ficha MCA-1.1 Manejo y disposición de material sobrante que “(…) nivelación de la subrasante, compactación, reconformación del área y siembra de semilla al voleo (…)”, sin embargo, la Sociedad presentó soportes de nivelación del terreno y reconformación del área, pero no de las actividades de revegetalización. Adicionalmente, de acuerdo con lo observado durante la visita de seguimiento realizado al proyecto entre el 3 y 4 de junio de 2021, se dejó constancia que a pesar que el área de la ZODME se encuentra revegetalizada, existe sectores que presentan procesos erosivos. Lo anterior indica que el proyecto no se realizó de acuerdo con la información suministrada a esta Autoridad, por lo cual no se puede establecer el cumplimiento de esta obligación. Lo anterior, expone el presunto incumplimiento normativo de las obligaciones establecidas en la Ficha MCA-1.1 Manejo y disposición de material sobrante, MCA-1.3 Manejo Paisajístico, Ficha MCB-2.1 Revegetalización y en el numeral 1 del artículo tercero del Auto 9186 del 21 de septiembre de 2020, en el sentido de presentar los soportes de las actividades de revegetalización de los sectores de la ZODME de la plataforma Mulato que carecen de cobertura vegetal, lo que ha impedido que esta Autoridad pueda realizar un debido seguimiento y control al proyecto. Una vez analizada la información que reposa en el Sistema de Información de Licencias Ambientales-SILA, y en el expediente permiso LAV0021-00-2018, perteneciente a la Sociedad Petróleos Sudamericanos Energy Sucursal Colombia, se evidencia que a la fecha de la elaboración del presente Auto de Apertura se está incurriendo en los presuntos incumplimientos de las obligaciones explicadas anteriormente, establecidas en la Resolución Nº 1249 del 28 de junio de 2019 y el Auto 9186 del 21 de septiembre de 2020. Incumplimiento a los actos administrativos. De acuerdo con lo expuesto, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin que se considere necesaria la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, a través del auto de apertura de investigación. VI. Incorporación de pruebas. En virtud de lo dispuesto en el artículo 22 de la Ley 1333 del 2009, según el cual para la verificación de los hechos, la autoridad ambiental competente podrá realizar todo tipo de diligencias administrativas y todas aquellas actuaciones que estime necesarias y pertinentes para determinar con certeza los hechos constitutivos de infracción, serán incorporados los elementos de prueba obrantes hasta el momento en el expediente, los cuales serán apreciados en su conjunto con las pruebas recaudadas durante el trámite sancionatorio y en la oportunidad procesal pertinente. Lo anterior, conforme a los criterios de la conducencia, pertinencia y necesidad, calificados para demostrar la configuración o no del hecho objeto de estudio, ya que aportan la información necesaria e idónea para que esta Autoridad llegue al pleno convencimiento de la ocurrencia o no de la conducta materia de investigación. En consecuencia, se relacionan las pruebas fundamento del inicio del procedimiento sancionatorio ambiental, que se entienden incorporadas al expediente:",
+      "pagina_inicio": 4,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005882_2022-07-27_blk_0014",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Auto 9186 del 21 de septiembre de 2020",
+      "texto": "Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 me El ambiente Minambiente RS www.anla.gov.co Email: licencias@anla.gov.co Página 5 de 7 Auto No. 05882 Del 27 de julio de 2022 Hoja No. 6 de 7 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 5,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_005882_2022-07-27_blk_0017",
+      "numeral": "6",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Acta 302 del 19 de julio de 2021, soportada por los hallazgos del Concepto técnico de seguimiento 04128 del 19 de julio de 2021.",
+      "texto": "En mérito de lo expuesto, esta Autoridad DISPONE ARTÍCULO PRIMERO. Ordenar el inicio de un procedimiento sancionatorio ambiental en contra de la sociedad Petróleos Sudamericanos Energy Sucursal Colombia identificada con NIT: 900.495.129-1, en su condición de titular de la Resolución Nº 1249 del 28 de junio de 2019, por medio de la cual se otorgó Licencia Ambiental para el proyecto denominado “Área Adicionada del Bloque El Difícil - AABD”, por los hechos relacionados en la parte motiva de este acto administrativo. PARÁGRAFO: El expediente SAN0043-00-2022, estará a disposición del investigado y de cualquier persona que así lo requiera, en los términos del artículo 36 de la Ley 1437 de 2011. ARTÍCULO SEGUNDO. Incorpórese como pruebas de la presente actuación las relacionadas en el acápite “VI. Incorporación de pruebas” de la parte motiva de este acto administrativo. ARTÍCULO TERCERO. Notificar el presente Auto a Petróleos Sudamericanos Energy Sucursal Colombia identificada con NIT: 900.495.129-1 a través de apoderado debidamente constituido, de haberse conferido mandato en la presente actuación sancionatoria, o en su defecto, por intermedio de representante legal, de acuerdo con los artículos 67 y 69 de la Ley 1437 de 2011 - Código de Procedimiento Administrativo y de lo Contencioso Administrativo. PARÁGRAFO. Si la investigada entra en proceso de disolución o régimen de insolvencia empresarial o liquidación regulados por las normas vigentes, deberá informar inmediatamente esta situación a la ANLA, con fundamento en los artículos 8, 58, 79, 80, 81, 95 numeral 8 de la Constitución Política de 1991, en la Ley 43 de 1990, en la Ley 222 de 1995, en la Ley 1333 de 2009 y demás normas vigentes y jurisprudencia aplicable. Adicionalmente, deberá realizar la provisión contable respecto de esta obligación contingente, para lo cual deberá tener en cuenta lo dispuesto en el artículo 40 de la Ley 1333 de 2009. ARTÍCULO CUARTO. De acuerdo con lo establecido en el artículo 20 de la Ley 1333 de 2009, en concordancia con los artículos 69 y 70 de la Ley 99 de 1993, cualquier persona podrá intervenir en la presente actuación administrativa ambiental de carácter sancionatorio. ARTÍCULO QUINTO. Comunicar este Auto a la Procuraduría Delegada para Asuntos Ambientales y Agrarios, de conformidad con los artículos 21 y 56 inciso tercero de la Ley 1333 de 2009, para su conocimiento y fines pertinentes. ARTÍCULO SEXTO. Publicar el presente Auto en la Gaceta Ambiental de la Autoridad Nacional de Licencias Ambientales, de conformidad con lo establecido en el inciso segundo del artículo 70 de la Ley 99 de 1993. ARTÍCULO SÉPTIMO. Contra este auto de trámite no procede recurso alguno, de acuerdo con el artículo 75 de la Ley 1437 de 2011. NOTIFÍQUESE, COMUNÍQUESE, PUBLÍQUESE Y CÚMPLASE Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co Página 6 de 7 me El ambiente Minambiente RS Auto No. 05882 Del 27 de julio de 2022 Hoja No. 7 de 7 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Dado en Bogotá D.C., a los 27 de julio de 2022 [ DN N| AI YA YU [ UNOS ANA MARIA ORTEGON MENDEZ Coordinadora del Grupo de Actuaciones Sancionatorias Ambientales Ejecutores LAURA CATALINA PEÑA ROA Contratista Casatina Fera Revisor / L�der MAGDA BOLENA ROJAS BALLESTEROS Contratista Expediente No. SAN0043-00-2022 Concepto Técnico N° 08398 Fecha 24 diciembre de 2021 Proceso No.: 2022156816 Archívese en: SAN0043-00-2022 Plantilla_Auto_SILA_v3_42852 Nota: Este es un documento electrónico generado desde los Sistemas de Información de la ANLA. El original reposa en los archivos digitales de la Entidad. Oficinas: Carrera 13 A No. 34 – 72 Edificio 13 35 Pisos 8 al 11 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 – 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias@anla.gov.co a Y A NO e Página 7 de 7",
+      "pagina_inicio": 6,
+      "pagina_fin": 7,
+      "tablas_anidadas": []
+    }
+  ],
+  "tablas": [],
+  "metadata": {
+    "pipeline": "ANLA_parser_v5",
+    "id_estrategia": "determinista",
+    "fecha_procesamiento": "2026-05-22T16:47:11",
+    "total_bloques": 8,
+    "total_tablas": 0,
+    "elementos_procesados": 135,
+    "tipos_elemento": {
+      "Image": 13,
+      "FigureCaption": 1,
+      "UncategorizedText": 28,
+      "Title": 14,
+      "NarrativeText": 58,
+      "Header": 6,
+      "ListItem": 13,
+      "Footer": 2
+    },
+    "tablas_con_fallback_pdfplumber": 0
+  }
+}

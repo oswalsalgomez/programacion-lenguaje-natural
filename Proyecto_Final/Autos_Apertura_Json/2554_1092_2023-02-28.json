@@ -1,19 +1,31 @@
 {
-  "id_documento": "4caa3a79-ffd2-44e2-bbcb-7918f4798f6f",
+  "id_documento": "AUTO_001092_2023-02-28",
   "filename": "2554_1092_2023-02-28.pdf",
   "tipo_documento": "AUTO",
   "numero_documento": "1092",
   "fecha_documento": "2023-02-28",
+  "fecha_ordinal": 20230228,
   "expediente_sancionatorio": "SAN0003-00-2023",
   "expediente_permisivo": "LAM3306",
   "empresa": "Erazo Valencia S.A.S",
-  "nit_investigado": null,
-  "proyecto": null,
+  "nit_investigado": "860.514.604-5",
+  "proyecto": "Área de Perforación Exploratoria Bloque Palma",
   "municipio": "Morales",
-  "ubicacion": null,
+  "municipios": [
+    "Morales"
+  ],
+  "ubicacion": "Morales",
+  "materias": [
+    "obligaciones_seguimiento_ica",
+    "compensacion_inversion"
+  ],
+  "materias_score": {
+    "obligaciones_seguimiento_ica": 33,
+    "compensacion_inversion": 2
+  },
   "bloques": [
     {
-      "id": "3d5d1a7e-e2f3-47c8-8e99-37fad3a03124",
+      "id": "AUTO_001092_2023-02-28_blk_0000",
       "numeral": "INTRO",
       "tipo_numeral": "intro",
       "nivel": 0,
@@ -24,7 +36,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "90f648f9-3f1c-4a29-8bf4-798669d0f303",
+      "id": "AUTO_001092_2023-02-28_blk_0001",
       "numeral": "CONSIDERANDO",
       "tipo_numeral": "considerando",
       "nivel": 0,
@@ -35,7 +47,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "6f158272-ccaa-4aa0-b8aa-aa1f685509c1",
+      "id": "AUTO_001092_2023-02-28_blk_0002",
       "numeral": "SEC_I",
       "tipo_numeral": "seccion",
       "nivel": 1,
@@ -46,7 +58,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "6ee50f21-3db3-4232-893c-cafe093bf68c",
+      "id": "AUTO_001092_2023-02-28_blk_0003",
       "numeral": "SEC_II",
       "tipo_numeral": "seccion",
       "nivel": 1,
@@ -57,7 +69,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "12dc55c0-48d8-47b7-a513-e313e1ae9503",
+      "id": "AUTO_001092_2023-02-28_blk_0006",
       "numeral": "2.3",
       "tipo_numeral": "subnumeral",
       "nivel": 2,
@@ -68,7 +80,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "d3d7a9a4-3c98-4173-97e9-ea83e9486b8f",
+      "id": "AUTO_001092_2023-02-28_blk_0013",
       "numeral": "2.10",
       "tipo_numeral": "subnumeral",
       "nivel": 2,
@@ -79,7 +91,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "5cab4d79-2127-4a17-a5b2-9acfc2eaa04a",
+      "id": "AUTO_001092_2023-02-28_blk_0014",
       "numeral": "2.11",
       "tipo_numeral": "subnumeral",
       "nivel": 2,
@@ -90,7 +102,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "1c624c33-6e18-46d2-bc80-1ece075cef60",
+      "id": "AUTO_001092_2023-02-28_blk_0015",
       "numeral": "SEC_III",
       "tipo_numeral": "seccion",
       "nivel": 1,
@@ -101,7 +113,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "c0cd6f2f-1e5a-47d2-8aca-cfa9dc48bfcd",
+      "id": "AUTO_001092_2023-02-28_blk_0016",
       "numeral": "ART_TERCERO",
       "tipo_numeral": "articulo_ordinal",
       "nivel": 1,
@@ -112,7 +124,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "c2a09880-c1d3-49b9-a03b-9d2019e55fbc",
+      "id": "AUTO_001092_2023-02-28_blk_0017",
       "numeral": "2",
       "tipo_numeral": "simple",
       "nivel": 1,
@@ -123,7 +135,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "cd8c1b57-7531-487c-937b-f2502232fda0",
+      "id": "AUTO_001092_2023-02-28_blk_0018",
       "numeral": "3",
       "tipo_numeral": "simple",
       "nivel": 1,
@@ -134,7 +146,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "d20e10a0-9240-4268-a4cb-f5748074b72d",
+      "id": "AUTO_001092_2023-02-28_blk_0019",
       "numeral": "2",
       "tipo_numeral": "simple",
       "nivel": 1,
@@ -145,7 +157,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "72c17591-5572-4d6d-9d57-4fa28ce2ea45",
+      "id": "AUTO_001092_2023-02-28_blk_0021",
       "numeral": "c",
       "tipo_numeral": "literal",
       "nivel": 2,
@@ -156,7 +168,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "49b85b45-d178-4ee3-8680-84c14d2f9076",
+      "id": "AUTO_001092_2023-02-28_blk_0024",
       "numeral": "2.4",
       "tipo_numeral": "subnumeral",
       "nivel": 2,
@@ -167,7 +179,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "6c65abe8-d6cd-4c26-94c6-2b174ab5d99d",
+      "id": "AUTO_001092_2023-02-28_blk_0025",
       "numeral": "2.5",
       "tipo_numeral": "subnumeral",
       "nivel": 2,
@@ -178,7 +190,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "175c2c9c-daf0-4f7a-9a98-d0e9db3050a0",
+      "id": "AUTO_001092_2023-02-28_blk_0026",
       "numeral": "2.6",
       "tipo_numeral": "subnumeral",
       "nivel": 2,
@@ -189,7 +201,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "19caadd7-fcfc-4d5b-8559-c2f141a6c1d3",
+      "id": "AUTO_001092_2023-02-28_blk_0028",
       "numeral": "5",
       "tipo_numeral": "simple",
       "nivel": 1,
@@ -200,7 +212,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "9c60d5b0-8f82-4ccb-8d04-7b7395f62ff7",
+      "id": "AUTO_001092_2023-02-28_blk_0029",
       "numeral": "3",
       "tipo_numeral": "simple",
       "nivel": 1,
@@ -211,7 +223,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "7e464226-36f6-4f40-a069-323b77149afc",
+      "id": "AUTO_001092_2023-02-28_blk_0030",
       "numeral": "SEC_IV",
       "tipo_numeral": "seccion",
       "nivel": 1,
@@ -222,7 +234,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "b875f7ee-8def-4044-8667-fb767ded740e",
+      "id": "AUTO_001092_2023-02-28_blk_0031",
       "numeral": "v",
       "tipo_numeral": "literal",
       "nivel": 2,
@@ -233,7 +245,7 @@
       "tablas_anidadas": []
     },
     {
-      "id": "c33d4a70-cda3-4a36-b80e-0fad3edba9fc",
+      "id": "AUTO_001092_2023-02-28_blk_0032",
       "numeral": "DISPONE",
       "tipo_numeral": "dispone",
       "nivel": 0,
@@ -246,8 +258,9 @@
   ],
   "tablas": [],
   "metadata": {
-    "pipeline": "ANLA_parser_v4",
-    "fecha_procesamiento": "2026-05-12T21:40:55",
+    "pipeline": "ANLA_parser_v5",
+    "id_estrategia": "determinista",
+    "fecha_procesamiento": "2026-05-22T18:34:24",
     "total_bloques": 21,
     "total_tablas": 0,
     "elementos_procesados": 202,

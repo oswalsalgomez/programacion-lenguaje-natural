@@ -1,0 +1,1065 @@
+{
+  "id_documento": "AUTO_000183_2024-01-18",
+  "filename": "2896_183_2024-01-18.pdf",
+  "tipo_documento": "AUTO",
+  "numero_documento": "183",
+  "fecha_documento": "2024-01-18",
+  "fecha_ordinal": 20240118,
+  "expediente_sancionatorio": "SAN0210-00-2023",
+  "expediente_permisivo": "LAM5353",
+  "empresa": "Carrao Energy S.A",
+  "nit_investigado": "860.352.419-2",
+  "proyecto": "Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM2",
+  "municipio": "Gamarra",
+  "municipios": [
+    "Gamarra",
+    "Oficinas"
+  ],
+  "ubicacion": "Gamarra, Oficinas",
+  "materias": [
+    "obligaciones_seguimiento_ica",
+    "compensacion_inversion"
+  ],
+  "materias_score": {
+    "obligaciones_seguimiento_ica": 111,
+    "compensacion_inversion": 1
+  },
+  "bloques": [
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0000",
+      "numeral": "INTRO",
+      "tipo_numeral": "intro",
+      "nivel": 0,
+      "titulo": "ENCABEZADO Y PROEMIO",
+      "texto": "Libertad y Orden República de Colombia Ministerio de Ambiente y Desarrollo Sostenible AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES - ANLA — AUTO N* 000183 (18 ENE. 2024) (18 ENE. 2024) “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” La Coordinadora del Grupo de Actuaciones Sancionatorias Ambientales adscrita a la Oficina Asesora Jurídica de la Autoridad Nacional de Licencias Ambientales — ANLA En uso de las facultades legales establecidas en la Ley 99 de 1993, en la Ley 1333 de 2009, así como de las conferidas por el Decreto Ley 3573 de 2011, modificado por el Decreto 376 de 2020 y de acuerdo con las funciones asignadas en la Resolución No. 2814 del 4 de diciembre de 20231 y el artículo séptimo de la Resolución No. 2829 del 5 de diciembre de 2023*, y",
+      "pagina_inicio": 1,
+      "pagina_fin": 1,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0001",
+      "numeral": "CONSIDERANDO",
+      "tipo_numeral": "considerando",
+      "nivel": 0,
+      "titulo": "CONSIDERANDO",
+      "texto": "La Constitución Política de Colombia establece el derecho de todas las personas a gozar de un ambiente sano y el deber del Estado de proteger su diversidad e integridad (artículo 79), planificando “(...) el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución”, además de “(...) prevenir y controlar los factores de deterioro ambiental, imponer las sanciones legales y exigir la reparación de los daños causados” (artículo 80). De igual manera, la Carta Política señala como obligación del Estado y de las personas, el proteger las riquezas culturales y naturales de la Nación (artículo 8 C.N.), los recursos culturales y naturales del país y velar por la conservación de un ambiente sano (numeral 8 del artículo 95 C.N.), y determina que “(...) la propiedad es una función social que implica obligaciones. Como tal, le es inherente una función ecológica” (artículo 58 C.N.). Por otro lado, la Ley 1333 del 21 de julio de 2009 “Por la cual se establece el procedimiento sancionatorio ambiental y se dictan otras disposiciones”, contempla la titularidad de la potestad sancionatoria ambiental en el Estado a través de las autoridades ambientales de acuerdo con sus respectivas competencias, y define en su artículo 5% como infracción ambiental “(...) toda acción u omisión que constituya violación de las normas contenidas en el Código de Recursos Naturales Renovables, Decreto-ley 2811 de 1974, en la Ley 99 de 1993, en la Ley 165 de 1994 y en las demás disposiciones ambientales vigentes en que las sustituyan o modifiquen y en los actos 1 Por la cual se crean los Grupos Internos de Trabajo de la ANLA, se asignan sus funciones y se dictan otras disposiciones. 2 Por la cual se designan Coordinadores de los Grupos Internos de Trabajo de la ANLA, creados mediante la Resolución No. 2814 del 4 de diciembre de 2023. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 1 de 34 Página 1 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 2 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” administrativos emanados de la autoridad ambiental competente. Será también constitutivo de infracción ambiental la comisión de un daño al medio ambiente, con las mismas condiciones que para configurar la responsabilidad civil extracontractual establece el Código Civil y la legislación complementaria, a saber: El daño, el hecho generador con culpa o dolo y el vínculo causal entre los dos. Cuando estos elementos se configuren darán lugar a una sanción administrativa ambiental, sin perjuicio de la responsabilidad que para terceros pueda generar el hecho en materia civil”. Por medio del Decreto Ley 3573 del 27 de septiembre de 2011, se creó la Autoridad Nacional de Licencias Ambientales, en adelante ANLA, como una Unidad Administrativa Especial del orden nacional, con autonomía administrativa y financiera, sin personería jurídica, adscrita al Ministerio de Ambiente y Desarrollo Sostenible, en adelante MADS; y se le asignó, entre otras, la función de otorgar o negar las licencias, permisos y trámites ambientales de competencia del MADS, así como la de adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, conforme lo dispuesto en la Ley 1333 del 21 de julio de 2009.",
+      "pagina_inicio": 1,
+      "pagina_fin": 2,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0002",
+      "numeral": "SEC_I",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Competencia",
+      "texto": "La ANLA es competente para iniciar, adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, teniendo en cuenta que es la autoridad facultada para otorgar y efectuar seguimiento al instrumento ambiental del presente proyecto. Dicha facultad le fue transferida del MADS, de acuerdo con la desconcentración administrativa prevista en los numerales 1, 2 y 7 del artículo tercero del Decreto Ley 3573 del 27 de septiembre de 2011, en concordancia con lo contemplado en el artículo segundo de la Ley 1333 del 21 de julio de 2009. Por tal motivo, la ANLA es competente para el ejercicio de la potestad sancionatoria ambiental que pueda derivarse de los hechos verificados en el marco del seguimiento a la licencia ambiental otorgada mediante la Resolución No. 406 del 30 de mayo de 2012, para el proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM2”, localizado en jurisdicción de los municipios de Gamarra, Aguachica y Río de Oro en el departamento del César. En relación con el procedimiento sancionatorio ambiental, en el artículo décimo de la Resolución No. 2814 del 4 de diciembre de 2023 expedida por la Dirección General de la ANLA, se asignaron como funciones al Grupo de Actuaciones Sancionatorias Ambientales, entre otras, las siguientes: “3. Adelantar oportunamente las indagaciones preliminares, investigaciones y/o actuaciones sancionatorias en contra de las personas naturales o jurídicas, (...). 4. (...) suscribir con oportunidad los actos administrativos de ¡impulso y preparatorios, comunicaciones y oficios propios de la actuación preliminar, investigativa y sancionatoria, los de reconocimiento de terceros intervinientes de conformidad con lo establecido en el artículo 28 de la Ley 1333 de 2009, así como resolver recursos de reposición contra los autos que niegan pruebas y, las demás actividades administrativas que deban surtirse con ocasión del ejercicio de la potestad sancionatoria ambiental”.",
+      "pagina_inicio": 2,
+      "pagina_fin": 2,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0003",
+      "numeral": "SEC_II",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Antecedentes",
+      "texto": "Expediente permisivo LAM5353 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 2 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 3 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” La ANLA, por medio de la Resolución No. 406 del 30 de mayo de 2012, le otorgó licencia ambiental a la entonces sociedad Vetra Exploración y Producción S.A.S., identificada con el NIT No. 860.352.419-2, para el proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM2”, localizado en jurisdicción de los municipios de Gamarra, Aguachica y Río de Oro en el departamento del César, dentro de las coordenadas allí relacionadas. A su vez, tomó otras determinaciones. Lo anterior con fundamento en la evaluación efectuada en el Concepto Técnico No. 703 del 8 de mayo de 2012. A través de la Resolución No. 1052 del 17 de octubre de 2013, esta Autoridad Ambiental autorizó la cesión total de los derechos y las obligaciones originadas y derivadas de la licencia ambiental otorgada mediante la Resolución No. 406 del 30 de mayo de 2012, a favor de la entonces empresa Exxonmobil Exploration Colombia Limited, identificada con el NIT No. 830.146.410-5. Por medio del Auto No. 519 del 12 de febrero de 2015, la ANLA efectuó seguimiento y control ambiental al proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM2”. Requirió los resultados de los monitoreos de los cortes de perforación del pozo Mono Araña 1, en cumplimiento de lo establecido en la Ficha 8. Manejo de Residuos Sólidos y Especiales del Plan de Manejo Ambiental para el Bloque Exploratorio VMM2, y en los numerales 10 y 11 del artículo noveno de la Resolución No. 406 del 30 de mayo de 2012. Además, adoptó otras disposiciones. Lo anterior teniendo en cuenta la evaluación realizada en el Concepto Técnico No. 11575 del 15 de octubre de 2014. Después, a través de la Resolución No. 1353 del 11 de noviembre de 2016, esta Autoridad Ambiental autorizó la cesión total de los derechos y obligaciones derivadas de la licencia ambiental otorgada mediante la Resolución No. 406 del 30 de mayo de 2012, a favor de la entonces sociedad Canacol Energy Colombia S.A., identificada con el NIT No. 830.095.563-3. Luego, la ANLA, por medio del Auto No. 3473 del 27 de junio de 2018, efectuó seguimiento y control ambiental al proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM2”. Realizó unos requerimientos relacionados con los hechos primero, segundo y tercero objeto de esta investigación?. Asimismo, tomó otras determinaciones. Lo anterior a partir de la evaluación realizada en el Concepto Técnico No. 6235 del 6 de diciembre de 2017. Esta Autoridad Ambiental, mediante la Resolución No. 377 del 15 de marzo de 2019, autorizó la cesión total de los derechos y obligaciones originadas y derivadas de la licencia ambiental otorgada a través de la Resolución No. 406 del 30 de mayo de 2012, a favor de la sociedad Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3. Con posterioridad, a través del Auto No. 3211 del 20 de mayo de 2019, la ANLA efectuó seguimiento y control ambiental al proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM2”. Realizó unos requerimientos relacionados con 3 Ver acápite ///. Caso concreto. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 3 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 4 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” los hechos primero y segundo objeto de esta investigación*. De igual manera, adoptó otras disposiciones. Lo anterior con fundamento en la evaluación realizada en el Concepto Técnico No. 5978 del 5 de octubre de 2018. Más adelante, en el Acta de reunión de control y seguimiento ambiental No. 292 del 11 de septiembre de 2020, expedida teniendo en cuenta los hallazgos evidenciados en el Concepto Técnico No. 5442 del 31 de agosto de 2020, esta Autoridad Ambiental realizó unos requerimientos relacionados con los hechos primero, segundo y tercero objeto de esta investigación?. En el Acta de reunión de control y seguimiento ambiental No. 337 del 30 de julio de 2021, expedida a partir de la evaluación efectuada en el Concepto Técnico No. 4339 del 26 de julio de 2021, la ANLA realizó unos requerimientos relacionados con los hechos primero, segundo y tercero objeto de esta investigación*, Por otro lado, esta Autoridad Ambiental, por medio de la Resolución No. 1478 del 24 de agosto de 2021, no aceptó el acogimiento al porcentaje incremental de la base de liquidación de la inversión forzosa de no menos del 1% de conformidad con lo señalado en el artículo 321 del Plan Nacional de Desarrollo — PND (Ley 1955 del 25 de mayo de 2019), presentado por la sociedad Carrao Energy S.A. Sucursal Colombia, para el proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 - VMM2”, localizado en jurisdicción de los Municipios de Aguachica, Río de Oro y Gamarra en el departamento del Cesar; y tomó otras determinaciones con relación a la inversión forzosa de no menos del 1%. Lo anterior con fundamento en los hallazgos evidenciados en el Concepto Técnico No. 4339 del 26 de julio de 2021. Mediante el Acta de reunión de control y seguimiento ambiental No. 984 del 19 de diciembre de 2022, para la cual se tuvo en cuenta la evaluación realizada en el Concepto Técnico No. 7960 del 19 de diciembre de 2022, la ANLA reiteró el cumplimiento de unos requerimientos relacionados con los hechos primero, tercero y cuarto objeto de esta investigación”. En el Acta de reunión de control y seguimiento ambiental No. 580 del 4 de septiembre de 2023, expedida a partir de la evaluación efectuada en el Concepto Técnico No. 5512 del 31 de agosto de 2023, esta Autoridad Ambiental reiteró el cumplimiento de unos requerimientos relacionados con los hechos primero, tercero y cuarto objeto de esta investigación*. Expediente sancionatorio SAN0210-00-2023",
+      "pagina_inicio": 2,
+      "pagina_fin": 4,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0004",
+      "numeral": "2.13",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "Como consecuencia del seguimiento documental realizado por el Grupo de Medio Magdalena — Cauca — Catatumbo de la Subdirección de Seguimiento de",
+      "texto": "4 Ibidem. 5 Ibidem. 6 Ibidem. 7 Ibidem. 8 Ibidem. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 4 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 5 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Licencias Ambientales de la ANLA, se expidió el Concepto Técnico No. 8226 del 28 de diciembre de 2022, el cual fue remitido al Grupo de Actuaciones Sancionatorias Ambientales de la Oficina Asesora Jurídica de la ANLA, a través del memorando interno No. 20234305013783 del 5 de junio de 2023. Ill Caso concreto Los hechos por los cuales se ordenará el inicio de esta actuación contra las sociedades Vetra Exploración y Producción Colombia S.A.S., identificada con el NIT No. 860.352.419- 2, Exxonmobil Exploration Colombia Limited, identificada con el NIT No. 830.146.410-5, Canacol Energy Colombia S.A.S., identificada con el NIT No. 830.095.563-3 y Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3; tienen su origen en el seguimiento documental efectuado en el Concepto Técnico No. 8226 del 28 de diciembre de 2022, y se circunscribe a lo siguiente:",
+      "pagina_inicio": 4,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0007",
+      "numeral": "HECHO_TERCERO",
+      "tipo_numeral": "hecho",
+      "nivel": 1,
+      "titulo": "No presentar el Informe de Cumplimiento Ambiental correspondiente al periodo comprendido del 1 de julio al 31 diciembre de 2014. Lo anterior generó el presunto incumplimiento de lo establecido en el artículo vigésimo segundo de la Resolución No. 406 del 30 de mayo de 2012; así como lo contemplado en la Resolución No. 77 del 16 de enero de 2019, modificada por la Resolución No. 549 del 26 de junio de 2020, actos administrativos expedidos por el MADS, en lo relacionado con la periodicidad para la presentación de los Informes de Cumplimiento Ambiental.",
+      "texto": "Hecho cuarto: No iniciar la ejecución del Plan de inversión forzosa de no menos del 1%. Lo anterior ocasionó el presunto incumplimiento de lo establecido en el artículo séptimo de la Resolución No. 1478 del 24 de agosto de 2021. Para comenzar, la ANLA, por medio de la Resolución No. 406 del 30 de mayo de 2012, le otorgó licencia ambiental a la entonces sociedad Vetra Exploración y Producción S.A.S., identificada con el NIT No. 860.352.419-2, para el proyecto denominado “Bloque Exploratorio Valle Medio del Magdalena 2 -— VMMM2”, localizado en jurisdicción de los municipios de Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 5 de 34 Página 5 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 6 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Gamarra, Aguachica y Río de Oro en el departamento del César, dentro de las coordenadas allí señaladas. Con posterioridad, mediante la Resolución No. 1052 del 17 de octubre de 2013, esta Autoridad Ambiental autorizó la cesión total de los derechos y las obligaciones originadas y derivadas de la licencia ambiental otorgada a través de la Resolución No. 406 del 30 de mayo de 2012, a favor de la entonces empresa Exxonmobil Exploration Colombia Limited, identificada con el NIT No. 830.146.410-5. Luego, por medio de la Resolución No. 1353 del 11 de noviembre de 2016, la ANLA autorizó la cesión total de los derechos y obligaciones derivadas de la licencia ambiental otorgada mediante la Resolución No. 406 del 30 de mayo de 2012, a favor de la entonces sociedad Canacol Energy Colombia S.A., identificada con el NIT No. 830.095.563-3. Más adelante, esta Autoridad Ambiental, a través de la Resolución No. 377 del 15 de marzo de 2019, autorizó la cesión total de los derechos y obligaciones originadas y derivadas de la licencia ambiental otorgada por medio de la Resolución No. 406 del 30 de mayo de 2012, a favor de la sociedad Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3. Este acto administrativo quedó ejecutoriado el 17 de abril de 2019. Los hechos mencionados con anterioridad se desarrollarán de la siguiente la manera:",
+      "pagina_inicio": 5,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0008",
+      "numeral": "3.1",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "Hecho primero",
+      "texto": "En la Resolución No. 406 del 30 de mayo de 2012, la ANLA dispuso, entre otras cosas, lo siguiente: 4(...) ARTÍCULO NOVENO.- Autorizar a la sociedad VETRA EXPLORACIÓN Y PRODUCCIÓN S.A.S. el manejo y disposición final de los residuos sólidos domésticos e industriales, generados durante el desarrollo del proyecto “BLOQUE EXPLORATORIO VALLE MEDIO DEL MAGDALENA 2 — VMMM?2”, así: (..) Obligaciones: (..)",
+      "pagina_inicio": 6,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0010",
+      "numeral": "11",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "En los Informes de Cumplimiento Ambiental — ICA, reportar el volumen de cortes de perforación y/o residuos tratados, la cantidad de insumos utilizados para su estabilización, la ubicación georreferenciada del área donde fueron dispuestos y los resultados del monitoreo de todos los cortes y/o residuos tratados y dispuestos. Se deberá asegurar la inocuidad de los cortes de perforación de manera previa a su disposición final, comparando la concentración de algunos elementos con los límites establecidos por la normatividad existente para residuos",
+      "texto": "72 Edificio 13 35 Pisos 8 al 10 Oficinas: Carrera 13 A No. 34",
+      "pagina_inicio": 6,
+      "pagina_fin": 6,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0011",
+      "numeral": "d",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "C.",
+      "texto": "— Bogotá, Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 6 de 34 Página 6 de 34 35 No. 000183 Del 18 ENE. 2024 Hoja No. 7 de Auto. 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” peligrosos, realizando el análisis de lixiviados de acuerdo con el Decreto 4741 del 30 de diciembre de 2005; ademés, la disposición final de tales residuos solo podrá hacerse si la mezcla residuo/suelo cumple con los parámetros estipulados por la norma Louisiana 29B. (..) ARTÍCULO DÉCIMO SEGUNDO.- Aprobar a la empresa VETRA EXPLORACIÓN Y PRODUCCIÓN S.A.S. las medidas de manejo presentadas en el Estudio de Impacto Ambiental — ElA, a ser desarrolladas durante las etapas del proyecto “BLOQUE EXPLORATORIO VALLE MEDIO DEL MAGADALENA 2 - VMM2”, como se indica a continuación: ” (Negrilla del texto original). Por lo anterior, con fundamento en la evaluación efectuada en el Concepto Técnico No. 11575 del 15 de octubre de 2014, esta Autoridad Ambiental expidió el Auto No. 519 del 12 de febrero de 2015, acto administrativo en el cual determinó, entre otras cosas: 4(...) ARTÍCULO SEGUNDO: EXXONMOBILE EXPLORATION COLOMBIA LIMITED deberá allegar una vez ejecutoriado el presente acto administrativo, la siguiente información: (..)",
+      "pagina_inicio": 6,
+      "pagina_fin": 7,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_000",
+          "seccion": "d",
+          "titulo": "C.",
+          "markdown": "| ('PROGRAMA', 'Unnamed: 0_level_1')   | ('Unnamed: 1_level_0', 'Unnamed: 1_level_1')   | ('FICHA', 'MEDIO ABIÓTICO')                             | ('APLICA', 'SI |')   |\n|:-------------------------------------|:-----------------------------------------------|:--------------------------------------------------------|:---------------------|\n|                                      | 6 |                                            | Manejo de Residuos Líquidos Manejo de Residuos Líquidos |                      |\n| Manejo del Suelo                     | 7                                              | (-..)                                                   | A                    |\n| Manejo del Suelo                     | y                                              | Manejo de Residuos Sólidos y Especiales                 | 57                   |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 3,
+            "columnas": 4
+          },
+          "pagina": 7
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0012",
+      "numeral": "e",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Resultados de los monitoreos de los cortes de perforación del pozo Mono Araña 1, en cumplimiento de lo establecido en la Ficha 8. Manejo de Residuos Sólidos y Especiales del PMA para el Bloque VMM2 y del numeral 10 y 11 del Artículo Noveno de la Resolución 406 del 30 de mayo de 2012.",
+      "texto": "(...)” (Negrilla del texto original). Con posterioridad, teniendo en cuenta los hallazgos evidenciados en el Concepto Técnico No. 6235 del 6 de diciembre de 2017, la ANLA expidió el Auto No. 3473 del 27 de junio de 2018, acto administrativo en el cual decidió, entre otras cosas: 4(...) ARTÍCULO CUARTO. Requerir a la sociedad CANACOL ENERGY COLOMBIA S.A., para que en el plazo de tres (3) meses, contados a partir de la ejecutoria de este acto administrativo, presente la siguiente documentación: (..) Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 7 de 34 35 000183 Del 18 ENE. 2024 Hoja No. Auto. No. 8 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 7,
+      "pagina_fin": 8,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0013",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Informe con los resultados de monitoreos de cortes de perforación de todos los pozos perforados en las locaciones PAD 1 y PAD 2 con el análisis respectivo, y reportar el volumen de cortes de perforación y/o residuos tratados, la cantidad de insumos utilizados para su estabilización, la ubicación georreferenciada del área donde fueron dispuestos y los resultados del monitoreo de todos los cortes y/o residuos tratados y dispuestos en cumplimiento a lo establecido en la Ficha 6. Manejo de residuos líquidos y Ficha 8. Manejo de residuos sólidos y especiales, así como de las Obligaciones 10 y 11 del Artículo Noveno de la Resolución 406 del 30 de mayo de 2012, así como las acciones desarrolladas con los cortes del pozo Mono Araña 5 en relación con el contenido de hidrocarburos.",
+      "texto": "(...)” (Negrilla del texto original). Después, a partir de la evaluación efectuada en el Concepto Técnico No. 5978 del 5 de octubre de 2018, esta Autoridad Ambiental expidió el Auto No. 3211 del 20 de mayo de 2019, acto administrativo en el cual resolvió, entre otras cosas: 4(...) ARTÍCULO PRIMERO. Reiterar a la sociedad CANACOL ENERGY COLOMBIA S.A.?, para que al día siguiente de la ejecutoria del presente acto administrativo presente los soportes documentales que permitan evidenciar el cumplimiento a las siguientes obligaciones solicitadas en la Resolución 406 del 30 de mayo de 2012 y el Plan de Manejo Ambiental: (..)",
+      "pagina_inicio": 8,
+      "pagina_fin": 8,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0014",
+      "numeral": "11",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Informe con los resultados de monitoreos de cortes de perforación de todos los pozos perforados en las locaciones PAD 1 y PAD 2 con el análisis respectivo, y reportar el volumen de cortes de perforación y/o residuos tratados, la cantidad de insumos utilizados para su estabilización, la ubicación georreferenciada del área donde fueron dispuestos y los resultados del monitoreo de todos los cortes y/o residuos tratados y dispuestos en cumplimiento a lo establecido en el numeral 10* del Artículo Noveno de la Resolución 406 del 30 de mayo de 2012, Ficha 8. Manejo de residuos sólidos y especiales, obligación solicitada por el Numeral 6* del Artículo Primero del Auto 5071 del 19 de noviembre de 2015 y numeral 3\" del artículo cuarto del Auto 03473 del 27 de junio de 2018.",
+      "texto": "(...)” (Negrilla del texto original). Por otro lado, con fundamento en los hallazgos evidenciados en el Concepto Técnico No. 5442 del 31 de agosto de 2020, en el Acta de reunión de control y seguimiento ambiental No. 292 del 11 de septiembre de 2020, la ANLA le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otros, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 8,
+      "pagina_fin": 8,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0015",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES, ARGUMENTOS POR PARTE DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL Y DECISIÓN SOBRE EL REQUERIMIENTO DEFINITIVO.",
+      "texto": "2 Como la Resolución No. 377 del 15 de marzo de 2019 quedó ejecutoriada el 17 de abril de 2019, estos requerimientos están dirigidos a la sociedad Carrao Energy S.A. Sucursal Colombia. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 8 de 34 35 000183 Del 18 ENE. 2024 Hoja Auto. No. 000183 No. 9 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Reiterar a la sociedad CARRAO ENERGY S.A. SUCURSAL COLOMBIA, el cumplimiento de las obligaciones y medidas ambientales en los términos establecidos en el instrumento de control y manejo ambiental y demás actos administrativos del proyecto “Bloque de Perforación Exploratoria Valle Medio del Magdalena VMM-2”, listados a continuación: (...) REQUERIMIENTO No. 6 Presentar el Informe con los resultados de | N/A monitoreos de cortes de perforación de todos los pozos perforados en las locaciones PAD1 y PAD2 con el análisis respectivo, y reportar el volumen de cortes de perforación y/o residuos tratados, la cantidad de insumos utilizados para su estabilización, la ubicación georreferenciada del área donde fueron dispuestos y los resultados del monitoreo de todos los cortes y/o residuos tratados y dispuestos así como las acciones desarrolladas con los cortes del pozo Mono Araña 5 en relación con el contenido de hidrocarburos, en cumplimiento de lo establecido en la Ficha 6. Manejo de residuos líquidos y Ficha 8. Manejo de residuos sólidos y especiales, de las obligaciones 10 y 11 del artículo noveno de la Resolución 406 del 30 de mayo de 2012, numeral 3 del artículo cuarto del Auto 3473 del 27 de junio de 2018 y numeral 11 del artículo primero del Auto 3211 del 20 de mayo de 2019. (...)” (Negrilla del texto original). De igual manera, teniendo en cuenta la evaluación realizada en el Concepto Técnico No. 4339 del 26 de julio de 2021, en el Acta de reunión de control y seguimiento ambiental No. 337 del 30 de julio de 2021, esta Autoridad Ambiental le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otros, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 8,
+      "pagina_fin": 9,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_001",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "| 0        | 1                                                    | 2                                                 | 3                        |\n|:---------|:-----------------------------------------------------|:--------------------------------------------------|:-------------------------|\n| Concepto | REQUERIMIENTO Técnico 05442 del 31 de agosto de 2020 | DEL TITULAR DEL INSTRUMENTO DE | MANEJO Y CONTROL | REQUERIMIENTO DEFINITIVO |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 1,
+            "columnas": 4
+          },
+          "pagina": 9
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0016",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES Y OPORTUNIDAD PARA PRESENTAR OBSERVACIONES POR PARTE DEL TITULAR DEL INSTRUMENTO DE MANEJO SOBRE LOS MISMOS.",
+      "texto": "Previo a dar lectura de los requerimientos, se aclara a Sociedad que la presente reunión corresponde al resultado de la revisión y análisis de información documental obrante en el Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 9 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 10 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” expediente LAM5353, con corte al 30 de junio de 2021 y lo observado en la visita de seguimiento guiada realizada el día 28 de junio de 2021. (..) REQUERIMIENTOS REITERADOS Reiterar a CARRAO ENERGY S.A SUCURSAL COLOMBIA, el cumplimiento de las siguientes obligaciones y medidas ambientales establecidas en el instrumento de control y manejo ambiental y demás actos administrativos del proyecto: \"Área de Perforación Exploratoria Bloque Valle Medio Magdalena 2-VMM2”: (..) y requerimiento Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 10 de 34 Página 10 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 11 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (...)” (Negrilla del texto original). Asimismo, a partir de los hallazgos evidenciados en el Concepto Técnico No. 7960 del 19 de diciembre de 2022, en el Acta de reunión de control y seguimiento ambiental No. 984 del 19 de diciembre de 2022, la ANLA le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otros, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 9,
+      "pagina_fin": 11,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_002",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+          "markdown": "| REQUERIMIENTO No. 2 Concepto Técnico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL              | REQUERIMIENTO ORIGINAL / SE MODIFICA EL REQUERIMIENTO          |\n|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:---------------------------------------------------------------|\n| resultados de monitoreos de | cortes de perforación de | todos los pozos perforados en el periodo 2012-2016 en las locaciones PAD1 y PAD2 con el análisis respectivo, y reportar el volumen de cortes de perforación y/o residuos tratados, la cantidad de insumos utilizados para su estabilización, la ubicación georreferenciada del área donde fueron dispuestos y los resultados del monitoreo de todos los cortes y/o residuos tratados y dispuestos, así como las acciones desarrolladas con los cortes del pozo Mono Araña 5 en relación con el contenido de hidrocarburos, en cumplimiento de la Ficha 6. Manejo de residuos líquidos y Ficha 8. Manejo de residuos sólidos y especiales, los numerales 10 y 11 del artículo noveno de la Resolución 406 del 30 de mayo de 2012, del numeral 3 del artículo cuarto del Auto 3473 del 27 de junio de 2018, del numeral 11 del artículo primero del Auto | entiende el requerimiento y | dará respuesta al mismo. | mantiene en los términos y literalidad inicialmente expuestas. |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 1,
+            "columnas": 3
+          },
+          "pagina": 10
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_003",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+          "markdown": "| 0   | 1     | 2          | 3   |\n|:----|:------|:-----------|:----|\n| del | 11 de | septiembre | de  |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 1,
+            "columnas": 4
+          },
+          "pagina": 11
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0017",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES, ARGUMENTOS POR PARTE DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL Y DECISIÓN SOBRE EL REQUERIMIENTO DEFINITIVO.",
+      "texto": "Previo a dar lectura de los requerimientos, se aclara al titular del instrumento de manejo y control ambiental, que la presente diligencia corresponde a la verificación de los aspectos referentes al proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMM2”, en su fase de operación. Para tal efecto, se tuvo en cuenta la información documental presentada por el titular del instrumento de manejo y control ambiental que reposa en el expediente LAM5353 con corte documental al 31 de octubre de 2022 y lo observado durante la visita de seguimiento guiada realizada el 8 de noviembre de 2022. REQUERIMIENTOS REITERADOS Reiterar a la sociedad CARRAO ENERGY S.A SUCURSAL COLOMBIA actual titular del instrumento de manejo y control otorgado mediante la Resolución 406 del 30 de mayo de 2012, el cumplimiento de las siguientes obligaciones y/o requerimientos establecidos en los actos administrativos que se enuncian a continuación: (..) Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 11 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 12 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” del 30 de julio de 2021. (...)” (Negrilla del texto original). Del mismo modo, con fundamento en la evaluación realizada en el Concepto Técnico No. 5512 del 31 de agosto de 2023, en el Acta de reunión de control y seguimiento ambiental No. 580 del 4 de septiembre de 2023, esta Autoridad Ambiental le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otras cosas, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 11,
+      "pagina_fin": 12,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_004",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "| ('REQUERIMIENTO No. 3 Concepto Técnico Presentar el Informe con los', 'REQUERIMIENTO No. 3 Concepto Técnico Presentar el Informe con los')   | ('TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL', '| La sociedad manifiesta que')   | ('Requerimiento definitivo.', 'mantiene')   | ('Requerimiento definitivo.', 'el')   |\n|:---------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------------------------------------|:--------------------------------------|\n| resultados de monitoreos de                                                                                                                  | | no tiene observaciones al                                                                 | requerimiento                               | como                                  |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 1,
+            "columnas": 4
+          },
+          "pagina": 11
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_005",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "| 0                                                      |\n|:-------------------------------------------------------|\n| a. El volumen de cortes de                             |\n| perforación y/o residuos tratados.                     |\n| b. La cantidad de insumos                              |\n| utilizados para su estabilización.                     |\n| C. La ubicación                                        |\n| georreferenciada del área                              |\n| donde fueron dispuestos.                               |\n| d. Las acciones desarrolladas                          |\n| los cortes del Mono                                    |\n| con pozo                                               |\n| Araña 5 en relación con el contenido de hidrocarburos. |\n| Lo anterior en cumplimiento                            |\n| de la Ficha 6. Manejo de residuos líquidos y Ficha 8.  |\n| especiales, los numerales 10                           |\n| y 11 del artículo noveno de la                         |\n| Resolución 406 del 30 de                               |\n| mayo de 2012, del numeral 3                            |\n| del artículo cuarto del Auto                           |\n| 3473 del 27 de junio de 2018,                          |\n| del numeral 11 del artículo                            |\n| primero del Auto 3211 del 20                           |\n| de mayo de 2019, del                                   |\n| requerimiento 6 del acta de                            |\n| seguimiento y control 292 del                          |\n| 11 de septiembre de 2020 y                             |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 25,
+            "columnas": 1
+          },
+          "pagina": 12
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0018",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES Y OPORTUNIDAD DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL PARA PRESENTAR OBSERVACIONES O SOLICITAR ACLARACIONES A LOS REQUERIMIENTOS RECOMENDADOS EN EL CONCEPTO TÉCNICO DE SEGUIMIENTO. Y 4. PRONUNCIAMIENTO DE LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES Y ESTABLECIMIENTO DE REQUERIMIENTOS DEFINITIVOS.",
+      "texto": "72 Edificio 13 35 Pisos 8 al 10 Oficinas: Carrera 13 A No. 34",
+      "pagina_inicio": 12,
+      "pagina_fin": 12,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0019",
+      "numeral": "d",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "C.",
+      "texto": "— Bogotá, Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 12 de 34 Página 12 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 13 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” REQUERIMIENTOS REITERADOS Reiterar a la Sociedad CARRAO ENERGY S.A. SUCURSAL COLOMBIA., titular del instrumento de manejo ambiental otorgado mediante la Resolución 406 del 30 de mayo de 2012, el cumplimiento de las siguientes obligaciones y/o requerimientos establecidos en los actos administrativos que se enuncian a continuación: primero del Auto 3211 del 20 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Página 13 de 34 Email: licencias(anla.gov.co Página 13 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja Hoja No. 14 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (...)” (Negrilla del texto original). En consecuencia, se concluye que las sociedades Vetra Exploración y Producción Colombia S.A.S., identificada con el NIT No. 860.352.419-2, Exxonmobil Exploration Colombia Limited, identificada con el NIT No. 830.146.410-5, Canacol Energy Colombia S.A.S., identificada con el NIT No. 830.095.563-3 y Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3, presuntamente incumplieron las obligaciones establecidas en el artículo décimo segundo de la Resolución No. 406 del 30 de mayo de 2012 y lo indicado en las Ficha 6. Manejo de residuos líquidos y Ficha 8. Manejo de residuos sólidos y especiales, aprobadas en el artículo décimo segundo del mismo acto administrativo. Lo anterior dado que, no se ha presentado el informe con los resultados de monitoreos de cortes de perforación de los pozos perforados en las locaciones PAD1 y PAD2 durante el periodo comprendido del 2012 al 2017, con el análisis respectivo, ni se reportó: el volumen de cortes de perforación y/o residuos tratados; la cantidad de insumos utilizados para su estabilización; la ubicación georreferenciada del área donde fueron dispuestos; las acciones desarrolladas con los cortes del pozo Mono Araña 5 en relación con el contenido de hidrocarburos. Para lo concerniente a la condición de lugar, en el Concepto Técnico No. 8226 del 28 de diciembre de 2022, se señaló: 4(...) A continuación, se presenta las coordenadas de ubicación en superficie de los pozos mencionados, cabe resaltar que estos pozos y demás infraestructura petrolera construida en la etapa exploratoria paso a ser parte del Campo de Explotación Mono Araña el cual es objeto de seguimiento mediante el expediente LAV0O023-00-2016. Tabla. Ubicación de pozos perforados en el proyecto BPE VMM2 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 14 de 34 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 15 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Fuente. Adaptado por el equipo de seguimiento ambiental con base en el concepto técnico 7960 del 19 de diciembre de 2022 (...)” (Negrilla del texto original).",
+      "pagina_inicio": 12,
+      "pagina_fin": 15,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_006",
+          "seccion": "d",
+          "titulo": "C.",
+          "markdown": "| REQUERIMIENTO                                           | ARGUMENTACION DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL   | Requerimiento definitivo.                      |\n|:--------------------------------------------------------|:--------------------------------------------------------------------------|:-----------------------------------------------|\n| REQUERIMIENTO 2.                                        | La sociedad manifestó que entienden y acepta el                           | El requerimiento se mantiene en los términos y |\n| a. El volumen de cortes de                              |                                                                           |                                                |\n| perforación y/o residuos tratados.                      |                                                                           |                                                |\n| b. La cantidad de insumos                               |                                                                           |                                                |\n| utilizados para su                                      |                                                                           |                                                |\n| estabilización.                                         |                                                                           |                                                |\n| La ubicación                                            |                                                                           |                                                |\n| C georreferenciada del área                             |                                                                           |                                                |\n| d. Las acciones desarrolladas                           |                                                                           |                                                |\n| con los cortes del pozo Mono                            |                                                                           |                                                |\n| contenido de hidrocarburos. Lo anterior en cumplimiento |                                                                           |                                                |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 11,
+            "columnas": 3
+          },
+          "pagina": 13
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_007",
+          "seccion": "d",
+          "titulo": "C.",
+          "markdown": "```\nde mayo de 2019, del requerimiento 6 del acta de seguimiento y control 292 del 11 de septiembre de 2020, del requerimiento 2 del Acta 337 del 30 de julio de 2021 y del requerimiento 3 del Acta 984 del 19 de diciembre de 2022.\n```",
+          "fuente": "preformateado",
+          "dimensiones": {},
+          "pagina": 14
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_008",
+          "seccion": "d",
+          "titulo": "C.",
+          "markdown": "| ('| Infraestructu ra', '| Infraestructu ra')   | ('Fecha de o pertoració', 'Fecha de o pertoració')   | ('Coordenadas Magna . : : Sirgas Origen Bogotá', 'Este')   | ('Coordenadas Magna . : : Sirgas Origen Bogotá', 'Norte')   | ('Coordenadas Magna - : A Sirgas Origen Unico Nacional', 'Este')   | ('Coordenadas Magna - : A Sirgas Origen Unico Nacional', 'Norte')   |\n|:-----------------------------------------------|:-----------------------------------------------------|:-----------------------------------------------------------|:------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|\n| Pozo Mono | Araña 1                            | Septiemb re 2012 -— | enero 2013                     | 1050487,5 20                                               | | 1391126,5 90                                              | | 4931656. 64                                                      | | 2456716. 49                                                       |\n| Pozo Mono Araña 11                             | | 129190 | 2015                                      | 1050328,5 0                                                | | 1391134,9 | 0                                             | 4931632. 18                                                        | | 2456721. 45                                                       |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 2,
+            "columnas": 6
+          },
+          "pagina": 14
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_009",
+          "seccion": "d",
+          "titulo": "C.",
+          "markdown": "| Unnamed: 0   | Pozo Mono Araña 2             | Diciembr | e 2013 — enero 2014     | | 1050482,0 96   | | 1391097,0 82   | | 4931785. 46   | | 2456683. 18   |\n|:-------------|:------------------------------|:-----------------------------------|:-----------------|:-----------------|:----------------|:----------------|\n|              | Araña 5                       | Enero 2014                         |                  | 704              | 12              | 74              |\n| PAD 2        | Pozo MONO Araña 9! (antes 1?) | | rparzo aprizora                  | —|1050522,3 | 3  | | 1391077,2 5    | | 4931794. 68   | | 2456732. 31   |\n| PAD 2        | Pozo Mono Capuchino           | Octubre | 2016 -—| abril de | 2017 | 10250471, 65     | | 13911153 3     | | 4931771. 11   | | 2456701. 49   |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 3,
+            "columnas": 7
+          },
+          "pagina": 15
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0020",
+      "numeral": "3.2",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "Hecho segundo",
+      "texto": "Mediante la Resolución No. 406 del 30 de mayo de 2012, la ANLA dispuso, entre otras cosas: 4(...) ARTÍCULO VIGÉSIMO.- Acoger el programa de seguimiento y monitoreo presentado por la empresa VETRA EXPLORACIÓN Y PRODUCCION S.A.S. en el ElA:",
+      "pagina_inicio": 15,
+      "pagina_fin": 15,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_010",
+          "seccion": "3.2",
+          "titulo": "Hecho segundo",
+          "markdown": "| PROGRAMA       | FICHA   | ELEMENTO              |\n|:---------------|:--------|:----------------------|\n|                | (..)    | (.)                   |\n| SEGUIMIENTO AL | SM-2    | - Aguas subterráneas. |\n| MEDIO ABIÓTICO |         |                       |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 3,
+            "columnas": 3
+          },
+          "pagina": 15
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0021",
+      "numeral": "2",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Respecto al Programa de Seguimiento y Monitoreo, adicionalmente se deberá dar cumplimiento a lo que se establece a continuación:",
+      "texto": "(..)",
+      "pagina_inicio": 15,
+      "pagina_fin": 15,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0022",
+      "numeral": "2.2",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "En relación con la Ficha SM-2. Aguas Subterráneas, en el área del Bloque se deberán instalar piezómetros con el fin de realizar monitoreos, tal como se señala a continuación:",
+      "texto": "2.2.1 Instalar 10 piezómetros en el área de las locaciones donde se ubiquen los sistemas de tratamiento de aguas residuales, tanques de almacenamiento de crudo, lubricantes y combustibles. Dichos piezómetros deberán contar con una profundidad entre 5 y 10 metros dependiendo de la profundidad a la que se encuentre la tabla de agua de la zona a monitorear; se deberá garantizar la no entrada de aguas lluvias y/o aguas de escorrentía contaminadas o de otras sustancias a dichos piezómetros. 2..2.2 En dicha red de piezómetros y en los pozos de agua subterránea que aquí se autorizan, se deberán realizar monitoreos trimestrales de la calidad fisicoquímica y bacteriológica del agua (el primer monitoreo debe realizarse antes de iniciar la actividad autorizada Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Página 15 de 34 Email: licencias(anla.gov.co Página 15 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 16 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” correspondiente), incluyendo los siguientes parámetros: Temperatura, pH, conductividad, alcalinidad, dureza, bicarbonatos, oxígeno disuelto, DBO, DQO, sólidos suspendidos, disueltos y totales, fósforo total, nitrógeno total, nitratos, calcio, magnesio, sodio, hierro, potasio, cloruros, sulfatos, grasas y aceites, hidrocarburos totales, fenoles, arsénico, mercurio, hierro, bario, cadmio, cromo total, plomo, vanadio, níquel, zinc, coliformes fecales y totales. 2..2.3 Los piezómetros deberán estar instalados con anterioridad al inicio de las actividades que se realicen en las locaciones y/o instalaciones industriales, por lo que el primer monitoreo debe realizarse antes de iniciar la actividad autorizada correspondiente. 2..2.3 Adicionalmente se deberán instalar no menos de 4 piezómetros en cada campo de aspersión de aguas residuales que se implemente, cantidad que dependerá del área dedicada al vertimiento mediante aspersión, teniendo en cuenta que el número de piezómetros a instalar en las zonas de aspersión deberá garantizar la obtención de información representativa del área de influencia de la actividad. 2.2.4 En estos piezómetros se deberán hacer monitoreos fisicoquímicos de los siguientes parámetros: pH, color, turbidez, dureza, alcalinidad, conductividad, DBO, DQO, fosfatos, sulfatos, grasas y aceites, hidrocarburos totales, HAP, cloruros, fenoles, arsénico, mercurio, hierro, bario, cadmio, cromo, plomo, níquel, zinc y vanadio. 2..2.5 Los monitoreos de los piezómetros de los campos de aspersión deben realizarse con frecuencia mensual; los piezómetros deberán estar instalados con anterioridad al inicio de la aspersión, por lo que el primer monitoreo debe realizarse antes de iniciar la actividad de aspersión. (...)” (Negrilla del texto original). En virtud de lo expuesto, teniendo en cuenta la evaluación efectuada en el Concepto Técnico No. 6235 del 6 de diciembre de 2017, esta Autoridad Ambiental expidió el Auto No. 3473 del 27 de junio de 2018, acto administrativo en el cual determinó, entre otras cosas: 4(...) ARTÍCULO QUINTO. Requerir a la sociedad CANACOL ENERGY COLOMBIA S.A., para que en el próximo Informe de Cumplimiento Ambiental - ICA, presente la siguiente documentación:",
+      "pagina_inicio": 15,
+      "pagina_fin": 16,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0023",
+      "numeral": "1",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Soportes de la implementación de la red de piezómetros en el área de las locaciones PAD 1 y PAD 2 y los resultados de los monitoreos trimestrales de las aguas subterráneas en el área de intervención del Bloque Exploratorio VMM2, en cumplimiento de lo establecido en el numeral 2.2 del Artículo Vigésimo de la Resolución 406 del 30 de mayo de 2012 y de lo propuesto en la Ficha SM-2. Aguas Subterráneas.",
+      "texto": "(...)” (Negrilla del texto original). Con posterioridad, a partir de la evaluación efectuada en el Concepto Técnico No. 5978 del 5 de octubre de 2018, la ANLA expidió el Auto No. 3211 del 20 de mayo de 2019, en el cual decidió, entre otras cosas: 4(...) Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 16 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 17 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” ARTÍCULO PRIMERO. Reiterar a la sociedad CANACOL ENERGY COLOMBIA S.A. *, para que al día siguiente de la ejecutoria del presente acto administrativo presente los soportes documentales que permitan evidenciar el cumplimiento a las siguientes obligaciones solicitadas en la Resolución 406 del 30 de mayo de 2012 y el Plan de Manejo Ambiental: (..)",
+      "pagina_inicio": 16,
+      "pagina_fin": 17,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0024",
+      "numeral": "14",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Soportes de la implementación de la red de piezómetros en el área de las locaciones PAD 1 y PAD 2 y los resultados de los monitoreos trimestrales de las aguas subterráneas en el área de intervención del Bloque Exploratorio VMM2, en cumplimiento de lo establecido en el numeral 2.2 del Artículo Vigésimo de la Resolución 406 del 30 de mayo de 2012 y de lo propuesto en la Ficha SM-2. Aguas Subterráneas y solicitado en el numeral 1* del Artículo Quinto del Auto 03473 del 27 de junio de 2018.",
+      "texto": "(...)” (Negrilla del texto original). Luego, con fundamento en los hallazgos evidenciados en el Concepto Técnico No. 5442 del 31 de agosto de 2020, en el Acta de reunión de control y seguimiento ambiental No. 292 del 11 de septiembre de 2020, esta Autoridad Ambiental le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otras cosas, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 17,
+      "pagina_fin": 17,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0025",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES, ARGUMENTOS POR PARTE DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL Y DECISIÓN SOBRE EL REQUERIMIENTO DEFINITIVO.",
+      "texto": "Reiterar a la sociedad CARRAO ENERGY S.A. SUCURSAL COLOMBIA, el cumplimiento de las obligaciones y medidas ambientales en los términos establecidos en el instrumento de control y manejo ambiental y demás actos administrativos del proyecto “Bloque de Perforación Exploratoria Valle Medio del Magdalena VMM-2”, listados a continuación: 10 Como sociedad la Resolución No. 377 del 15 de marzo de 2019 quedó ejecutoriada el 17 de abril de 2019, estos requerimientos están dirigidos a Carrao Energy S.A. Sucursal Colombia. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 17 de 34 35 la 000183 Del 18 ENE. 2024 Hoja No. Auto. No. 18 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (...)” (Negrilla del texto original). Del mismo modo, teniendo en cuenta la evaluación efectuada en el Concepto Técnico No. 4339 del 26 de julio de 2021, en el Acta de reunión de control y seguimiento ambiental No. 337 d el 30 de julio de 2021, la ANLA le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otras cosas, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 17,
+      "pagina_fin": 18,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_011",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "| 0        | 1                                           | 2                                                 | 3                        |\n|:---------|:--------------------------------------------|:--------------------------------------------------|:-------------------------|\n| Concepto | REQUERIMIENTO A Téenico ss del 31 de agosto | DEL TITULAR DEL INSTRUMENTO DE | MANEJO Y CONTROL | REQUERIMIENTO DEFINITIVO |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 1,
+            "columnas": 4
+          },
+          "pagina": 17
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_012",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "```\n(...) REQUERIMIENTO No. 7 Presentar los soportes de la implementación | N/A de la red de piezómetros en el área de las locaciones PAD1 y PADZ2 y los resultados de los monitoreos trimestrales de las aguas subterráneas en el área de intervención del Bloque Exploratorio VMM2, en cumplimiento de lo establecido en el numeral 2.2 del artículo vigésimo de la Resolución 406 del 30 de mayo de 2012 y de lo propuesto en la Ficha SM-2.\n```",
+          "fuente": "preformateado",
+          "dimensiones": {},
+          "pagina": 17
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_013",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "| 0                                                   |\n|:----------------------------------------------------|\n| Aguas Subterráneas, del Auto 3473 del 27 de de 2018 |\n| quinto junio                                        |\n| el numeral 14 del artículo primero del Auto         |\n| 3211 del 20 de mayo de 2019.                        |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 4,
+            "columnas": 1
+          },
+          "pagina": 18
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0026",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES Y OPORTUNIDAD PARA PRESENTAR OBSERVACIONES POR PARTE DEL TITULAR DEL INSTRUMENTO DE MANEJO SOBRE LOS MISMOS.",
+      "texto": "Previo a dar lectura de los requerimientos, se aclara a Sociedad que la presente reunión corresponde al resultado de la revisión y análisis de información documental obrante en el expediente LAM5353, con corte al 30 de junio de 2021 y lo observado en la visita de seguimiento guiada realizada el día 28 de junio de 2021. (..) REQUERIMIENTOS REITERADOS Reiterar a CARRAO ENERGY S.A SUCURSAL COLOMBIA, el cumplimiento de las siguientes obligaciones y medidas ambientales establecidas en el instrumento de control y manejo ambiental y demás actos administrativos del proyecto: \"Área de Perforación Exploratoria Bloque Valle Medio Magdalena 2-VMM2”: Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 18 de 34 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 19 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (...)” (Negrilla del texto original). Por ende, se concluye que las sociedades Vetra Exploración y Producción Colombia S.A.S., identificada con el NIT No. 860.352.419-2, Exxonmobil Exploration Colombia Limited, identificada con el NIT No. 830.146.410-5, Canacol Energy Colombia S.A.S., identificada con el NIT No. 830.095.563-3 y Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3, presuntamente incumplieron lo contemplado en el numeral 2.2 del artículo vigésimo de la Resolución No. 406 del 30 de mayo de 2012 y lo establecido en la Ficha SM-2. Aguas subterráneas. Lo anterior debido a que, no se instaló la red de 10 piezómetros en el área de las locaciones PAD 1 y PAD 2 que permitieran realizar monitoreos de aguas subterráneas, dentro del periodo comprendido del 2012 al 2017. En lo que respecta a la condición de lugar, en el Concepto Técnico No. 8226 del 28 de diciembre de 2022, se indicó que correspondía a las locaciones PAD 1 y PAD 2, construidas en el proyecto Bloque Exploratorio Valle Medio del Magdalena 2: Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 19 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja Hoja No. 20 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Fuente. SDE 13279 del 11 de julio de 2019 (y",
+      "pagina_inicio": 18,
+      "pagina_fin": 20,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_014",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+          "markdown": "```\nOBSERVACIONES DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL ORIGINAL / SE MODIFICA AMBIENTAL EL REQUERIMIENTO Presentar los soportes de la | La Sociedad manifiesta que | El requerimiento se implementación de la red de | entiende el requerimiento y | mantiene en los términos y piezómetros en el área de las | dará respuesta al mismo. literalidad inicialmente locaciones PAD1 y PAD2 y expuestas. los resultados de los monitoreos trimestrales de las aguas subterráneas en el área de intervención del Bloque Exploratorio WMM2, para el periodo 2014 — 2016. En cumplimiento del numeral SE MANTIENE EL REQUERIMIENTO No. 3 REQUERIMIENTO Concepto Técnico\n```",
+          "fuente": "preformateado",
+          "dimensiones": {},
+          "pagina": 18
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_015",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+          "markdown": "| Resolución 406 del 30 de       |\n|:-------------------------------|\n| mayo de 2012 y la Ficha SM-    |\n| 2. Aguas Subterráneas, del     |\n| numeral 1 del artículo quinto  |\n| del Auto 3473 del 27 de junio  |\n| de 2018, del numeral 14 del    |\n| artículo primero del Auto      |\n| 3211 del 20 de mayo de 2019    |\n| y del requerimiento 7 del acta |\n| de seguimiento y control 292   |\n| del 11 de septiembre de        |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 10,
+            "columnas": 1
+          },
+          "pagina": 19
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0027",
+      "numeral": "3.3",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "Hecho tercero",
+      "texto": "Por medio de la Resolución No. 406 del 30 de mayo de 2012, esta Autoridad Ambiental resolvió, entre otras cosas: 4(...) ARTÍCULO VIGÉSIMO SEGUNDO.- La empresa VETRA EXPLORACIÓN Y PRODUCCIÓN COLOMBIA S.A.S., deberá realizar un seguimiento ambiental permanente, con el fin de supervisar las actividades y verificar el cumplimiento de las obligaciones y compromisos señalados en los Estudios Ambientales presentados, Planes de Manejo Ambiental y en el presente acto administrativo. Deberá presentar Informes de Cumplimiento Ambiental — ICA semestrales, en papel y medio magnético, de acuerdo con el Apéndice 1 del “Manual de Seguimiento Ambiental para Proyectos de MMA — SECAB, 2002, en los que se presente en forma detallada las actividades ejecutadas durante ese período de tiempo. Los Informes de Cumplimiento Ambiental — ICA deberán contener, entre otros aspectos, análisis comparativos de los impactos ambientales previstos y los que se han presentado en la ejecución del proyecto; dificultades presentadas en la aplicación de las medidas de manejo ambiental y las medidas adoptadas para superarlas, de conformidad con lo estipulado por esta Autoridad, en el Manual de seguimiento ambiental de proyectos (formatos del apéndice 2 del - Cap. 2); presentando indicadores de cumplimiento y eficacia de las medidas, incluyendo los análisis de resultados y conclusiones, comparados con la línea base presentada en el Estudio de Impacto Ambiental y el Plan de Manejo Ambiental, para cada uno de los componentes físico, biótico y social. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(anla.gov.co Página 20 de 34 No. 000183 Del 18 ENE. 2024 Hoja No. 21 Auto. de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Así mismo, deberá allegar en el primer Informe de Cumplimiento Ambiental — ICA el ajuste de los porcentajes de cobertura de uso actual y los conflictos de uso del suelo del proyecto “BLOQUE EXPLORATORIO VALLE MEDIO DEL MAGDALENA 2 -— VMM?2”. (...)” (Negrilla del texto original). Más adelante, con fundamento en la evaluación efectuada en el Concepto Técnico No. 6235 del 6 de diciembre de 2017, la ANLA expidió el Auto No. 3473 del 27 de junio de 2018, acto administrativo en el cual dispuso, entre otras cosas: 4(...) ARTÍCULO SEXTO. La sociedad CANACOL ENERGY COLOMBIA S.A., respecto al contenido y entrega de los Informes de Cumplimiento Ambiental ICA deberá dar cumplimiento al Artículo Vigésimo Segundo de la Resolución 406 del 30 de mayo de 2012, los cuales deberán entregarse para la totalidad del proyecto de forma semestral, tal y como lo establece la presente obligación. Dichos ICA deberán entregarse en los meses de enero y julio de cada año. PARÁGRAFO PRIMERO. La sociedad CANACOL ENERGY COLOMBIA S.A., deberá dar estricto cumplimiento a lo establecido en la Resolución 2182 de 2016 en relación con el modelo de almacenamiento geográfico para los próximos Informes de Cumplimiento Ambiental (ICA) a entregar, incluyendo los que están pendientes de entrega, correspondientes al segundo semestre de 2014 y al primer semestre de 2015. PARÁGRAFO SEGUNDO. En un plazo no mayor a tres (3) meses contados a partir de la ejecutoria del presente acto administrativo, la sociedad deberá remitir acorde con el Manual de Seguimiento Ambiental, lo siguiente: e Los ICA del APE VMM2 correspondientes al segundo semestre de 2014 y al primer semestre de 2015. Deberá registrar en el formato la, la totalidad de las fichas aprobadas por esta Autoridad, así como las correspondientes al seguimiento y monitoreo del componente social, con sus respectivos soportes documentales. (...)” (Negrilla del texto original y subrayado fuera del texto original). Por otra parte, teniendo los hallazgos evidenciados en el Concepto Técnico No. 5442 del 31 de agosto de 2020, en el Acta de reunión de control y seguimiento ambiental No. 292 del 11 de septiembre de 2020, esta Autoridad Ambiental le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otras cosas, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 20,
+      "pagina_fin": 21,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0028",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES, ARGUMENTOS POR PARTE DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL Y DECISIÓN SOBRE EL REQUERIMIENTO DEFINITIVO.",
+      "texto": "Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 21 de 34 Página 21 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 22 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” MANEJO Y CONTROL AMBIENTAL Reiterar a la sociedad CARRAO ENERGY S.A. SUCURSAL COLOMBIA, el cumplimiento de las obligaciones y medidas ambientales en los términos establecidos en el instrumento de control y manejo ambiental y demás actos administrativos del proyecto “Bloque de Perforación Exploratoria Valle Medio del Magdalena VMM-2”, listados a continuación: (...)” (Negrilla del texto original y subrayado fuera del texto original). También, a partir de la evaluación efectuada en el Concepto Técnico No. 4339 del 26 de julio de 2021, en el Acta de reunión de control y seguimiento ambiental No. 337 del 30 de julio de 2021, la ANLA le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otras cosas, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 21,
+      "pagina_fin": 22,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_016",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "| 0        | 1                                   | 2                | 3   | 4                                            | 5                        |\n|:---------|:------------------------------------|:-----------------|:----|:---------------------------------------------|:-------------------------|\n| Concepto | REQUERIMIENTO Técnico 05442 de 2020 | del 31 de agosto | |   | ARGUMENTACIÓN DEL TITULAR DEL INSTRUMENTO DE | REQUERIMIENTO DEFINITIVO |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 1,
+            "columnas": 6
+          },
+          "pagina": 21
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_017",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "| Unnamed: 0   | Presentar acorde con el Manual de | Seguimiento Ambiental, lo siguiente:                                                                                                                                                                                                                                                                                                                    |\n|:-------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| e e Lo del   | ICA del APE VMM2 correspondientes al segundo semestre de 2014 y al primer semestre de 2015. Registrar en el formato 1a, la totalidad de las fichas aprobadas por esta Autoridad, así como las correspondientes al seguimiento y monitoreo del componente social, con sus respectivos soportes documentales. anterior, en cumplimiento del artículo sexto Auto 3473 del 27 de junio de 2018. |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 1,
+            "columnas": 2
+          },
+          "pagina": 22
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0029",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES Y OPORTUNIDAD PARA PRESENTAR OBSERVACIONES POR PARTE DEL TITULAR DEL INSTRUMENTO DE MANEJO SOBRE LOS MISMOS.",
+      "texto": "Previo a dar lectura de los requerimientos, se aclara a Sociedad que la presente reunión corresponde al resultado de la revisión y análisis de información documental obrante en el expediente LAM5353, con corte al 30 de junio de 2021 y lo observado en la visita de seguimiento guiada realizada el día 28 de junio de 2021. (..) REQUERIMIENTOS REITERADOS Reiterar a CARRAO ENERGY S.A SUCURSAL COLOMBIA, el cumplimiento de las siguientes obligaciones y medidas ambientales establecidas en el instrumento de control y manejo ambiental y demás actos administrativos del proyecto: \"Área de Perforación Exploratoria Bloque Valle Medio Magdalena 2-VMM2”: Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 22 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 23 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (...)” (Negrilla del texto original y subrayado fuera de texto original). Igualmente, con fundamento en los hallazgos evidenciados el Concepto Técnico No. 7960 del 19 de diciembre de 2022, en el Acta de reunión de control y seguimiento ambiental No. 984 del 19 de diciembre de 2022, esta Autoridad Ambiental le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otras cosas, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 22,
+      "pagina_fin": 23,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_018",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+          "markdown": "| REQUERIMIENTO No. 4 Concepto Técnico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | OBSERVACIONES DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL                  | SE MANTIENE EL REQUERIMIENTO ORIGINAL / SE MODIFICA EL REQUERIMIENTO                  |\n|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|\n| (...) Presentar los Informes de Cumplimiento Ambiental - ICA correspondientes a los periodos julio - diciembre de 2014, enero - junio de 2015, julio - diciembre de 2018, enero - junio de 2019, julio - diciembre de 2019, en los términos de la Resolución 077 del 16 de enero de 20109, modificada por la Resolución 0549 del 26 de junio de 2020, en cumplimiento del artículo vigésimo segundo de la Resolución 406 del 30 de mayo de 2012, del artículo sexto del Auto 3473 del 27 de junio de 2018 y del requerimiento 8 y 9 del Acta | (...) La Sociedad manifiesta que entiende el requerimiento y dará respuesta al mismo. El | (...) requerimiento se mantiene en los términos y literalidad inicialmente expuestas. |\n| 292 del 11 de septiembre de 2020. (...)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | (...)                                                                                    | (...)                                                                                 |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 2,
+            "columnas": 3
+          },
+          "pagina": 23
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0030",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES, ARGUMENTOS POR PARTE DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL Y DECISIÓN SOBRE EL REQUERIMIENTO DEFINITIVO.",
+      "texto": "Previo a dar lectura de los requerimientos, se aclara al titular del instrumento de manejo y control ambiental, que la presente diligencia corresponde a la verificación de los aspectos referentes al proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMM2”, en su fase de operación. Para tal efecto, se tuvo en cuenta la información documental presentada por el titular del instrumento de manejo y control ambiental que reposa en el expediente LAM5353 con corte Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 23 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 24 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” documental al 31 de octubre de 2022 y lo observado durante la visita de seguimiento guiada realizada el 8 de noviembre de 2022. REQUERIMIENTOS REITERADOS Reiterar a la sociedad CARRAO ENERGY S.A SUCURSAL COLOMBIA actual titular del instrumento de manejo y control otorgado mediante la Resolución 406 del 30 de mayo de 2012, el cumplimiento de las siguientes obligaciones y/o requerimientos establecidos en los actos administrativos que se enuncian a continuación: ARGUMENTACION DEL Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Página 24 de 34 Email: licencias(anla.gov.co 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 25 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (...)” (Negrilla del texto original y subrayado del texto original). Recientemente, teniendo en cuenta la evaluación efectuada en el Concepto Técnico No. 5512 del 31 de agosto de 2023, en el Acta de reunión de control y seguimiento ambiental No. 580 del 4 de septiembre de 2023, la ANLA le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otras cosas, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 23,
+      "pagina_fin": 25,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_019",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "| REQUERIMIENTO No. 1 Concepto Técnico   | REQUERIMIENTO No. 1 Concepto Técnico.1             | REQUERIMIENTO No. 1 Concepto Técnico.2   | REQUERIMIENTO No. 1 Concepto Técnico.3   | INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL   | Requerimiento definitivo.   | Requerimiento definitivo..1   |\n|:---------------------------------------|:---------------------------------------------------|:-----------------------------------------|:-----------------------------------------|:--------------------------------------------|:----------------------------|:------------------------------|\n| Presentar                              | los Informes                                       |                                          | de                                       | La sociedad manifiesta que                  | Se mantiene                 | el                            |\n|                                        | Cumplimiento Ambiental                             |                                          | -                                        | no tiene observaciones al                   | requerimiento               | como                          |\n| ICA                                    | correspondientes a                                 |                                          | los                                      | requerimiento.                              | definitivo.                 |                               |\n| siguientes                             | periodos,                                          |                                          | de                                       |                                             |                             |                               |\n| conformidad                            | con                                                |                                          | la                                       |                                             |                             |                               |\n| Resolución                             | 077 del 16                                         |                                          | de                                       |                                             |                             |                               |\n| enero                                  | de 2019, modificada                                |                                          |                                          |                                             |                             |                               |\n| por la de junio                        | Resolución 549 del de 2020:                        |                                          | 26                                       |                                             |                             |                               |\n| e                                      | 1 de julio a diciembre de 2014,                    |                                          | 31                                       |                                             |                             |                               |\n| e                                      | junio de 2015, 1 de julio a 31                     |                                          | de                                       |                                             |                             |                               |\n| e                                      | diciembre de 2018, 1 de enero a 30                 |                                          | de                                       |                                             |                             |                               |\n| e e                                    | 1 de julio a 31 diciembre de 2019, 1 de enero a 30 |                                          | de de                                    |                                             |                             |                               |\n|                                        | junio de 2020 y 1 de julio a diciembre de 2020,    |                                          | 31                                       |                                             |                             |                               |\n| Lo a lo                                | anterior, en cumplimiento establecido en el        | artículo                                 |                                          |                                             |                             |                               |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 14,
+            "columnas": 7
+          },
+          "pagina": 24
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0031",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES Y OPORTUNIDAD DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL PARA PRESENTAR OBSERVACIONES O SOLICITAR ACLARACIONES A LOS REQUERIMIENTOS RECOMENDADOS EN EL CONCEPTO TÉCNICO DE SEGUIMIENTO. Y 4. PRONUNCIAMIENTO DE LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES Y ESTABLECIMIENTO DE REQUERIMIENTOS DEFINITIVOS.",
+      "texto": "REQUERIMIENTOS REITERADOS Reiterar a la Sociedad CARRAO ENERGY S.A. SUCURSAL COLOMBIA., titular del instrumento de manejo ambiental otorgado mediante la Resolución 406 del 30 de mayo de 2012, el cumplimiento de las siguientes obligaciones y/o requerimientos establecidos en los actos administrativos que se enuncian a continuación: Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 25 de 34 Página 25 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja Hoja No. 26 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (...)” (Negrilla del texto original y subrayado fuera del texto original). Por consiguiente, se concluye que las sociedades Exxonmobil Exploration Colombia Limited, identificada con el NIT No. 830.146.410-5, Canacol Energy Colombia S.A.S., identificada con el NIT No. 830.095.563-3 y Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3, presuntamente incumplieron lo establecido en el artículo vigésimo segundo de la Resolución No. 406 del 30 de mayo de 2012; así como lo contemplado en la Resolución No. 77 del 16 de enero de 2019, modificada por la Resolución No. 549 del 26 de junio de 2020, actos administrativos expedidos por el MADS, en lo relacionado con la periodicidad para la presentación de los Informes de Cumplimiento Ambiental. Lo anterior toda vez que, no se ha presentado el Informe de Cumplimiento Ambiental correspondiente al periodo comprendido del 1 de julio al 31 diciembre de 2014. En lo concerniente a la condición de lugar, en el Concepto Técnico No. 8226 del 28 de diciembre de 2022, se señaló que correspondía al “Área de influencia del proyecto “Bloque de perforación exploratoria VMM 2” la cual contempla las unidades territoriales mayores conformadas por los municipios de Gamarra, Aguachica y Río de Oro (Departamento de Cesar)”.",
+      "pagina_inicio": 25,
+      "pagina_fin": 26,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_020",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALE",
+          "markdown": "| YUE REQUERIMIENTO                                     | ARGUMENTACIÓN DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL   | Requerimiento definitivo.            |\n|:------------------------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------|\n| REQUERIMIENTO 6.                                      | La sociedad manifestó que, el ICA del                                     | Teniendo en cuenta las realizadas la |\n| Presentar los Informes de                             | primer semestre del 2015, se entregó                                      | precisiones por sociedad la ANLA, se |\n|                                                       |                                                                           | y por                                |\n| Cumplimiento Ambiental -                              | mediante radicado                                                         | ajusta el requerimiento el           |\n| ICA correspondiente a los periodos comprendidos entre | 2015064628-1-000 del 3 de diciembre de 2015.                              | cual quedará de la siguiente manera: |\n| el 1 de julio al 31 diciembre de 1 de al 30 de        | señaló                                                                    | Presentar el Informe de              |\n| 2014 y enero                                          | ANLA, por su parte                                                        |                                      |\n| junio de 2015, en                                     | que una vez verificado el                                                 | Cumplimiento Ambiental -             |\n| cumplimiento de lo                                    | radicado mencionado, es                                                   | ICA correspondiente al               |\n| establecido en el artículo                            | preciso retirar del                                                       | periodo comprendido entre            |\n| vigésimo segundo de la                                | requerimiento la                                                          | el 1 de julio al 31 diciembre        |\n| Resolución 406 del 30 de                              | presentación del ICA para el                                              | de 2014, en cumplimiento de          |\n| mayo de 2012, el artículo                             | periodo del primer semestre                                               | lo establecido en el artículo        |\n| sexto del Auto 3473 del 27 de                         | de 2015, toda vez que en el                                               | vigésimo segundo de la               |\n| junio de 2018, del                                    | radicado que la sociedad                                                  | Resolución 406 del 30 de             |\n| requerimiento 8 del Acta 292                          | indica, se remitió a esta                                                 | mayo de 2012, el artículo            |\n| del 11 de septiembre de                               | Autoridad el ICA (1 de enero                                              | sexto del Auto 3473 del 27           |\n| 2020, requerimiento 4 del                             | al 30 de junio de 2015); por                                              | de junio de 2018, del                |\n| Acta 337 del 30 de julio de                           | lo tanto, se ajustará el                                                  | requerimiento 8 del Acta 292         |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 19,
+            "columnas": 3
+          },
+          "pagina": 25
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_021",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALE",
+          "markdown": "| Cumplimiento 1 de julio al 31 de 2014.   | Ambiental del de diciembre   |\n|:-----------------------------------------|:-----------------------------|\n| anotación en                             | deja la presente             |\n| ICA del primer 2015.                     | correspondiente semestre de  |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 2,
+            "columnas": 2
+          },
+          "pagina": 26
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0032",
+      "numeral": "3.4",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "Hecho cuarto",
+      "texto": "Ahora bien, a través de la Resolución No. 1478 del 24 de agosto de 2021, esta Autoridad Ambiental no aceptó el acogimiento al porcentaje incremental de la base de liquidación de la inversión forzosa de no menos del 1% de conformidad con lo dispuesto en el artículo 321 del Plan Nacional de Desarrollo — PND (Ley 1955 del 25 de mayo de 2019), presentado por la sociedad Carrao Energy S.A. Sucursal Colombia!!, para el proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 - VMM2”, localizado en jurisdicción de los Municipios de Aguachica, Río de Oro y Gamarra en el departamento del Cesar; y tomó otras determinaciones con relación a la inversión forzosa de no menos del 1%. Lo anterior a partir de los hallazgos evidenciados en el Concepto Técnico No. 4339 del 26 de julio de 2021. El mencionado acto administrativo quedó ejecutoriado el 8 de septiembre de 2021. 11 Mediante el radicado No. 2021034941-1-000 del 1 de marzo de 2021. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 26 de 34 35 No. 000183 Del 18 ENE. 2024 Hoja No. 27 Auto. de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” De igual forma, en la Resolución No. 1478 del 24 de agosto de 2021, la ANLA determinó, entre otras cosas: 4(...) ARTÍCULO SÉPTIMO. Con base en lo establecido en el artículo 321 de la ley 1955 del 25 de mayo de 2019, la Sociedad deberá iniciar la ejecución del Plan de inversión forzosa de no menos del 1% en un término máximo de seis (6) meses contados a partir del día siguiente a la ejecutoria del presente acto administrativo. (...)” (Negrilla del texto original). Con fundamento en lo expuesto, la sociedad Carrao Energy S.A. Sucursal Colombia tenía hasta meno el 8 de marzo de 2022 para iniciar la ejecución del Plan de inversión forzosa de no s del 1%. Más adelante, teniendo en cuenta la evaluación efectuada en el Concepto Técnico No. 7960 del 19 de diciembre de 2022, en el Acta de reunión de control y seguimiento ambiental No. 984 del 19 de diciembre de 2022, esta Autoridad Ambiental le requirió a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otras cosas, lo siguiente: 4(...)",
+      "pagina_inicio": 26,
+      "pagina_fin": 27,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0033",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES, ARGUMENTOS POR PARTE DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL Y DECISIÓN SOBRE EL REQUERIMIENTO DEFINITIVO.",
+      "texto": "Previo a dar lectura de los requerimientos, se aclara al titular del instrumento de manejo y control ambiental, que la presente diligencia corresponde a la verificación de los aspectos referentes al proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMM2”, en su fase de operación. Para tal efecto, se tuvo en cuenta la información documental presentada por el titular del instrumento de manejo y control ambiental que reposa en el expediente LAM5353 con corte documental al 31 de octubre de 2022 y lo observado durante la visita de seguimiento guiada realizada el 8 de noviembre de 2022. (..) REQUERIMIENTOS PRODUCTO DEL SEGUIMIENTO Requerir a la sociedad CARRAO ENERGY S.A SUCURSAL COLOMBIA, para que en el término de tres (3) meses contados a partir de la ejecutoria del Acta de Reunión de Control y Seguimiento Ambiental, dé cumplimiento y/o ejecución a las siguientes obligaciones y presente a esta Autoridad Nacional, los respectivos soportes documentales: (..) REQUERIMIENTO No. 14 ARGUMENTACIÓN DEL Concepto Técnico TITULAR DEL Requerimiento definitivo. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 27 de 34 35 Auto. No. 000183 Hoja Del 18 ENE. 2024 No. 28 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (...)” (Negrilla del texto original). Después, con fundamento en los hallazgos evidenciados en el Concepto Técnico No. 5512 del 31 de agosto de 2023, en el Acta de reunión de control y seguimiento ambiental No. 580 del 4 de septiembre de 2023, la ANLA le reiteró a la sociedad Carrao Energy S.A. Sucursal Colombia, entre otras cosas, el siguiente requerimiento: 4(...)",
+      "pagina_inicio": 27,
+      "pagina_fin": 28,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_022",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+          "markdown": "| Unnamed: 0                  | Unnamed: 1   |\n|:----------------------------|:-------------|\n| séptimo de la               | Resolución   |\n| 1478 del 24 de agosto 2021. | de           |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 2,
+            "columnas": 2
+          },
+          "pagina": 28
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0034",
+      "numeral": "3",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES Y OPORTUNIDAD DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL PARA PRESENTAR OBSERVACIONES O SOLICITAR ACLARACIONES A LOS REQUERIMIENTOS RECOMENDADOS EN EL CONCEPTO TÉCNICO DE SEGUIMIENTO. Y 4. PRONUNCIAMIENTO DE LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES Y ESTABLECIMIENTO DE REQUERIMIENTOS DEFINITIVOS.",
+      "texto": "REQUERIMIENTOS REITERADOS Reiterar a la Sociedad CARRAO ENERGY S.A. SUCURSAL COLOMBIA., titular del instrumento de manejo ambiental otorgado mediante la Resolución 406 del 30 de mayo de 2012, el cumplimiento de las siguientes obligaciones y/o requerimientos establecidos en los actos administrativos que se enuncian a continuación: Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Página 28 de 34 Email: licencias(anla.gov.co 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 29 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” (...)” (Negrilla del texto original). Así las cosas, se concluye que la sociedad Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3, presuntamente incumplió lo establecido en el artículo séptimo de la Resolución No. 1478 del 24 de agosto de 2021, puesto que, no inició la ejecución del Plan de inversión forzosa de no menos del 1%. En lo que respecta a la condición de lugar, en el Concepto Técnico No. 8226 del 28 de diciembre de 2022, se señaló que correspondía a la “Cuenca hidrográfica de las quebradas Guaduas y Buturama y caño Peralonso, ámbito geográfico de la Inversión forzosa de no menos del 1%”.",
+      "pagina_inicio": 28,
+      "pagina_fin": 29,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_000183_2024-01-18_tab_023",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALE",
+          "markdown": "| ('REQUERIMIENTO mo.', 'REQUERIMIENTO mo.')   | ('TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL', '(...)')   | ('TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL', 'Unnamed: 2_level_1')   | ('Requerimiento', '(...)')   | ('definitivo.', 'Unnamed: 4_level_1')   |\n|:---------------------------------------------|:---------------------------------------------------------------------|:----------------------------------------------------------------------------------|:-----------------------------|:----------------------------------------|\n| REQUERIMIENTO 4.                             | La sociedad                                                          | acepta el                                                                         | |El                          | requerimiento se                        |\n|                                              | requerimiento                                                        | en los                                                                            | mantiene en                  | los términos y                          |\n| soportes inicio de la ejecución del Plan     | expuestos ANLA.                                                      | por                                                                               | expuestas.                   |                                         |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 3,
+            "columnas": 5
+          },
+          "pagina": 28
+        },
+        {
+          "id": "AUTO_000183_2024-01-18_tab_024",
+          "seccion": "3",
+          "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALE",
+          "markdown": "| 0                          |\n|:---------------------------|\n| mayo de 2019, en           |\n| cumplimiento del artículo  |\n| séptimo de la Resolución   |\n| 1478 del 24 de agosto de   |\n| 2021 y el requerimiento 14 |\n| del Acta 984 del 19 de     |\n| diciembre de 2022.         |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 7,
+            "columnas": 1
+          },
+          "pagina": 29
+        }
+      ]
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0035",
+      "numeral": "SEC_IV",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Incumplimiento a los actos administrativos",
+      "texto": "De acuerdo con lo anterior, se considera que existe mérito suficiente para establecer la probable existencia de conductas constitutivas de infracción ambiental, sin que se considere necesaria la etapa de indagación preliminar prevista en el artículo 17 de la Ley 1333 de 2009, mediante el auto de apertura de investigación.",
+      "pagina_inicio": 29,
+      "pagina_fin": 29,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0036",
+      "numeral": "v",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Incorporación de documentos",
+      "texto": "En virtud de lo dispuesto en el artículo 22 de la Ley 1333 del 2009, según el cual para la verificación de los hechos, la autoridad ambiental competente podrá realizar todo tipo de diligencias administrativas y todas aquellas actuaciones que estime necesarias y pertinentes para determinar con certeza los hechos constitutivos de infracción, serán incorporados los elementos de prueba obrantes hasta el momento en el expediente, los cuales serán apreciados en su conjunto con las pruebas recaudadas durante el trámite sancionatorio y en la oportunidad procesal pertinente. Lo anterior, conforme a los criterios de la conducencia, pertinencia y necesidad, calificados para demostrar la configuración o no del hecho objeto de estudio, ya que aportan la información necesaria e idónea para que esta Autoridad Ambiental llegue al pleno convencimiento de la ocurrencia o no de la conducta materia de investigación. A continuación, se relacionan las pruebas fundamento del inicio del procedimiento sancionatorio ambiental que obran en el expediente permisivo LAM5353, las cuales se entienden incorporadas a este expediente sancionatorio, así: Expediente permisivo LAM5353 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 29 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 30 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Resolución No. 406 del 30 de mayo de 2012, por medio de la cual la ANLA le otorgó licencia ambiental a la entonces sociedad Vetra Exploración y Producción S.A.S., identificada con el NIT No. 860.352.419-2, para el proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM?2”, localizado en jurisdicción de los municipios de Gamarra, Aguachica y Río de Oro en el departamento del César, dentro de las coordenadas allí relacionadas. Asimismo, tomó otras determinaciones. Lo anterior con fundamento en la evaluación efectuada en el Concepto Técnico No. 703 del 8 de mayo de 2012. Resolución No. 1052 del 17 de octubre de 2013, a través de la cual esta Autoridad Ambiental autorizó la cesión total de los derechos y las obligaciones originadas y derivadas de la licencia ambiental otorgada mediante la Resolución No. 406 del 30 de mayo de 2012, a favor de la entonces empresa Exxonmobil Exploration Colombia Limited, identificada con el NIT No. 830.146.410-5 Auto No. 519 del 12 de febrero de 2015, por medio del cual la ANLA efectuó seguimiento y control ambiental al proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM2”, y adoptó otras disposiciones. Lo anterior teniendo en cuenta la evaluación realizada en el Concepto Técnico No. 11575 del 15 de octubre de 2014. Resolución No. 1353 del 11 de noviembre de 2016, a través de la cual esta Autoridad Ambiental autorizó la cesión total de los derechos y obligaciones derivadas de la licencia ambiental otorgada mediante la Resolución No. 406 del 30 de mayo de 2012, a favor de la entonces sociedad Canacol Energy Colombia S.A., identificada con el NIT No. 830.095.563-3 Auto No. 3473 del 27 de junio de 2018, por medio del cual la ANLA efectuó seguimiento y control ambiental al proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM2”; y tomó otras determinaciones. Lo anterior a partir de la evaluación realizada en el Concepto Técnico No. 6235 del 6 de diciembre de 2017. Resolución No. 377 del 15 de marzo de 2019, a través de la cual esta Autoridad Ambiental autorizó la cesión total de los derechos y obligaciones originadas y derivadas de la licencia ambiental otorgada mediante la Resolución No. 406 del 30 de mayo de 2012, a favor de la sociedad Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3 Auto No. 3211 del 20 de mayo de 2019, por medio del cual la ANLA efectuó seguimiento y control ambiental al proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 — VMMM2”, y adoptó otras disposiciones. Lo anterior con fundamento en la evaluación realizada en el Concepto Técnico No. 5978 del 5 de octubre de 2018. Acta de reunión de control y seguimiento ambiental No. 292 del 11 de septiembre de 2020, en la cual, teniendo en cuenta los hallazgos evidenciados en el Concepto Técnico No. 5442 del 31 de agosto de 2020, esta Autoridad Ambiental realizó unos requerimientos. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 30 de 34 35 No. 000183 Del 18 ENE. 2024 Hoja No. 31 de Auto. 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Acta de reunión de control y seguimiento ambiental No. 337 del 30 de julio de 2021, en la cual, a partir de la evaluación efectuada en el Concepto Técnico No. 4339 del 26 de julio de 2021, la ANLA realizó unos requerimientos. Resolución No. 1478 del 24 de agosto de 2021, a través de la cual esta Autoridad Ambiental no aceptó el acogimiento al porcentaje incremental de la base de liquidación de la inversión forzosa de no menos del 1% de conformidad con lo señalado en el artículo 321 del Plan Nacional de Desarrollo — PND (Ley 1955 del 25 de mayo de 2019), presentado por la sociedad Carrao Energy S.A. Sucursal Colombia, para el proyecto “Bloque Exploratorio Valle Medio del Magdalena 2 - VMM2”, localizado en jurisdicción de los Municipios de Aguachica, Río de Oro y Gamarra, en el departamento del Cesar; y tomó otras determinaciones con relación a la inversión forzosa de no menos del 1%. Lo anterior con fundamento en la evaluación efectuada en el Concepto Técnico No. 4339 del 26 de julio de 2021. Acta de reunión de control y seguimiento ambiental No. 984 del 19 de diciembre de 2022, en la cual, teniendo en cuenta la evaluación efectuada en el Concepto Técnico No. 7960 del 19 de diciembre de 2022, la ANLA realizó unos requerimientos. Acta de reunión de control y seguimiento ambiental No. 580 del 4 de septiembre de 2023, en la cual, a partir de la evaluación efectuada en el Concepto Técnico No. 5512 del 31 de agosto de 2023, esta Autoridad Ambiental realizó unos requerimientos. En mérito de lo expuesto,",
+      "pagina_inicio": 29,
+      "pagina_fin": 31,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0037",
+      "numeral": "DISPONE",
+      "tipo_numeral": "dispone",
+      "nivel": 0,
+      "titulo": "DISPONE",
+      "texto": "ARTÍCULO PRIMERO. Ordenar el inicio del procedimiento sancionatorio ambiental contra las so ciedades Vetra Exploración y Producción Colombia S.A.S., identificada con el NIT No. 860.352.419-2, Exxonmobil Exploration Colombia Limited, identificada con el NIT No. 830.146.410-5, Canacol Energy Colombia S.A.S., identificada con el NIT No. 830.095.563-3 y Car rao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3, de conformidad con el artículo 18 de la Ley 1333 de 2009 y con fundamento en las consideraciones expuestas en la parte motiva del presente auto, por los siguientes hechos:",
+      "pagina_inicio": 31,
+      "pagina_fin": 31,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0038",
+      "numeral": "HECHO_PRIMERO",
+      "tipo_numeral": "hecho",
+      "nivel": 1,
+      "titulo": "No presentar el informe con los resultados de monitoreos de cortes de perforación de los pozos perforados en las locaciones PAD 1 y PAD 2 durante el periodo comprendido del 2012 al 2017, con el análisis respectivo, ni se reportó: el volumen de cortes de perforación y/o residuos tratados; la cantidad de insumos utilizados para su estabilización; la ubicación georreferenciada del área donde fueron dispuestos; las acciones desarrolladas con los cortes del pozo Mono Araña 5 en relación con el contenido de hidrocarburos. Lo anterior ocasionó el presunto incumplimiento de las obligaciones establecidas en el artículo décimo segundo de la Resolución No. 406 del 30 de mayo de 2012 y lo contemplado en la Ficha 6. Manejo de residuos líquidos y la Ficha 8. Manejo de residuos sólidos y especiales, aprobadas en el artículo décimo segundo del mismo acto administrativo",
+      "texto": "Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 ANO. 34-72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 31 de 34 Página 31 de 34 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 32 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 31,
+      "pagina_fin": 32,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0039",
+      "numeral": "HECHO_SEGUNDO",
+      "tipo_numeral": "hecho",
+      "nivel": 1,
+      "titulo": "No instalar la red de 10 piezómetros en el área de las locaciones PAD 1 y PAD 2, dentro del periodo comprendido del 2012 al 2017, incumpliendo presuntamente lo establecido en el numeral 2.2 del artículo vigésimo de la Resolución No. 406 del 30 de mayo de 2012 y lo contemplado en la Ficha SM-2. Aguas subterráneas.",
+      "texto": "PARÁGRAFO. El expediente sancionatorio SANO210-00-2023, estará a disposición de las sociedades investigadas y de cualquier persona que así lo requiera, en los términos del artículo 36 de la Ley 1437 de 2011. ARTÍCULO SEGUNDO. Ordenar el inicio del procedimiento sancionatorio ambiental contra las sociedades Exxonmobil Exploration Colombia Limited, identificada con el NIT No, 830.146.410-5, Canacol Energy Colombia S.A.S., identificada con el NIT No. 830.095.563-3 y Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3, de conformidad con el artículo 18 de la Ley 1333 de 2009 y con fundamento en las consideraciones expuestas en la parte motiva del presente auto, por el siguiente hecho:",
+      "pagina_inicio": 32,
+      "pagina_fin": 32,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_blk_0040",
+      "numeral": "HECHO_TERCERO",
+      "tipo_numeral": "hecho",
+      "nivel": 1,
+      "titulo": "No presentar el Informe de Cumplimiento Ambiental correspondiente al periodo comprendido del 1 de julio al 31 diciembre de 2014. Lo anterior generó el presunto incumplimiento de lo establecido en el artículo vigésimo segundo de la Resolución No. 406 del 30 de mayo de 2012; así como lo contemplado en la Resolución No. 77 del 16 de enero de 2019, modificada por la Resolución No. 549 del 26 de junio de 2020, actos administrativos expedidos por el MADS, en lo relacionado con la periodicidad para la presentación de los Informes de Cumplimiento Ambiental.",
+      "texto": "PARÁGRAFO. El expediente sancionatorio SANO210-00-2023, estará a disposición de las sociedades investigadas y de cualquier persona que así lo requiera, en los términos del artículo 36 de la Ley 1437 de 2011. ARTÍCULO TERCERO. Ordenar el inicio del procedimiento sancionatorio ambiental contra la sociedad Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3, de conformidad con el artículo 18 de la Ley 1333 de 2009 y con fundamento en las consideraciones expuestas en la parte motiva del presente auto, por el siguiente hecho: Hecho cuarto: No iniciar la ejecución del Plan de inversión forzosa de no menos del 1%. Lo anterior ocasionó el presunto incumplimiento de lo establecido en el artículo séptimo de la Resolución No. 1478 del 24 de agosto de 2021. PARÁGRAFO. El expediente sancionatorio SANO210-00-2023, estará a disposición de la sociedad investigada y de cualquier persona que así lo requiera, en los términos del artículo 36 de la Ley 1437 de 2011. ARTÍCULO CUARTO. Incorporar a la presente actuación los documentos relacionados en el acápite V. Incorporación de documentos de la parte motiva del presente acto administrativo. PARÁGRAFO. A través del Grupo de Gestión Documental de la Subdirección Administrativa y Financiera de esta Autoridad Ambiental, realizar la incorporación a esta actuación sancionatoria de los documentos referidos en el presente artículo. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 32 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja No. 33 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” ARTÍCULO QUINTO. Notificar el presente auto a las sociedades: Vetra Exploración y Producción Colombia S.A.S., identificada con el NIT No. 860.352.419-2; Exxonmobil Exploration Colombia Limited, identificada con el NIT No. 830.146.410-5; Canacol Energy Colombia S.A.S., identificada con el NIT No. 830.095.563-3; y Carrao Energy S.A. Sucursal Colombia, identificada con el NIT No. 900.398.767-3, a través de su apoderado debidamente constituido de haberse conferido mandato en la presente actuación sancionatoria o, en su defecto, por intermedio de su representante legal o quien haga sus veces, de acuerdo con lo establecido en los artículos 67 y 69 de la Ley 1437 de 2011. PARÁGRAFO. Si las investigadas entran en proceso de disolución o régimen de insolvencia empresarial o liquidación regulados por las normas vigentes, informará inmediatamente esta situación a la ANLA, con fundamento en los artículos 8, 58, 79, 80, 81, 95 numeral 8 de la Constitución Política de Colombia, en la Ley 43 de 1990, en la Ley 222 de 1995, en la Ley 1333 de 2009 y demás normas vigentes y jurisprudencia aplicable. Adicionalmente, realizará la provisión contable respecto de esta obligación contingente, para lo cual deberá tener en cuenta lo dispuesto en el artículo 40 de la Ley 1333 de 20009. ARTÍCULO SEXTO. Cualquier persona podrá intervenir en la presente actuación administrativa ambiental de carácter sancionatorio, de acuerdo con lo contemplado en el artículo 20 de la Ley 1333 de 2009, en concordancia con lo establecido en los artículos 69 y 70 de la Ley 99 de 1993. ARTÍCULO SÉPTIMO. Comunicar este auto a la Procuraduría Delegada para Asuntos Ambientales, Minero Energéticos y Agrarios, de conformidad con lo dispuesto en los artículos 21 y 56 inciso tercero de la Ley 1333 de 2009, para su conocimiento y fines pertinentes. ARTÍCULO OCTAVO. Publicar el presente auto en la Gaceta Ambiental de la ANLA, según lo contemplado en el inciso segundo del artículo 70 de la Ley 99 de 1993. ARTÍCULO NOVENO. Contra este auto de trámite no procede recurso alguno, conforme lo establecido en el artículo 75 de la Ley 1437 de 2011. NOTIFÍQUESE, COMUNÍQUESE, PUBLÍQUESE Y CÚMPLASE Dado en Bogotá D.C., alos 18 ENE. 2024 ANA MARIA ORTEGON MENDEZ COORDINADORA ACTUACIONES SANCIONATORIAS Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 33 de 34 35 Auto. No. 000183 Del 18 ENE. 2024 Hoja Hoja No. 34 de 34 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” nde =— LEIDY ZAMIRA MARINO NINO PROFESIONAL ESPECIALIZADO Ivan Comalez 4 ) 3); IVAN DARIO GONZALEZ GUARIN PROFESIONAL ESPECIALIZADO Expediente sancionatorio SANO0210-00-2023. Concepto Técnico No. 8226 del 28 de diciembre de 2022. Fecha: 13 de octubre de 2023. Proceso No.: 20241420001835 Nota: Este es un documento electrónico generado desde los Sistemas de Información de la ANLA. El original reposa en los archivos digitales de la Entidad Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit.: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 34 de 34 35",
+      "pagina_inicio": 32,
+      "pagina_fin": 34,
+      "tablas_anidadas": []
+    }
+  ],
+  "tablas": [
+    {
+      "id": "AUTO_000183_2024-01-18_tab_000",
+      "seccion": "d",
+      "titulo": "C.",
+      "markdown": "| ('PROGRAMA', 'Unnamed: 0_level_1')   | ('Unnamed: 1_level_0', 'Unnamed: 1_level_1')   | ('FICHA', 'MEDIO ABIÓTICO')                             | ('APLICA', 'SI |')   |\n|:-------------------------------------|:-----------------------------------------------|:--------------------------------------------------------|:---------------------|\n|                                      | 6 |                                            | Manejo de Residuos Líquidos Manejo de Residuos Líquidos |                      |\n| Manejo del Suelo                     | 7                                              | (-..)                                                   | A                    |\n| Manejo del Suelo                     | y                                              | Manejo de Residuos Sólidos y Especiales                 | 57                   |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 3,
+        "columnas": 4
+      },
+      "pagina": 7
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_001",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "| 0        | 1                                                    | 2                                                 | 3                        |\n|:---------|:-----------------------------------------------------|:--------------------------------------------------|:-------------------------|\n| Concepto | REQUERIMIENTO Técnico 05442 del 31 de agosto de 2020 | DEL TITULAR DEL INSTRUMENTO DE | MANEJO Y CONTROL | REQUERIMIENTO DEFINITIVO |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 1,
+        "columnas": 4
+      },
+      "pagina": 9
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_002",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+      "markdown": "| REQUERIMIENTO No. 2 Concepto Técnico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL              | REQUERIMIENTO ORIGINAL / SE MODIFICA EL REQUERIMIENTO          |\n|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------|:---------------------------------------------------------------|\n| resultados de monitoreos de | cortes de perforación de | todos los pozos perforados en el periodo 2012-2016 en las locaciones PAD1 y PAD2 con el análisis respectivo, y reportar el volumen de cortes de perforación y/o residuos tratados, la cantidad de insumos utilizados para su estabilización, la ubicación georreferenciada del área donde fueron dispuestos y los resultados del monitoreo de todos los cortes y/o residuos tratados y dispuestos, así como las acciones desarrolladas con los cortes del pozo Mono Araña 5 en relación con el contenido de hidrocarburos, en cumplimiento de la Ficha 6. Manejo de residuos líquidos y Ficha 8. Manejo de residuos sólidos y especiales, los numerales 10 y 11 del artículo noveno de la Resolución 406 del 30 de mayo de 2012, del numeral 3 del artículo cuarto del Auto 3473 del 27 de junio de 2018, del numeral 11 del artículo primero del Auto | entiende el requerimiento y | dará respuesta al mismo. | mantiene en los términos y literalidad inicialmente expuestas. |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 1,
+        "columnas": 3
+      },
+      "pagina": 10
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_003",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+      "markdown": "| 0   | 1     | 2          | 3   |\n|:----|:------|:-----------|:----|\n| del | 11 de | septiembre | de  |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 1,
+        "columnas": 4
+      },
+      "pagina": 11
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_004",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "| ('REQUERIMIENTO No. 3 Concepto Técnico Presentar el Informe con los', 'REQUERIMIENTO No. 3 Concepto Técnico Presentar el Informe con los')   | ('TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL', '| La sociedad manifiesta que')   | ('Requerimiento definitivo.', 'mantiene')   | ('Requerimiento definitivo.', 'el')   |\n|:---------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:--------------------------------------------|:--------------------------------------|\n| resultados de monitoreos de                                                                                                                  | | no tiene observaciones al                                                                 | requerimiento                               | como                                  |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 1,
+        "columnas": 4
+      },
+      "pagina": 11
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_005",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "| 0                                                      |\n|:-------------------------------------------------------|\n| a. El volumen de cortes de                             |\n| perforación y/o residuos tratados.                     |\n| b. La cantidad de insumos                              |\n| utilizados para su estabilización.                     |\n| C. La ubicación                                        |\n| georreferenciada del área                              |\n| donde fueron dispuestos.                               |\n| d. Las acciones desarrolladas                          |\n| los cortes del Mono                                    |\n| con pozo                                               |\n| Araña 5 en relación con el contenido de hidrocarburos. |\n| Lo anterior en cumplimiento                            |\n| de la Ficha 6. Manejo de residuos líquidos y Ficha 8.  |\n| especiales, los numerales 10                           |\n| y 11 del artículo noveno de la                         |\n| Resolución 406 del 30 de                               |\n| mayo de 2012, del numeral 3                            |\n| del artículo cuarto del Auto                           |\n| 3473 del 27 de junio de 2018,                          |\n| del numeral 11 del artículo                            |\n| primero del Auto 3211 del 20                           |\n| de mayo de 2019, del                                   |\n| requerimiento 6 del acta de                            |\n| seguimiento y control 292 del                          |\n| 11 de septiembre de 2020 y                             |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 25,
+        "columnas": 1
+      },
+      "pagina": 12
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_006",
+      "seccion": "d",
+      "titulo": "C.",
+      "markdown": "| REQUERIMIENTO                                           | ARGUMENTACION DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL   | Requerimiento definitivo.                      |\n|:--------------------------------------------------------|:--------------------------------------------------------------------------|:-----------------------------------------------|\n| REQUERIMIENTO 2.                                        | La sociedad manifestó que entienden y acepta el                           | El requerimiento se mantiene en los términos y |\n| a. El volumen de cortes de                              |                                                                           |                                                |\n| perforación y/o residuos tratados.                      |                                                                           |                                                |\n| b. La cantidad de insumos                               |                                                                           |                                                |\n| utilizados para su                                      |                                                                           |                                                |\n| estabilización.                                         |                                                                           |                                                |\n| La ubicación                                            |                                                                           |                                                |\n| C georreferenciada del área                             |                                                                           |                                                |\n| d. Las acciones desarrolladas                           |                                                                           |                                                |\n| con los cortes del pozo Mono                            |                                                                           |                                                |\n| contenido de hidrocarburos. Lo anterior en cumplimiento |                                                                           |                                                |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 11,
+        "columnas": 3
+      },
+      "pagina": 13
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_007",
+      "seccion": "d",
+      "titulo": "C.",
+      "markdown": "```\nde mayo de 2019, del requerimiento 6 del acta de seguimiento y control 292 del 11 de septiembre de 2020, del requerimiento 2 del Acta 337 del 30 de julio de 2021 y del requerimiento 3 del Acta 984 del 19 de diciembre de 2022.\n```",
+      "fuente": "preformateado",
+      "dimensiones": {},
+      "pagina": 14
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_008",
+      "seccion": "d",
+      "titulo": "C.",
+      "markdown": "| ('| Infraestructu ra', '| Infraestructu ra')   | ('Fecha de o pertoració', 'Fecha de o pertoració')   | ('Coordenadas Magna . : : Sirgas Origen Bogotá', 'Este')   | ('Coordenadas Magna . : : Sirgas Origen Bogotá', 'Norte')   | ('Coordenadas Magna - : A Sirgas Origen Unico Nacional', 'Este')   | ('Coordenadas Magna - : A Sirgas Origen Unico Nacional', 'Norte')   |\n|:-----------------------------------------------|:-----------------------------------------------------|:-----------------------------------------------------------|:------------------------------------------------------------|:-------------------------------------------------------------------|:--------------------------------------------------------------------|\n| Pozo Mono | Araña 1                            | Septiemb re 2012 -— | enero 2013                     | 1050487,5 20                                               | | 1391126,5 90                                              | | 4931656. 64                                                      | | 2456716. 49                                                       |\n| Pozo Mono Araña 11                             | | 129190 | 2015                                      | 1050328,5 0                                                | | 1391134,9 | 0                                             | 4931632. 18                                                        | | 2456721. 45                                                       |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 2,
+        "columnas": 6
+      },
+      "pagina": 14
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_009",
+      "seccion": "d",
+      "titulo": "C.",
+      "markdown": "| Unnamed: 0   | Pozo Mono Araña 2             | Diciembr | e 2013 — enero 2014     | | 1050482,0 96   | | 1391097,0 82   | | 4931785. 46   | | 2456683. 18   |\n|:-------------|:------------------------------|:-----------------------------------|:-----------------|:-----------------|:----------------|:----------------|\n|              | Araña 5                       | Enero 2014                         |                  | 704              | 12              | 74              |\n| PAD 2        | Pozo MONO Araña 9! (antes 1?) | | rparzo aprizora                  | —|1050522,3 | 3  | | 1391077,2 5    | | 4931794. 68   | | 2456732. 31   |\n| PAD 2        | Pozo Mono Capuchino           | Octubre | 2016 -—| abril de | 2017 | 10250471, 65     | | 13911153 3     | | 4931771. 11   | | 2456701. 49   |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 3,
+        "columnas": 7
+      },
+      "pagina": 15
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_010",
+      "seccion": "3.2",
+      "titulo": "Hecho segundo",
+      "markdown": "| PROGRAMA       | FICHA   | ELEMENTO              |\n|:---------------|:--------|:----------------------|\n|                | (..)    | (.)                   |\n| SEGUIMIENTO AL | SM-2    | - Aguas subterráneas. |\n| MEDIO ABIÓTICO |         |                       |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 3,
+        "columnas": 3
+      },
+      "pagina": 15
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_011",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "| 0        | 1                                           | 2                                                 | 3                        |\n|:---------|:--------------------------------------------|:--------------------------------------------------|:-------------------------|\n| Concepto | REQUERIMIENTO A Téenico ss del 31 de agosto | DEL TITULAR DEL INSTRUMENTO DE | MANEJO Y CONTROL | REQUERIMIENTO DEFINITIVO |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 1,
+        "columnas": 4
+      },
+      "pagina": 17
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_012",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "```\n(...) REQUERIMIENTO No. 7 Presentar los soportes de la implementación | N/A de la red de piezómetros en el área de las locaciones PAD1 y PADZ2 y los resultados de los monitoreos trimestrales de las aguas subterráneas en el área de intervención del Bloque Exploratorio VMM2, en cumplimiento de lo establecido en el numeral 2.2 del artículo vigésimo de la Resolución 406 del 30 de mayo de 2012 y de lo propuesto en la Ficha SM-2.\n```",
+      "fuente": "preformateado",
+      "dimensiones": {},
+      "pagina": 17
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_013",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "| 0                                                   |\n|:----------------------------------------------------|\n| Aguas Subterráneas, del Auto 3473 del 27 de de 2018 |\n| quinto junio                                        |\n| el numeral 14 del artículo primero del Auto         |\n| 3211 del 20 de mayo de 2019.                        |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 4,
+        "columnas": 1
+      },
+      "pagina": 18
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_014",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+      "markdown": "```\nOBSERVACIONES DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL ORIGINAL / SE MODIFICA AMBIENTAL EL REQUERIMIENTO Presentar los soportes de la | La Sociedad manifiesta que | El requerimiento se implementación de la red de | entiende el requerimiento y | mantiene en los términos y piezómetros en el área de las | dará respuesta al mismo. literalidad inicialmente locaciones PAD1 y PAD2 y expuestas. los resultados de los monitoreos trimestrales de las aguas subterráneas en el área de intervención del Bloque Exploratorio WMM2, para el periodo 2014 — 2016. En cumplimiento del numeral SE MANTIENE EL REQUERIMIENTO No. 3 REQUERIMIENTO Concepto Técnico\n```",
+      "fuente": "preformateado",
+      "dimensiones": {},
+      "pagina": 18
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_015",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+      "markdown": "| Resolución 406 del 30 de       |\n|:-------------------------------|\n| mayo de 2012 y la Ficha SM-    |\n| 2. Aguas Subterráneas, del     |\n| numeral 1 del artículo quinto  |\n| del Auto 3473 del 27 de junio  |\n| de 2018, del numeral 14 del    |\n| artículo primero del Auto      |\n| 3211 del 20 de mayo de 2019    |\n| y del requerimiento 7 del acta |\n| de seguimiento y control 292   |\n| del 11 de septiembre de        |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 10,
+        "columnas": 1
+      },
+      "pagina": 19
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_016",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "| 0        | 1                                   | 2                | 3   | 4                                            | 5                        |\n|:---------|:------------------------------------|:-----------------|:----|:---------------------------------------------|:-------------------------|\n| Concepto | REQUERIMIENTO Técnico 05442 de 2020 | del 31 de agosto | |   | ARGUMENTACIÓN DEL TITULAR DEL INSTRUMENTO DE | REQUERIMIENTO DEFINITIVO |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 1,
+        "columnas": 6
+      },
+      "pagina": 21
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_017",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "| Unnamed: 0   | Presentar acorde con el Manual de | Seguimiento Ambiental, lo siguiente:                                                                                                                                                                                                                                                                                                                    |\n|:-------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| e e Lo del   | ICA del APE VMM2 correspondientes al segundo semestre de 2014 y al primer semestre de 2015. Registrar en el formato 1a, la totalidad de las fichas aprobadas por esta Autoridad, así como las correspondientes al seguimiento y monitoreo del componente social, con sus respectivos soportes documentales. anterior, en cumplimiento del artículo sexto Auto 3473 del 27 de junio de 2018. |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 1,
+        "columnas": 2
+      },
+      "pagina": 22
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_018",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE LOS REQUERIMIENTOS DE SEGUIMIENTO DETERMINADOS POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIE",
+      "markdown": "| REQUERIMIENTO No. 4 Concepto Técnico                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | OBSERVACIONES DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL                  | SE MANTIENE EL REQUERIMIENTO ORIGINAL / SE MODIFICA EL REQUERIMIENTO                  |\n|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|\n| (...) Presentar los Informes de Cumplimiento Ambiental - ICA correspondientes a los periodos julio - diciembre de 2014, enero - junio de 2015, julio - diciembre de 2018, enero - junio de 2019, julio - diciembre de 2019, en los términos de la Resolución 077 del 16 de enero de 20109, modificada por la Resolución 0549 del 26 de junio de 2020, en cumplimiento del artículo vigésimo segundo de la Resolución 406 del 30 de mayo de 2012, del artículo sexto del Auto 3473 del 27 de junio de 2018 y del requerimiento 8 y 9 del Acta | (...) La Sociedad manifiesta que entiende el requerimiento y dará respuesta al mismo. El | (...) requerimiento se mantiene en los términos y literalidad inicialmente expuestas. |\n| 292 del 11 de septiembre de 2020. (...)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | (...)                                                                                    | (...)                                                                                 |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 2,
+        "columnas": 3
+      },
+      "pagina": 23
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_019",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "| REQUERIMIENTO No. 1 Concepto Técnico   | REQUERIMIENTO No. 1 Concepto Técnico.1             | REQUERIMIENTO No. 1 Concepto Técnico.2   | REQUERIMIENTO No. 1 Concepto Técnico.3   | INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL   | Requerimiento definitivo.   | Requerimiento definitivo..1   |\n|:---------------------------------------|:---------------------------------------------------|:-----------------------------------------|:-----------------------------------------|:--------------------------------------------|:----------------------------|:------------------------------|\n| Presentar                              | los Informes                                       |                                          | de                                       | La sociedad manifiesta que                  | Se mantiene                 | el                            |\n|                                        | Cumplimiento Ambiental                             |                                          | -                                        | no tiene observaciones al                   | requerimiento               | como                          |\n| ICA                                    | correspondientes a                                 |                                          | los                                      | requerimiento.                              | definitivo.                 |                               |\n| siguientes                             | periodos,                                          |                                          | de                                       |                                             |                             |                               |\n| conformidad                            | con                                                |                                          | la                                       |                                             |                             |                               |\n| Resolución                             | 077 del 16                                         |                                          | de                                       |                                             |                             |                               |\n| enero                                  | de 2019, modificada                                |                                          |                                          |                                             |                             |                               |\n| por la de junio                        | Resolución 549 del de 2020:                        |                                          | 26                                       |                                             |                             |                               |\n| e                                      | 1 de julio a diciembre de 2014,                    |                                          | 31                                       |                                             |                             |                               |\n| e                                      | junio de 2015, 1 de julio a 31                     |                                          | de                                       |                                             |                             |                               |\n| e                                      | diciembre de 2018, 1 de enero a 30                 |                                          | de                                       |                                             |                             |                               |\n| e e                                    | 1 de julio a 31 diciembre de 2019, 1 de enero a 30 |                                          | de de                                    |                                             |                             |                               |\n|                                        | junio de 2020 y 1 de julio a diciembre de 2020,    |                                          | 31                                       |                                             |                             |                               |\n| Lo a lo                                | anterior, en cumplimiento establecido en el        | artículo                                 |                                          |                                             |                             |                               |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 14,
+        "columnas": 7
+      },
+      "pagina": 24
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_020",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALE",
+      "markdown": "| YUE REQUERIMIENTO                                     | ARGUMENTACIÓN DEL TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL   | Requerimiento definitivo.            |\n|:------------------------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------|\n| REQUERIMIENTO 6.                                      | La sociedad manifestó que, el ICA del                                     | Teniendo en cuenta las realizadas la |\n| Presentar los Informes de                             | primer semestre del 2015, se entregó                                      | precisiones por sociedad la ANLA, se |\n|                                                       |                                                                           | y por                                |\n| Cumplimiento Ambiental -                              | mediante radicado                                                         | ajusta el requerimiento el           |\n| ICA correspondiente a los periodos comprendidos entre | 2015064628-1-000 del 3 de diciembre de 2015.                              | cual quedará de la siguiente manera: |\n| el 1 de julio al 31 diciembre de 1 de al 30 de        | señaló                                                                    | Presentar el Informe de              |\n| 2014 y enero                                          | ANLA, por su parte                                                        |                                      |\n| junio de 2015, en                                     | que una vez verificado el                                                 | Cumplimiento Ambiental -             |\n| cumplimiento de lo                                    | radicado mencionado, es                                                   | ICA correspondiente al               |\n| establecido en el artículo                            | preciso retirar del                                                       | periodo comprendido entre            |\n| vigésimo segundo de la                                | requerimiento la                                                          | el 1 de julio al 31 diciembre        |\n| Resolución 406 del 30 de                              | presentación del ICA para el                                              | de 2014, en cumplimiento de          |\n| mayo de 2012, el artículo                             | periodo del primer semestre                                               | lo establecido en el artículo        |\n| sexto del Auto 3473 del 27 de                         | de 2015, toda vez que en el                                               | vigésimo segundo de la               |\n| junio de 2018, del                                    | radicado que la sociedad                                                  | Resolución 406 del 30 de             |\n| requerimiento 8 del Acta 292                          | indica, se remitió a esta                                                 | mayo de 2012, el artículo            |\n| del 11 de septiembre de                               | Autoridad el ICA (1 de enero                                              | sexto del Auto 3473 del 27           |\n| 2020, requerimiento 4 del                             | al 30 de junio de 2015); por                                              | de junio de 2018, del                |\n| Acta 337 del 30 de julio de                           | lo tanto, se ajustará el                                                  | requerimiento 8 del Acta 292         |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 19,
+        "columnas": 3
+      },
+      "pagina": 25
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_021",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALE",
+      "markdown": "| Cumplimiento 1 de julio al 31 de 2014.   | Ambiental del de diciembre   |\n|:-----------------------------------------|:-----------------------------|\n| anotación en                             | deja la presente             |\n| ICA del primer 2015.                     | correspondiente semestre de  |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 2,
+        "columnas": 2
+      },
+      "pagina": 26
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_022",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN DE CADA REQUERIMIENTO DE CONTROL Y SEGUIMIENTO AMBIENTAL DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS",
+      "markdown": "| Unnamed: 0                  | Unnamed: 1   |\n|:----------------------------|:-------------|\n| séptimo de la               | Resolución   |\n| 1478 del 24 de agosto 2021. | de           |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 2,
+        "columnas": 2
+      },
+      "pagina": 28
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_023",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALE",
+      "markdown": "| ('REQUERIMIENTO mo.', 'REQUERIMIENTO mo.')   | ('TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL', '(...)')   | ('TITULAR DEL INSTRUMENTO DE MANEJO Y CONTROL AMBIENTAL', 'Unnamed: 2_level_1')   | ('Requerimiento', '(...)')   | ('definitivo.', 'Unnamed: 4_level_1')   |\n|:---------------------------------------------|:---------------------------------------------------------------------|:----------------------------------------------------------------------------------|:-----------------------------|:----------------------------------------|\n| REQUERIMIENTO 4.                             | La sociedad                                                          | acepta el                                                                         | |El                          | requerimiento se                        |\n|                                              | requerimiento                                                        | en los                                                                            | mantiene en                  | los términos y                          |\n| soportes inicio de la ejecución del Plan     | expuestos ANLA.                                                      | por                                                                               | expuestas.                   |                                         |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 3,
+        "columnas": 5
+      },
+      "pagina": 28
+    },
+    {
+      "id": "AUTO_000183_2024-01-18_tab_024",
+      "seccion": "3",
+      "titulo": "PRESENTACIÓN Y MOTIVACIÓN DE REQUERIMIENTOS DE SEGUIMIENTO DETERMINADO POR LA AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALE",
+      "markdown": "| 0                          |\n|:---------------------------|\n| mayo de 2019, en           |\n| cumplimiento del artículo  |\n| séptimo de la Resolución   |\n| 1478 del 24 de agosto de   |\n| 2021 y el requerimiento 14 |\n| del Acta 984 del 19 de     |\n| diciembre de 2022.         |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 7,
+        "columnas": 1
+      },
+      "pagina": 29
+    }
+  ],
+  "metadata": {
+    "pipeline": "ANLA_parser_v5",
+    "id_estrategia": "determinista",
+    "fecha_procesamiento": "2026-05-22T20:33:46",
+    "total_bloques": 38,
+    "total_tablas": 25,
+    "elementos_procesados": 534,
+    "tipos_elemento": {
+      "Image": 3,
+      "UncategorizedText": 112,
+      "NarrativeText": 260,
+      "Title": 62,
+      "Header": 40,
+      "ListItem": 28,
+      "Table": 25,
+      "Footer": 1,
+      "FigureCaption": 3
+    },
+    "tablas_con_fallback_pdfplumber": 0
+  }
+}

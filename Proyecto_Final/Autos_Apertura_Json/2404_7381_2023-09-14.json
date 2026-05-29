@@ -1,0 +1,266 @@
+{
+  "id_documento": "AUTO_007381_2023-09-14",
+  "filename": "2404_7381_2023-09-14.pdf",
+  "tipo_documento": "AUTO",
+  "numero_documento": "7381",
+  "fecha_documento": "2023-09-14",
+  "fecha_ordinal": 20230914,
+  "expediente_sancionatorio": "SAN0175-00-2023",
+  "expediente_permisivo": "LAM0471",
+  "empresa": "PERENCO COLOMBIA LTD",
+  "nit_investigado": "860.032.463-4",
+  "proyecto": "Desarrollo Bloques 1 y 2, Asociación Corona A, B y Garcero B",
+  "municipio": null,
+  "municipios": null,
+  "ubicacion": null,
+  "materias": [
+    "obligaciones_seguimiento_ica",
+    "contingencias_ambientales",
+    "gestion_del_riesgo",
+    "compensacion_inversion"
+  ],
+  "materias_score": {
+    "contingencias_ambientales": 3,
+    "gestion_del_riesgo": 3,
+    "obligaciones_seguimiento_ica": 40,
+    "compensacion_inversion": 1
+  },
+  "bloques": [
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0000",
+      "numeral": "INTRO",
+      "tipo_numeral": "intro",
+      "nivel": 0,
+      "titulo": "ENCABEZADO Y PROEMIO",
+      "texto": "Libertad y Orden República de Colombia República de Colombia Ministerio de Ambiente y Desarrollo Sostenible AUTORIDAD NACIONAL DE LICENCIAS AMBIENTALES - ANLA – AUTO N° 7381 (14 SEP. 2023) “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” La Coordinadora del Grupo de Actuaciones Sancionatorias Ambientales adscrito a la Oficina Asesora Jurídica de la Autoridad Nacional de Licencias Ambientales – ANLA En uso de las facultades legales establecidas en la Ley 99 de 1993 y en la Ley 1333 de 2009, así como de las conferidas por el Decreto - Ley 3573 de 2011, modificado por el Decreto 376 de 2020, y de las asignadas mediante la Resolución No. 254 del 02 de febrero de 20211 , modificada por la Resolución No. 404 del 17 de febrero de 2022, el artículo 1° de la Resolución No. 155 del 04 de enero de 20222, y CONSIDERANDO",
+      "pagina_inicio": 1,
+      "pagina_fin": 1,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0001",
+      "numeral": "i",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Asunto por decidir",
+      "texto": "De conformidad con el seguimiento efectuado por la Autoridad Nacional de Licencias Ambientales (en adelante ANLA) y teniendo en cuenta las consideraciones del Concepto Técnico No. 4388 del 21 de julio de 2023, se procede a iniciar un procedimiento sancionatorio ambiental en contra de la sociedad Perenco Colombia Ltd., con NIT 860.032.463-4, por los hechos acaecidos en el marco del desarrollo del proyecto “Desarrollo Bloques 1 y 2, Asociación Corona A, B y Garcero B” (en adelante proyecto), localizado en jurisdicción del Departamento del Casanare.",
+      "pagina_inicio": 1,
+      "pagina_fin": 1,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0002",
+      "numeral": "SEC_II",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Competencia",
+      "texto": "La ANLA es competente para iniciar, adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, teniendo en cuenta que es la autoridad facultada para otorgar y efectuar seguimiento al instrumento ambiental del presente proyecto. Dicha facultad le fue transferida del Ministerio de Ambiente y Desarrollo Sostenible - MADS, de acuerdo con la desconcentración administrativa prevista en los numerales 1°, 2° y 7° del artículo 3° del Decreto 3573 de 2011, en concordancia con lo previsto en el artículo 2 de la Ley 1333 de 2009, 1 “Por la cual se crean los Grupos Internos de Trabajo de la Autoridad Nacional de Licencias Ambientales, se asignan sus funciones y se dictan otras disposiciones” 2 “Por la cual se designa Coordinador del Grupo de Actuaciones Sancionatorias Ambientales de la Autoridad Nacional de Licencias Ambientales – ANLA” Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 1 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 2 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” siendo por ende competente para el ejercicio de la potestad sancionatoria ambiental que pueda derivarse de los hechos sucedidos en ejecución de este proyecto. En relación con el procedimiento ambiental sancionatorio, la Resolución No. 254 del 02 de febrero de 2021, modificada por la Resolución No. 404 del 17 de febrero de 2022, emanada de la Dirección General de la ANLA, asignó como funciones al Grupo de Actuaciones Sancionatorias Ambientales las siguientes: “3. Adelantar oportunamente las indagaciones preliminares, investigaciones y/o actuaciones sancionatorias en contra de las personas naturales o jurídicas, (…), 4. (…) suscribir con oportunidad los actos administrativos de impulso y preparatorios, comunicaciones y oficios propios de la actuación preliminar, investigativa y sancionatoria, los de reconocimiento de terceros intervinientes de conformidad con lo establecido en el artículo 28 de la Ley 1333 de 2009, así como resolver recursos de reposición contra los autos que niegan pruebas y, las demás actividades administrativas que deban surtirse con ocasión del ejercicio de la potestad sancionatoria ambiental”.",
+      "pagina_inicio": 1,
+      "pagina_fin": 2,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0009",
+      "numeral": "3.6",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "A través de la Resolución No.426 del 07 de marzo de 2006, el Ministerio modificó la Resolución No. 542 del 20 de junio de 1997, en el sentido de autorizar la perforación exploratoria del pozo Remache Norte 3, Remache Norte 4, Remache Sur 3 y Remache Sur 4, así como la construcción de sus líneas de flujo.",
+      "texto": "Página 2 de 18 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 3 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 2,
+      "pagina_fin": 3,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0018",
+      "numeral": "3.15",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "Mediante oficio No. 2023048475-2- 000 del 09 de marzo de 2023, la ANLA solicitó a la sociedad verificar si la localización del cambio menor se encontraba dentro del área del proyecto y área de influencia y verificar si el cambio menor a solicitar necesitaba nuevos permisos ambientales.",
+      "texto": "Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 3 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 4 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 3,
+      "pagina_fin": 4,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0020",
+      "numeral": "3.17",
+      "tipo_numeral": "subnumeral",
+      "nivel": 2,
+      "titulo": "Mediante Acta de reunión de Control y Seguimiento Ambiental No. 332 del 15 de junio de 2023, la ANLA solicitó a la sociedad: i. Presentar la información requerida respecto del oficio No. 2023018894- 1-000 del 31 de enero de 2023, ii. Presentar la justificación y/o aclaración respecto de la sobreposición con la zonificación de manejo de los pozos Remache Sur 2 y 3, Estación caño Gandul, pozo Gandul 1, pozo Gandul 7, Pozo Remache Sur 7 y sus locaciones, y iii. Aclarar la situación evidenciada con relación a la intervención del Bosque de Galería.",
+      "texto": "IV. Consideraciones jurídicas El artículo 79 de la Constitución Política de Colombia establece el derecho de todas las personas a gozar de un ambiente sano y el deber del Estado de proteger su diversidad e integridad planificando “el manejo y aprovechamiento de los recursos naturales, para garantizar su desarrollo sostenible, su conservación, restauración o sustitución” además de “prevenir y controlar los factores de deterioro ambiental, imponer las sanciones legales y exigir la reparación de los daños causados”. El artículo 8 y el numeral 8 del artículo 95 de la Carta Política señalan como obligación del Estado y de las personas la protección de las riquezas culturales y naturales de la Nación y la conservación de un ambiente sano; así mismo, el artículo 58 ibídem determina que “la propiedad es una función social que implica obligaciones. Como tal, le es inherente una función ecológica”. Por su parte, la Ley 1333 de 2009 “por la cual se establece el procedimiento sancionatorio ambiental y se dictan otras disposiciones”, determina la titularidad de la potestad sancionatoria ambiental en el Estado, a través de las autoridades ambientales de acuerdo con sus respectivas competencias, y define en su artículo 5 como infracción ambiental: “ toda acción u omisión que constituya violación de las normas contenidas en el Código de Recursos Naturales Renovables, Decreto-ley 2811 de 1974, en la Ley 99 de 1993, en la Ley 165 de 1994 y en las demás disposiciones ambientales vigentes en que las sustituyan o modifiquen y en los actos administrativos emanados de la autoridad ambiental competente. Será también constitutivo de infracción ambiental la comisión de un daño al medio ambiente, con las mismas condiciones que para configurar la responsabilidad civil extracontractual establece el Código Civil y la legislación complementaria, a saber: El daño, el hecho generador con culpa o dolo y el vínculo causal entre los dos. Cuando estos elementos se configuren darán lugar a una sanción administrativa ambiental, sin perjuicio de la responsabilidad que para terceros pueda generar el hecho en materia civil”. El Decreto Ley 3573 de 2011 creó la Autoridad Nacional de Licencias Ambientales – ANLA – como una Unidad Administrativa Especial del orden nacional, con autonomía administrativa y financiera, sin personería jurídica, adscrita al Ministerio de Ambiente y Desarrollo Sostenible (MADS) y le otorgó, entre otras, la competencia de otorgar o negar las licencias, permisos y trámites ambientales de competencia del hoy Ministerio de Ambiente y Desarrollo Sostenible, y de manera expresa, la función de adelantar y culminar el procedimiento de investigación, preventivo y sancionatorio en materia ambiental, de acuerdo con lo dispuesto en la Ley 1333 de 2009. Página 4 de 18 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 5 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 4,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0021",
+      "numeral": "SEC_V",
+      "tipo_numeral": "seccion",
+      "nivel": 1,
+      "titulo": "Caso concreto",
+      "texto": "La presente actuación surge de las evidencias señaladas en el Concepto Técnico No. 4388 del 21 de julio de 2023, mediante el cual, el Grupo Norte Orinoquía adscrito a la Subdirección de Seguimiento de Licencias Ambientales, solicitó a la Oficina Asesora Jurídica iniciar un proceso sancionatorio, con el fin de determinar si en ejecución del proyecto se incurrió o no en infracción ambiental, teniendo en cuenta los siguientes hechos: Primer hecho: Instalación de la línea de flujo para conducción de fluidos desde la plataforma Remache Norte 7 a la Subestación Rechame Norte y de la Subestación Remache Norte a la Estación Caño Gandul, sin la presentación de un informe con la descripción detallada de la actividad a ejecutar, de conformidad con lo establecido en el artículo 5° de la Resolución No. 855 del 05 de agosto de 2022. Al respecto, el precitado concepto técnico consideró lo siguiente: “Condición de modo: (…) La Sociedad mediante radicación 2023018894-1-000 del 31 de enero de 2023, informó a la Autoridad Nacional su intención de acogerse a lo establecido en el numeral 3.4 del artículo cuarto de la Resolución No. 0855 del 05 de agosto de 2022, para la instalación de nuevas líneas de flujo entre CGL-RMN 5.5.” y pozo RMN 7 – Subestación RMN 5.5” en DDV existente, indicando como descripción de la actividad lo siguiente:",
+      "pagina_inicio": 5,
+      "pagina_fin": 5,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0023",
+      "numeral": "b",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Instalación de línea de transferencia entre el pozo RMN7 y Sub estación RMN nueva en 5.5” SCH 40 en una longitud de 1,8 kilómetros, dentro del derecho de vía existente.",
+      "texto": "Así mismo, incluyó una imagen en PDF del trazado de la línea de flujo objeto de construcción, e indicó que “En cuanto al plan de Gestión de Riesgo (PGDR) no es necesaria la actualización una vez que los trazados van por DDV existentes y los volúmenes de flujos y presiones a manejar son similares a los contemplados dentro del PGDR, allegado a la ANLA mediante radicado 2021010688-1-000 del 25/01/2021”, sin embargo, en el comunicado no indicó los volúmenes de flujo ni las presiones, así como tampoco incluyó un informe técnico sobre el desarrollo de las actividades indicadas en el oficio de acogimiento al numeral 3.4 del Artículo Cuarto de la Resolución No. 0855 del 05 de agosto de 2022. Una vez revisado el radicado 2023018894-1-000 del 31 de enero de 2023 presentado por la Sociedad, la Autoridad Nacional emitió los siguientes comunicados, respecto al comunicado en referencia: - Radicación 2023032840-2-000 del 21 de febrero de 2023, dando respuesta al comunicado presentado por la Sociedad con Radicación 2023018894-1-000 del 31 de enero de 2023, en el cual se indicó a la Sociedad que, como resultado de la revisión preliminar de la información cartográfica presentada junto Página 5 de 18 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 6 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” con el informe de cambio menor, se evidenciaron presuntas inconsistencias que se relacionan en la lista de chequeo número 40830, y que hacen referencia a: o De acuerdo con lo observado en las imágenes satelitales consultadas, en efecto se identificó que la línea a construir se encuentra sobre el derecho de vía de otra línea de acuerdo con lo que indica la empresa. No obstante, se identificó que el trazado se sale del bloque licenciado del proyecto en aproximadamente 1.5 Km… o De acuerdo con las imágenes satelitales de alta resolución espacial consultadas, no se requiere el uso o aprovechamiento de recursos naturales adicionales a los contemplados inicialmente, debido a que se encontraría dentro del derecho de vía de una línea de fujo existente, no obstante, es necesario verificar la autorización del trazado de la línea de fujo existente puesto que está por fuera del área licenciada, así mismo, los permisos para los cruces con cuerpos de agua - Mediante radicación 2023048475-2-000 del 09 de marzo de 2023, esta Autoridad Nacional solicitó al titular de la Licencia Ambiental, aclarar las inconsistencias relacionadas con: o Verificar si la localización del cambio menor se encuentra dentro del área de proyecto y área de influencia. o Verificar si el cambio menor a solicitar necesita nuevos permisos ambientales (Ej: Ocupaciones de Cauce, Aprovechamiento Forestal, entre otros), de acuerdo con la imagen satelital consultada (…) La Sociedad dio respuesta al radicado 2023048475-2-000 del 9 de marzo de 2023, mediante comunicación 20236200023352 del 21 de abril de 2023, en la cual indicó que la licencia ambiental otorgada al proyecto, autorizó la construcción de la línea de flujo (existente) en una longitud de 9300 metros, así mismo manifestó que no requiere otro tipo de permisos. La Sociedad mediante comunicado con radicación 20236200026512 del 24 de abril de 2023, presentó respuesta al radicado 2023032840-2-000 del 21 de febrero de 2022, indicando que la instalación de la línea de flujo se realizó en los derechos de vía de las líneas de flujo existentes, que fueron autorizadas y están ubicadas al interior del proyecto y que por tanto, se considera cambio menor; así mismo hizo referencia que esta línea fue autorizada en el numeral 6 del artículo segundo de la Resolución 114 del 28 de enero de 2005 y que en el documento radicado en enero de 2023 describió las actividades a realizar incluyendo el mapa de localización debidamente georreferenciado y que no se requería la actualización del Plan de contingencias debido a que los volúmenes de flujos y presiones a manejar son similares a los contemplados en el plan de gestión de riesgo de desastres presentado mediante radicación 2021010688-1-000 del 25 de enero de 2021. Es de anotar, que la Sociedad dio respuesta a los requerimientos efectuados por la Autoridad Nacional el 21 y el 24 de abril de 2023, tal como se indica en los párrafos anteriores, sin embargo, durante la visita de control y seguimiento ambiental realizada al proyecto del 24 al 28 de abril, el equipo de seguimiento de ANLA, encontró que esta línea ya estaba construida, no obstante, es de resaltar que en la información que presentó la Sociedad mediante radicación 2023018894-1-000 del 31 de enero de 2023, no incluyó la descripción detallada de las actividades a ejecutar, tal como lo establece el artículo quinto de la Resolución 855 del 05 de agosto de 2022: Previo a la ejecución de las actividades descritas en el artículo 4°, el titular de la licencia ambiental o su equivalente deberá presentar ante la Autoridad Nacional de Licencias Ambientales (ANLA), un informe con destino al expediente contentivo de la autorización ambiental en el que se describa de manera detallada las actividades a ejecutar, a efecto de ser tenido en cuenta en el proceso de seguimiento y control ambiental que se realizará en Página 6 de 18 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 7 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” los términos del artículo 2.2.2.3.9.1 del Decreto 1076 de 2015, o la norma que la complemente, sustituya o modifique. Dicho informe contendrá lo siguiente:",
+      "pagina_inicio": 5,
+      "pagina_fin": 7,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0024",
+      "numeral": "1",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Descripción de la actividad, incluyendo planos o mapas de localización y su respectiva georreferenciación. 2. Justificación de que la actividad se adecúa a una de las causales del artículo 4o de la presente resolución. 3. Para las actividades que requieran actualización del Plan de Contingencia, este deberá ser remitido junto con el informe previsto. La actualización del Plan de Contingencia aplica no solo en los casos en que esto se identifica específicamente en el cambio menor considerado, sino donde resulta pertinente, partiendo del conocimiento del usuario del cambio menor que realiza.",
+      "texto": "Así las cosas, la Autoridad Nacional considera que el documento presentado por la Sociedad, no corresponde a un informe con el alcance exigido en el artículo quinto de la Resolución 855 del 05 de agosto de 2022, donde se describiera de manera detallada las actividades a ejecutar, por lo siguiente:",
+      "pagina_inicio": 7,
+      "pagina_fin": 7,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0028",
+      "numeral": "d",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "En el comunicado mencionado, la Sociedad no reportó ni precisó si en el tendido/instalación de las nuevas líneas de flujo (en especial la de 9,3 km de extensión) había cruces especiales, en este caso de cuerpos de agua superficiales, ni de vías; sin embargo, la Autoridad Nacional identificó que en el trazado la línea atraviesa el caño Las Lucias, tal como se muestra en la siguiente imagen, resaltando que en el documento presentado por la Sociedad tampoco aportó sobre este cruce, el tipo del mismo, ni detalló los métodos constructivos a utilizar en esa actividad específica.",
+      "texto": "(…)",
+      "pagina_inicio": 7,
+      "pagina_fin": 7,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0031",
+      "numeral": "g",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "No hay claridad sobre si la tubería existente de 4 ½”, que se encontraba en este DDV, sería objeto de desmantelamiento y abandono técnico; tampoco se informa sobre los procedimientos a aplicar para el desarrollo de estas actividades.",
+      "texto": "Página 7 de 18 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 8 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL”",
+      "pagina_inicio": 7,
+      "pagina_fin": 8,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0033",
+      "numeral": "i",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establecer que realmente el Plan de Gestión de Riesgo (PGDR), no requería actualizarse.",
+      "texto": "Condición de tiempo: La Sociedad mediante radicación 2023018894-1-000 del 31 de enero de 2023, informó a la Autoridad Nacional que realizaría la instalación de una línea de flujo para la conducción de fluidos, la cual iría desde la plataforma Remache Norte 7 hasta la Subestación Remache Norte y desde la Subestación Remache Norte hasta la Estación Caño Gandul. El 21 de febrero de 2023, la Autoridad Nacional realizó una visita al proyecto para la atención de una queja presentada por la construcción de línea de flujo de este, emitiendo el informe de visita con radicación 2023039883-3-000 del 28 de febrero de 2023, en el cual se indicó que: durante el recorrido se evidenció que la sociedad PERENCO COLOMBIA LIMITED se encontraba adelantando actividades de avanzada para la instalación de las líneas de flujo en el proyecto Bloque Corocora A2, tal y como se evidencia en las fotografías 7 y 8, no obstante, durante el recorrido no se observó directamente el cambio de ninguna tubería. Al respecto, la Autoridad Nacional requiere la aclaración de información presentada mediante las radicaciones 2023032840-2-000 del 21 de febrero de 2023 y 2023048475-2-000 del 09 de marzo de 2023. La Sociedad presentó respuesta a los requerimientos establecidos por la Autoridad Nacional, mediante las radicaciones 2023048475-2-000 del 21 de abril de 2023 y 20236200026512 del 24 de abril de 2023. Por último, se tiene que, del 24 al 28 de abril de 2023, cuando la Autoridad Nacional realizó la visita de control y seguimiento ambiental al proyecto, se encontró que la línea de flujo ya se encontraba construida, sin que previamente se hubiera presentado el informe que describiera de manera detallada las actividades a ejecutar por parte de la Sociedad PERENCO COLOMBIA LIMITED, antes, del adelanto de dicha construcción Condición de Lugar: A continuación, se indican los puntos de inicio y fin de cada uno de los tramos de la línea de flujo instalada por la Sociedad, bajo la figura de cambio menor, comunicado a la Autoridad Nacional mediante radicación 2023018894-1-000 del 31 de enero de 2023. LOCALIZACIÓN LÍNEA DE FLUJO INSTALADA MEDIANTE FIGURA DE CAMBIO MENOR Fuente: ICA 15 – LAM0471 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 8 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 9 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” En la siguiente figura, se presenta la localización espacial de la línea de flujo instalada como un cambio menor, informado mediante radicación 2023018894-1-000 del 31 de enero de 2023 (allí se incluye el cruce del caño las Lucías) Localización de la línea de flujo instalada entre el pozo Remache Norte 7 - Subestación Remache Norte - Estación Caño Gandul, mediante cambio menor Fuente: SIG/WEB, ANLA, consultado 10 de julio de 2023 (…)” En virtud de lo consignado en el precitado insumo técnico, se puede establecer que la sociedad no remitió el informe detallado de las actividades que iba a desarrollar, previamente a la instalación de la línea de flujo, de conformidad con lo establecido en el artículo 5° de la Resolución No. 855 del 05 de agosto de 2022. Por lo cual, se determina que existe mérito para iniciar la presente investigación a fin de determinar si el hecho referenciado y todos aquellos que le sean conexos, constituye infracción ambiental en los términos previstos en el artículo 5° de la Ley 1333 de 2009. Segundo hecho: Construcción de la infraestructura correspondiente a las plataformas de los pozos Remache Sur 2 y 3 y su locación, Estación Caño Gandul, Pozo Gandul 1, Pozo Gandul 7 y su locación, sobre áreas de exclusión. En lo concerniente a este hecho, el Concepto Técnico No. 4388 del 21 de julio de 2023, estableció: “Condición de modo: La conducta detallada y que motiva el presente análisis técnico corresponde a la construcción de la infraestructura de las plataformas de los pozos Remache Sur 2 y 3 y su locación; Estación Caño Gandul, pozo Gandul 1, el Pozo Gandul 7 y su locación, sobre áreas de exclusión, de acuerdo con lo evidenciado en el Seguimiento Documental Espacial (SDE) No. 21982 del 07 de septiembre de 2020. Página 9 de 18 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239. Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 10 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” En la siguiente figura, se muestra la localización de la infraestructura correspondiente a los pozos Remache Sur 3 y Remache Sur 2, superpuesta con áreas de exclusión, de acuerdo con el análisis realizado por el Equipo de Geomática del grupo de valoración y manejo de impactos de esta Autoridad, a la información que incluyó la Sociedad en el Informe de Cumplimiento Ambiental (ICA) No. 12. CONVENCIONES e aun E Ares de interemoón os Hesreción Se A, Areas ca Encrcnión. EN ess a ——— Drenaje Sercón Plaret Scope del 20 de agosto de 2020 12. 1550 , e 2% 40 € A . A SS Localización de la infraestructura de los pozos Remache Sur 3 y Remache sur 2, superpuesta en áreas de exclusión Fuente: Seguimiento Documental Espacial No. 21982 del 07 de septiembre de 2020. En la siguiente figura, se muestra la localización de la infraestructura correspondiente a los pozos Caño Gandul 7, Caño Gandul 1 y Estación Caño Gandul, que tienen superposición con áreas de exclusión, de acuerdo con el análisis realizado por esta Autoridad a lo reportado en el Informe de Cumplimiento Ambiental (ICA) No. 12. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239. Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 1 www.anla.gov.co Email: licencias(danla.gov.co Página 10 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 11 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” CONVENCIONES e. Pe Ez Área de imerencór son Restricción Baja Pg MA drean te Exch io Planet Scupe del 29 de agosto de 2019 m0. * ? az Y pa Localización de la infraestructura de los pozos Caño Gandul 7, Caño Gandul 1 y Estación Caño Gandul - superpuesta en áreas de exclusión Fuente: Seguimiento Documental Espacial No. 21982 del 07 de septiembre de 2020. Condición de tiempo: La Autoridad Nacional verificó la información reportada por la Sociedad en el Informe de Cumplimiento Ambiental (ICA) No.12, generando el Seguimiento Documental Espacial (SDE) No. 21982 del 07 de septiembre de 2020. Posteriormente, la Autoridad Nacional realizó la verificación del Informe de Cumplimiento Ambiental (ICA) No. 13, generando el Seguimiento Documental (SDE) No. 32471 del 30 de noviembre de 2021, en el cual nuevamente se evidenció la sobreposición de la infraestructura de los pozos y las estaciones con las áreas de exclusión, razón por la cual, mediante el Requerimiento No. 2 del Acta de Control y Seguimiento Ambiental No. 202 del 2 de mayo de 2022, se requirió a la Sociedad, para que en un término de tres (3) meses, contados a partir del día hábil siguiente a la firma de la precitada Acta para que Presente la justificación y/o aclaración respecto de la sobreposición con la zonificación de manejo de los pozos Remache Sur 2 y 3, su locación; Estación caño Gandul, pozo Gandul 1, pozo Gandul 7 y su locación, Pozo Remache Sur 7 y locación. La Sociedad no presentó la respuesta a este Requerimiento dentro del plazo indicado, sino que la incluyó en el formato ICA 3A, del Informe de Cumplimiento Ambiental (ICA) No. 15, el cual presentó mediante radicación 2023069022-1-000 del 31 de marzo de 2023, donde indicó lo siguiente: Respecto a este requerimiento, es claro que la zonificación de manejo ambiental que se encuentra descrita para el Bloque Corocora A2, considera una metodología desarrollada a partir del EIA presentado para el licenciamiento del bloque, en donde se consideró que, entre otros aspectos que “Las áreas de exclusión corresponden a aquellas áreas que no podrán ser intervenidas por las actividades de perforación de desarrollo. Dentro del área de influencia del proyecto, solo se excluye la actividad de perforación de pozos, pruebas de producción y construcción de Página 11 de 18 Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 12 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” facilidades de producción en los cuerpos de agua superficiales (Río Pauto, Caño Ulere, Majagua y Candul) y subterráneos y la infraestructura vial existente en el área”. (ANEXOS\\OTROS ANEXOS\\15. RES_REQU_ICA 15\\SHP_RES_REQ2) Sin embargo, la sociedad PERENCO COLOMBIA LIMITED se encuentra en la actualización del EIA que permita la modificación de la LAG del bloque Corocora A2 para lo cual, se considera una zonificación de manejo que incorpore la definición exacta de la infraestructura existente y su influencia con los distintos elementos ambientales. Así las cosas, con la Zonificación Ambiental que se presentará para el bloque Corocora A2 se busca establecer áreas o zonas que conforman espacios claramente delimitados donde interactúan variables abióticas, bióticas y socioeconómicas, definiendo las limitaciones de uso y la protección de los recursos naturales. Se busca fundamentar en el grado de sensibilidad de los componentes ambientales, es decir, la susceptibilidad al daño o pérdida del elemento ambiental. No obstante, cabe señalar que el artículo 83 Decreto 2811 de 1974, indica lo siguiente: “Salvo derechos adquiridos por particulares, son bienes inalienables e imprescriptibles del Estado: ….",
+      "pagina_inicio": 8,
+      "pagina_fin": 12,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_007381_2023-09-14_tab_000",
+          "seccion": "i",
+          "titulo": "La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establec",
+          "markdown": "| PUNTO         |\n|:--------------|\n| Norte 7       |\n| Norte         |\n| Remache Norte |\n| Caño Gandul   |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 4,
+            "columnas": 1
+          },
+          "pagina": 8
+        }
+      ]
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0034",
+      "numeral": "d",
+      "tipo_numeral": "literal",
+      "nivel": 2,
+      "titulo": "Una faja paralela a la línea de mareas máximas o a la del cauce permanente de ríos y lagos, hasta de treinta metros de ancho”.",
+      "texto": "Así mismo, el artículo tercero de la Resolución 112 del 2007, estableció la zonificación ambiental para el manejo del proyecto y definió como áreas de exclusión, los cuerpos de agua superficial y sus áreas de protección. Por otro lado, en el artículo décimo de la Resolución 112 del 2007, se estableció la prohibición de adelantar obras dentro de la franja de propiedad del Estado, a la que se refiere el literal d) del artículo 83 del Decreto 2811 de 1974, citado anteriormente. En este orden de ideas, de acuerdo con la información reportada por la Sociedad, no se dio cumplimiento a esta obligación, siendo que la no intervención de las rondas de protección es aplicable a todos los cuerpos de agua presentes en el área de influencia del proyecto. Con base en lo señalado en los párrafos anteriores, la Autoridad Nacional no comparte la respuesta presentada, toda vez que la ronda de protección no se limita únicamente a los cuerpos de agua Río Pauto, Caño Ulere, Majagua y Gandul, si no que, como se indicó anteriormente, debe ser extensiva a todas las fuentes hídricas al interior del proyecto. Por esta razón, mediante el Requerimiento No. 25 del Acta 332 del 15 de junio de 2023, se reiteró a la Sociedad presentar la aclaración respectiva. Condición de lugar: En la siguiente tabla se presentan las coordenadas en origen único nacional, de la infraestructura superpuesta con las áreas de exclusión, identificada en los Seguimientos Documentales Espaciales (SDE), correspondientes a los Informes de Cumplimiento Ambiental (ICA) No. 12, 13, 14 y 15. LOCALIZACIÓN INFRAESTRUCTURA QUE PRESENTA SUPERPOSICIÓN CON ÁREAS DE EXCLUSIÓN Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 12 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 13 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” En la siguiente figura se representa la espacialización de la infraestructura y la zonificación de manejo ambiental y los principales puntos de superposición con áreas de exclusión: LL MA MI Aces de intervención con Restnccós Da Localización de la infraestructura LAM0471 vs zonificación de manejo Fuente: SDE 32471 del 28 de noviembre de 2021 (…)” En consideración de lo anterior, se puede evidenciar que la sociedad efectuó la construcción de las plataformas de los pozos Remache Sur 2 y 3 y su locación, Estación Caño Gandul, Pozo Gandul 1, Pozo Gandul 7 y su locación, sobre áreas de exclusión. Por lo cual, se determina que existe mérito para iniciar la presente investigación a fin de determinar si el hecho referenciado y todos aquellos que le sean conexos, constituye infracción ambiental en los términos previstos en el artículo 5° de la Ley 1333 de 2009. Tercer hecho: Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 13 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 14 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Presunta intervención en bosque de galería en un área aproximada de 2,67 hectáreas, en las coordenadas origen este E992434 N1063286. Al respecto, el precitado concepto técnico consideró lo siguiente: “Condición de modo: La conducta detallada y que motiva el presente análisis técnico corresponde a la presunta intervención en una franja de bosque de galería del caño Sotero, en un área aproximada de 2,67 ha., en las coordenadas origen este E992434 N1063286, identificada mediante el Seguimiento Documental Espacial (SDE) No. 21982 del 07 de septiembre de 2020, donde esta Autoridad realizó el análisis de la información presentada por la Sociedad en el Informe de Cumplimiento Ambiental (ICA) No. 12. Condición de tiempo: En el Seguimiento Documental Espacial (SDE) No. 21982 del 07 de septiembre de 2020, se identificó la presunta intervención en un bosque de galería en un área aproximada de 2,67 ha., en las coordenadas origen este E992434 N1063286, con base en lo reportado por la Sociedad en el Informe de Cumplimiento Ambiental (ICA) No. 12, razón por la cual, mediante el Requerimiento No. 29 del Acta No. 497 del 4 de diciembre de 2020, con término de cumplimiento para el Informe de Cumplimiento Ambiental (ICA) correspondiente al 2021, se solicitó a la Sociedad presentar los ajustes que sean necesarios o aclarar la situación evidenciada, según corresponda, en relación con la intervención en bosque de galería o protector de cauce de 2,675 ha, localizada aproximadamente en coordenadas magna sirgas Colombia origen este E992.434 N1063286, según el hallazgo identificado en el SDE 21982 del 8 de septiembre de 2020 para ICA 12 del Bloque Corocora A2. Respecto a este Requerimiento, la Sociedad en el formato ICA 3A del Informe de Cumplimiento Ambiental (ICA) No. 13, indicó que Perenco se encuentra realizando las actividades pendientes a dar cumplimiento a las obligaciones impuestas por el presente requerimiento. Posteriormente y con base en la respuesta de la Sociedad, mediante el Requerimiento No. 36 del Acta 202 del 2 de mayo de 2022, la Autoridad Nacional reiteró lo requerido en el Requerimiento No. 29 del Acta No. 497 del 4 de diciembre de 2020. Al respecto la Sociedad en el Formato ICA 3A del Informe de Cumplimiento Ambiental (ICA) No. 15, indicó que Perenco se encuentra realizando las actividades pendientes a dar cumplimiento a las obligaciones impuestas por el presente requerimiento y dará respuesta a la Autoridad mediante radicado por oficio. Así las cosas, se establece como hecho cierto que la Sociedad PERENCO COLOMBIA LIMITED, a la fecha 19 de julio de 2023, no ha presentado la información, y por ende, no ha dado cumplimiento a lo requerido por la Autoridad Nacional. Condición de lugar: Como se ha mencionado, mediante el Seguimiento Documental Espacial (SDE) No. 21982 del 8 de septiembre de 2020, se identificó una presunta intervención de un área de 2,675 ha., en un bosque de galería y la sobreposición de la infraestructura de los pozos las y estaciones (sic), con áreas de exclusión de la zonificación de manejo ambiental, presentada por la Sociedad en la base de datos geográficos del Informe de Cumplimiento Ambiental (ICA) No. 12, en las coordenadas origen este E992434 N1063286. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 14 de 18 Página 14 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 15 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” En la siguiente figura se presenta la espacialización de esta área: une CONVENCIONES e e » Pete L pa ; PA Work View 82 del 18 de lebrero de 201 Oreja Graña \"> Presunta intervención Bosque de Galería Fuente: SDE 21982 del 07 de septiembre de 2020 (…)” En virtud de lo consignado en el precitado insumo técnico, se puede evidenciar que hubo una presunta intervención en bosque de galería en un área aproximada de 2,67 hectáreas. Por lo cual, se determina que existe mérito para iniciar la presente investigación a fin de determinar si el hecho referenciado y todos aquellos que le sean conexos, constituye infracción ambiental en los términos previstos en el artículo 5° de la Ley 1333 de 2009. VI. Incorporación de documentos En virtud de lo dispuesto en el artículo 22 de la Ley 1333 del 2009, según el cual para la verificación de los hechos, la autoridad ambiental competente podrá realizar todo tipo de diligencias administrativas y todas aquellas actuaciones que estime necesarias y pertinentes para determinar con certeza los hechos constitutivos de infracción, serán incorporados los siguientes elementos de prueba, los cuales serán apreciados en su conjunto con las pruebas recaudadas durante el trámite sancionatorio y en la oportunidad procesal pertinente. Lo anterior, conforme a los criterios de la conducencia, pertinencia y necesidad, calificados para demostrar la configuración o no del hecho objeto de estudio, ya que aportan la información necesaria e idónea para que esta Autoridad llegue al pleno convencimiento acerca de la conducta materia de investigación. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.co Email: licencias(danla.gov.co Página 15 de 18 Página 15 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 16 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” En consecuencia, se relacionan los documentos fundamento del inicio del procedimiento sancionatorio ambiental, que se entienden incorporados al expediente, así:",
+      "pagina_inicio": 12,
+      "pagina_fin": 16,
+      "tablas_anidadas": [
+        {
+          "id": "AUTO_007381_2023-09-14_tab_001",
+          "seccion": "d",
+          "titulo": "Una faja paralela a la línea de mareas máximas o a la del cauce permanente de ríos y lagos, hasta de treinta metros de a",
+          "markdown": "| 0                    | 1           | 2         |\n|:---------------------|:------------|:----------|\n| Estación Caño Gandul | | 5.205.913 | 2.130.274 |\n| Caño Gandul 1        | 5.205.812   | 2.130.302 |\n| Caño Gandul 7        | 5.205.302   | 2.129.302 |",
+          "fuente": "html",
+          "dimensiones": {
+            "filas": 3,
+            "columnas": 3
+          },
+          "pagina": 12
+        }
+      ]
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0035",
+      "numeral": "1",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Resolución No. 542 del 20 de junio de 1997.",
+      "texto": "7=D0ORAN>",
+      "pagina_inicio": 16,
+      "pagina_fin": 16,
+      "tablas_anidadas": []
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_blk_0051",
+      "numeral": "17",
+      "tipo_numeral": "simple",
+      "nivel": 1,
+      "titulo": "Acta de reunión de Control y Seguimiento Ambiental No. 332 del 15 de junio de 2023, la cual tuvo como sustento técnico el Concepto Técnico No. 3262 del 08 de junio de 2023.",
+      "texto": "En mérito de lo expuesto, DISPONE ARTÍCULO PRIMERO. - Ordenar el inicio del procedimiento sancionatorio ambiental en contra de la sociedad Perenco Colombia Ltd., con NIT 860.032.463-4, de conformidad con el artículo 18 de la Ley 1333 de 2009 y con fundamento en las consideraciones expuestas en la parte motiva del presente acto administrativo. PARÁGRAFO. El Expediente SAN0175-00-2023, estará a disposición de la investigada y de cualquier persona que así lo requiera, en los términos del artículo 36 de la Ley 1437 de 2011. ARTÍCULO SEGUNDO. - Incorpórese a la presente actuación los documentos relacionados en el acápite “VI. Incorporación de documentos” de la parte motiva del presente acto administrativo. PARÁGRAFO. - A través del Grupo de Gestión Documental de la Subdirección Administrativa y Financiera de esta Autoridad, realícese la incorporación a esta actuación sancionatoria de la copia integral de cada uno de los documentos enlistados en el numeral “VI. Incorporación de Documentos” de esta providencia. Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 16 de 18 Página 16 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 17 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” ARTÍCULO TERCERO. - Notificar el presente acto administrativo a la sociedad Perenco Colombia Ltd., con NIT 860.032.463-4, de conformidad con los artículos 66 y siguientes de la Ley 1437 de 2011. PARÁGRAFO. Si la investigada entra en proceso de disolución o régimen de insolvencia empresarial o liquidación regulados por las normas vigentes, informará inmediatamente esta situación a la ANLA, con fundamento en los artículos 8, 58, 79, 80, 81 y numeral 8 del artículo 95 de la Constitución Política de 1991, en la Ley 43 de 1990, en la Ley 222 de 1995, en la Ley 1333 de 2009 y demás normas vigentes y jurisprudencia aplicable. Adicionalmente, realizará la provisión contable respecto de esta obligación contingente, para lo cual deberá tener en cuenta lo dispuesto en el artículo 40 de la Ley 1333 de 2009. ARTÍCULO CUARTO. - De acuerdo con lo establecido en el artículo 20 de la Ley 1333 de 2009, en concordancia con los artículos 69 y 70 de la Ley 99 de 1993, cualquier persona podrá intervenir en la presente actuación administrativa ambiental de carácter sancionatorio. ARTÍCULO QUINTO. - Comunicar el presente acto administrativo a la Procuraduría Delegada para Asuntos Ambientales, de conformidad con el artículo 21 y el inciso 3 del artículo 56 de la Ley 1333 de 2009, para su conocimiento y fines pertinentes. ARTÍCULO SEXTO. - Publicar el presente acto administrativo en la Gaceta Ambiental de la Autoridad Nacional de Licencias Ambientales - ANLA, de conformidad con el inciso 2° del artículo 70 de la Ley 99 de 1993. ARTÍCULO SEPTIMO. - Contra el presente acto administrativo no procede recurso alguno, de conformidad con el artículo 75 de la Ley 1437 de 2011. NOTIFÍQUESE, COMUNÍQUESE, PUBLÍQUESE Y CÚMPLASE Dado en Bogotá D.C., a los 14 SEP. 2023 N / Ed Y) Po DÍ UA UV PU ] ES y ANA MARIA ORTEGON MENDEZ COORDINADORA ACTUACIONES SANCIONATORIAS £ here fe LEIDY ALEJANDRA VARGAS CALDERON CONTRATISTA CONSUELO BARRAGAN AVILA CONTRATISTA Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 17 de 18 Auto. No. 7381 Del 14 SEP. 2023 Hoja No. 18 de 18 “POR EL CUAL SE ORDENA EL INICIO DE UN PROCEDIMIENTO SANCIONATORIO AMBIENTAL” Expediente No. SAN0175-00-2023 Concepto Técnico No. Proceso No.: 20231420073815 Nota: Este es un documento electrónico generado desde los Sistemas de Información de la ANLA. El original reposa en los archivos digitales de la Entidad Oficinas: Carrera 13 A No. 34 — 72 Edificio 13 35 Pisos 8 al 10 Bogotá, D.C. Centro de Orientación y Radicación de Correspondencia: Carrera 13 A No. 34 — 72 Edificio 13 35 Locales 110 al 112 Bogotá, D.C. Código Postal 110311156 Nit: 900.467.239-2 Línea de Orientación y Contacto Ciudadano: 57 (1) 2540100 / 018000112998 PBX: 57 (1) 2540111 www.anla.gov.cco Email: licencias(danla.gov.co Página 18 de 18",
+      "pagina_inicio": 16,
+      "pagina_fin": 18,
+      "tablas_anidadas": []
+    }
+  ],
+  "tablas": [
+    {
+      "id": "AUTO_007381_2023-09-14_tab_000",
+      "seccion": "i",
+      "titulo": "La Sociedad no presentó las proyecciones de los volúmenes a transportar o los soportes técnicos que permitieran establec",
+      "markdown": "| PUNTO         |\n|:--------------|\n| Norte 7       |\n| Norte         |\n| Remache Norte |\n| Caño Gandul   |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 4,
+        "columnas": 1
+      },
+      "pagina": 8
+    },
+    {
+      "id": "AUTO_007381_2023-09-14_tab_001",
+      "seccion": "d",
+      "titulo": "Una faja paralela a la línea de mareas máximas o a la del cauce permanente de ríos y lagos, hasta de treinta metros de a",
+      "markdown": "| 0                    | 1           | 2         |\n|:---------------------|:------------|:----------|\n| Estación Caño Gandul | | 5.205.913 | 2.130.274 |\n| Caño Gandul 1        | 5.205.812   | 2.130.302 |\n| Caño Gandul 7        | 5.205.302   | 2.129.302 |",
+      "fuente": "html",
+      "dimensiones": {
+        "filas": 3,
+        "columnas": 3
+      },
+      "pagina": 12
+    }
+  ],
+  "metadata": {
+    "pipeline": "ANLA_parser_v5",
+    "id_estrategia": "determinista",
+    "fecha_procesamiento": "2026-05-22T17:40:11",
+    "total_bloques": 15,
+    "total_tablas": 2,
+    "elementos_procesados": 254,
+    "tipos_elemento": {
+      "Image": 27,
+      "NarrativeText": 117,
+      "Title": 42,
+      "UncategorizedText": 5,
+      "Header": 17,
+      "ListItem": 42,
+      "FigureCaption": 2,
+      "Table": 2
+    },
+    "tablas_con_fallback_pdfplumber": 0
+  }
+}
